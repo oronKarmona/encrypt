@@ -45,9 +45,10 @@ public class InputCheckerTest {
 	 */
 	@Test
 	public void invalid_option_selectionTest() {
-		
-		when(ic.option_selected(4)).thenReturn("error");
-		assertEquals(ic.option_selected(4),"error");		
+		ic = new InputChecker();
+		String result = ic.option_selected(4);
+		String expected = "error";
+		assertEquals(result,expected);		
 	}
 	
 	/***
@@ -57,8 +58,10 @@ public class InputCheckerTest {
 	 */
 	@Test
 	public void valid_option_selectionTest() {
-		when(ic.option_selected(1)).thenReturn("encryption");
-		assertEquals(ic.option_selected(1),"encryption");
+		ic = new InputChecker();
+		String result = ic.option_selected(1);
+		String expected = "encryption";
+		assertEquals(result,expected);	
 	}
 	/***
 	 * Test for valid change string to int
@@ -66,9 +69,10 @@ public class InputCheckerTest {
 	 */
 	@Test
 	public void valid_to_integerTest() {
-			
-		when(ic.to_integer("1")).thenReturn(1);
-		assertEquals(ic.to_integer("1"),1);
+		ic = new InputChecker();
+		int result = ic.to_integer("1");
+		int expected = 1;
+		assertEquals(result,expected);
 		
 	}
 	
@@ -78,8 +82,11 @@ public class InputCheckerTest {
 	 */
 	@Test
 	public void invalid_to_integerTest() {
-		when(ic.to_integer("string")).thenReturn(-1);
-		assertEquals(ic.to_integer("string"),-1);
+		
+		ic = new InputChecker();
+		int result = ic.to_integer("String");
+		int expected = -1;
+		assertEquals(result,expected);
 		
 	}
 	
