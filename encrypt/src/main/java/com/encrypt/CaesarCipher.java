@@ -25,7 +25,8 @@ public class CaesarCipher extends Cipher{
 	}
 	
 	/***
-	 * Encrypts the input with the generated key and save it into output arraylist
+	 * Encrypts the input with the generated key and output it
+	 * Return - encrypted byte array 
 	 */
 	@Override
 	public byte[] encrypt() 
@@ -49,6 +50,10 @@ public class CaesarCipher extends Cipher{
 		return temp;
 	}
 
+	/***
+	 * Decrypts the input with the user's key
+	 * Return - the decrypted srting
+	 */
 	@Override
 	public String decrypt() 
 	{
