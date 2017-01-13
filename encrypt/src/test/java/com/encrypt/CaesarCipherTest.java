@@ -95,11 +95,12 @@ public class CaesarCipherTest {
 	public void checkDecryption_smallerThanMinTest()
 	{
 		CaesarCipher cc2 = new CaesarCipher();
-		byte[] input = {-126,-125};
+		byte[] input = {5,3};
 		cc2.setInput(input);
 		cc2.setKey((byte)cc2.getMaximalValue());
+		cc2.setInput(cc2.encrypt());
 		String result = cc2.decrypt();
-		byte[] e = {12,0};
+		byte[] e = {5,3};
 		String expected = new String(e);
 		
 		assertTrue(expected.equals(result));

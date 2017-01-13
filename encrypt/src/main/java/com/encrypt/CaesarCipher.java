@@ -58,12 +58,14 @@ public class CaesarCipher extends Cipher{
 	public String decrypt() 
 	{
 		byte[] temp = this.getInput();
-		
+		int a,b; 
 		for(int i = 0 ; i < temp.length ; i++)
 		{
 			if (temp[i]-this.getKey() < minimalValue)
 			{
-				temp[i] = (byte) (maximalValue - (temp[i] - this.getKey() - minimalValue));
+				a = temp[i] - this.getKey();
+				b = a -minimalValue;
+				temp[i] = (byte)(maximalValue +b) ;
 			}
 			
 			else
