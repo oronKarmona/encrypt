@@ -16,8 +16,15 @@ public abstract class Cipher {
 	protected byte key; 
     protected byte[] input;
 	protected byte[] output;
-	
+	/***
+	 * Encrypts the input with selected encryption algorithm
+	 * @return encrypted byte array
+	 */
 	public abstract byte[] encrypt();
+	/***
+	 * Decrypts the input with selected decryption algorithm
+	 * @return decrypted byte array
+	 */
 	public abstract String decrypt();
 	
 	

@@ -6,6 +6,7 @@ import java.io.File;
 import java.util.Scanner;
 
 import com.encrypt.Ciphers.CaesarCipher;
+import com.encrypt.Ciphers.Cipher;
 
 public class Main {
 
@@ -17,67 +18,37 @@ public static void main(String[] args)
 	Scanner in = new Scanner(System.in);
 	InputChecker ic = new InputChecker();
 	FileManager file = new FileManager();
+	UserOptions om = new UserOptions();
 	String path ; 
+	Cipher algorithm ;
 	String file_content ; 
 	CaesarCipher cc = new CaesarCipher();
 	byte[] data = null;
-
+	
+	// selected algorithm by user
+	algorithm = om.algorithms_menu();
+	
 	/*  action selected by user = {Encryption , Decryption }
 	 * if user entered invalid selection he will be asked to enter new one
 	 */
-	while(!status)
-	{
-		System.out.print("Press 1: for encryption " + "\n" + "press 2:for decryption"+"\n");
-		
-		instruction = in.nextLine();
-		input = ic.to_integer(instruction);
-		
-		if(input == -1)
-		{
-			System.out.println("Enter only number value");
-			instruction = "error"; // error
-		}
-		else
-			instruction = ic.option_selected(input);
-		
-		if(instruction.equals("error")) // if wrong input
-			status = false;
-		else 
-			status = true;
+	EnumCipher option = om.eOrd(); 
 	
-	
-	}
-	
-	System.out.println("Enter a file path:");
-	status = false ; 
 	
 	/*
 	 * Checking if file path valid
 	 * if not the user will be asked to enter again
 	 */
-	while(!status) // checking existence of the file
+	
+	file = om.file_path();
+	if((data = file.ReadBytes()) != null)
 	{
-		path = in.nextLine();
-		
-		file.setFile(new File(path));
-		if((data = file.ReadBytes()) == null)
-			break;
-		
-		file_content = 	ic.file_path(path);
-		
-		if(!file_content.equals("error"))
-		{
-			status = true ; 	
-			/*
-			 * File encryption
-			 */
-			if(instruction.equals("encryption"))
+			if(option.equals(EnumCipher.Encryption))
 			{
-				System.out.println("Your encryption key is: " + (int)cc.createKey());
-				cc.setInput(data);
+				System.out.println("Your encryption key is: " + (int)algorithm.createKey());
+				algorithm.setInput(data);
 				
 				// writing the encrypted bytes to file.encrypted
-				if(file.writeBytesToFile(file.getFile().getPath() +".encrypted", cc.encrypt()) )
+				if(file.writeBytesToFile(file.getFile().getPath() +".encrypted", algorithm.encrypt()) )
 				{
 					System.out.println("File has been encrypted successfully!");
 					System.out.println("File saved at: " +file.getFilePathNoType()+".encrypted");
@@ -85,19 +56,16 @@ public static void main(String[] args)
 				
 				else
 					System.out.println("Encryption failed!");
-				
 			}
-			/*
-			 * File decryption
-			 */
-			else if(instruction.equals("decryption"))
+			
+			else if(option.equals(EnumCipher.Decryption))
 			{
 				System.out.println("Enter key:");
-				instruction = in.nextLine();
-				cc.setKey((byte) ic.to_integer(instruction));
-				cc.setInput(data);
 				
-				if(file.writeStringTofile(file.getFilePathNoType()+"_decrypted"+"."+file.getFile().getPath().split("\\.")[1], cc.decrypt()))
+				algorithm.setKey((byte) ic.to_integer( in.nextLine()));
+				algorithm.setInput(data);
+				
+				if(file.writeStringTofile(file.getFilePathNoType()+"_decrypted"+"."+file.getFile().getPath().split("\\.")[1], algorithm.decrypt()))
 						{
 							System.out.println("File has been decrypted successfully!");
 							System.out.println("File saved at: " +file.getFile().getPath().split("\\.")[0]+"_decrypted"+"."+file.getFile().getPath().split("\\.")[1]);
@@ -105,15 +73,9 @@ public static void main(String[] args)
 				else
 					System.out.println("Decryption failed!");
 			}
-		}
-		
-		else
-		{
-			status = false ;
-			System.out.println("Invalid path ,please enter a valid one");
 			
-		}
 	}
+  
 	
 	in.close();
 		

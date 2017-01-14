@@ -42,7 +42,7 @@ public class FileManager {
 			 data = Files.readAllBytes(file.toPath());
 			 return data;
 			} 
-		catch (IOException e) {
+		catch (Exception e) {
 			System.out.println("Failed to read file");
 			e.printStackTrace();
 			return null;
