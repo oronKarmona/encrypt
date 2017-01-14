@@ -5,14 +5,14 @@ import static org.mockito.Mockito.*;
 import org.junit.Before;
 import org.junit.Test;
 
-public class InputCheckerTest {
+public class UserOptionsTest {
 	
-	InputChecker ic ; 
+	UserOptions ic ; 
 	
 	@Before
 	public void create()
 	{
-		ic = mock(InputChecker.class);
+		ic = mock(UserOptions.class);
 	}
 	
 	/**
@@ -45,7 +45,7 @@ public class InputCheckerTest {
 	 */
 	@Test
 	public void invalid_option_selectionTest() {
-		ic = new InputChecker();
+		ic = new UserOptions();
 		String result = ic.option_selected(4);
 		String expected = "error";
 		assertEquals(result,expected);		
@@ -58,7 +58,7 @@ public class InputCheckerTest {
 	 */
 	@Test
 	public void valid_option_selectionTest() {
-		ic = new InputChecker();
+		ic = new UserOptions();
 		String result = ic.option_selected(1);
 		String expected = "encryption";
 		assertEquals(result,expected);	
@@ -69,7 +69,7 @@ public class InputCheckerTest {
 	 */
 	@Test
 	public void valid_to_integerTest() {
-		ic = new InputChecker();
+		ic = new UserOptions();
 		int result = ic.to_integer("1");
 		int expected = 1;
 		assertEquals(result,expected);
@@ -83,7 +83,7 @@ public class InputCheckerTest {
 	@Test
 	public void invalid_to_integerTest() {
 		
-		ic = new InputChecker();
+		ic = new UserOptions();
 		int result = ic.to_integer("String");
 		int expected = -1;
 		assertEquals(result,expected);

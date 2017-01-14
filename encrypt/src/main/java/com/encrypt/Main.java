@@ -12,17 +12,10 @@ public class Main {
 
 public static void main(String[] args)
 {
-	String instruction = "error";
-	int input ; 
-	boolean status = false;
 	Scanner in = new Scanner(System.in);
-	InputChecker ic = new InputChecker();
 	FileManager file = new FileManager();
 	UserOptions om = new UserOptions();
-	String path ; 
 	Cipher algorithm ;
-	String file_content ; 
-	CaesarCipher cc = new CaesarCipher();
 	byte[] data = null;
 	
 	// selected algorithm by user
@@ -62,7 +55,7 @@ public static void main(String[] args)
 			{
 				System.out.println("Enter key:");
 				
-				algorithm.setKey((byte) ic.to_integer( in.nextLine()));
+				algorithm.setKey((byte) om.to_integer( in.nextLine()));
 				algorithm.setInput(data);
 				
 				if(file.writeStringTofile(file.getFilePathNoType()+"_decrypted"+"."+file.getFile().getPath().split("\\.")[1], algorithm.decrypt()))
