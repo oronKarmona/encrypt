@@ -1,7 +1,8 @@
-package com.encrypt;
+package com.encrypt.Ciphers;
+
+import com.encrypt.Cipher;
 
 
-import lombok.Getter;
 /***
  * This class will be used for of Ceasar Cipher algorithm
  * @author Oron
@@ -9,20 +10,6 @@ import lombok.Getter;
  */
 public class CaesarCipher extends Cipher{
 
-	@Getter private final int maximalValue = Byte.MAX_VALUE + 0 ;
-	@Getter private final int minimalValue =  Byte.MIN_VALUE  + 0;
-	
-	
-	/***
-	 * Creates key from value min to max value of char.
-	 * return the key generated.
-	 */
-	@Override
-	public byte createKey() {
-	
-		this.key = (byte) ((Math.random() * maximalValue) + minimalValue);
-		return key;
-	}
 	
 	/***
 	 * Encrypts the input with the generated key and output it

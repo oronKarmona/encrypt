@@ -5,6 +5,8 @@ package com.encrypt;
 import java.io.File;
 import java.util.Scanner;
 
+import com.encrypt.Ciphers.CaesarCipher;
+
 public class Main {
 
 public static void main(String[] args)
