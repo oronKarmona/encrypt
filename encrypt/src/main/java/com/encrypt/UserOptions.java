@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 import com.encrypt.Ciphers.CaesarCipher;
 import com.encrypt.Ciphers.Cipher;
+import com.encrypt.Ciphers.MWOCipher;
 import com.encrypt.Ciphers.XorCipher;
 /***
  * This class is used to show options for the user
@@ -45,23 +46,25 @@ public int to_integer(String input)
 	 * Showing the user a menu where he can choose a cipher algorithm
 	 * @return cipher object
 	 */
-	Cipher algorithms_menu()
+	Cipher algorithms_menu(int result)
 	{
-		int result = 0 ; 
 		boolean status = false;
 		while(!status)
 		{
-			System.out.println("Select an algorithm");
-			System.out.println("Press 1 for caesar algorithm");
-			System.out.println("Press 2 for xor algorithm");
-			System.out.println("press 3 for Multiplication algorithm");
-			
-			result = to_integer(input.nextLine());
 			
 			if( result == 1 || result == 2 || result == 3 )
 				status = true;
+			
 			else
+			{
 				System.out.println("Please enter ONLY numbers as shown");
+				System.out.println("Select an algorithm");
+				System.out.println("Press 1 for caesar algorithm");
+				System.out.println("Press 2 for xor algorithm");
+				System.out.println("press 3 for Multiplication algorithm");
+				
+				result = to_integer(input.nextLine());
+			}
 		}
 		
 		if(result == 1 )
@@ -70,7 +73,8 @@ public int to_integer(String input)
 		else if(result == 2)
 			return (new XorCipher());
 		else
-			return null;
+			return (new MWOCipher());
+			
 		
 	}
 	
