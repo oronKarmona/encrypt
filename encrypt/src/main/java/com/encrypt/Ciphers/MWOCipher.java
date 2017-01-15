@@ -7,12 +7,14 @@ public class MWOCipher extends Cipher{
 		
 		byte[] temp = this.getInput();
 		int mul; 
+		start("Encryption");
 		for(int i = 0 ; i < temp.length ; i++)
 		{
 			mul = (((int)input[i]) * ((int)this.getKey()));
 			temp[i] = (byte)mul;
 		}
 		
+		End("Encryption");
 		this.setInput(temp); 
 		return this.getInput();
 	}
@@ -26,7 +28,7 @@ public class MWOCipher extends Cipher{
 		
 		if(this.getKey() %2 == 0 || this.getKey() == 0 )
 				throw new Exception();
-		
+		start("Decryption");
 		// finding the opposite number to the key used in enryption
 		for(int i = this.getMinimalValue(); i <= this.getMaximalValue();i++)
 		{
@@ -45,6 +47,7 @@ public class MWOCipher extends Cipher{
 			temp[i] = (byte)(((int)input[i]) * ((int)dec_key));
 		}
 		
+		End("Decryption");
 		this.setOutput(temp);
 		return new String(output);
 	}

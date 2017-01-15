@@ -20,6 +20,8 @@ public class CaesarCipher extends Cipher{
 		
 		byte[] temp = this.getInput();
 		
+		start("Encryption");
+
 		for(int i = 0 ; i < temp.length ;i++)
 		{
 			if( (this.getKey() + temp[i]) > maximalValue)
@@ -32,7 +34,8 @@ public class CaesarCipher extends Cipher{
 			}
 		}
 		
-		
+		End("Encryption");
+
 		return temp;
 	}
 
@@ -45,6 +48,9 @@ public class CaesarCipher extends Cipher{
 	{
 		byte[] temp = this.getInput();
 		int a,b; 
+		
+		start("Decryption");
+		
 		for(int i = 0 ; i < temp.length ; i++)
 		{
 			if (temp[i]-this.getKey() < minimalValue)
@@ -59,6 +65,8 @@ public class CaesarCipher extends Cipher{
 				temp[i] = (byte)(temp[i] - this.getKey());
 			}
 		}
+		
+		End("Decryption");
 		String s = new String(temp);
 			return s;
 	}
