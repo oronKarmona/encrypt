@@ -6,6 +6,7 @@ import java.util.Scanner;
 import com.encrypt.Ciphers.CaesarCipher;
 import com.encrypt.Ciphers.Cipher;
 import com.encrypt.Ciphers.MWOCipher;
+import com.encrypt.Ciphers.ReverseCipher;
 import com.encrypt.Ciphers.XorCipher;
 /***
  * This class is used to show options for the user
@@ -50,6 +51,9 @@ public int to_integer(String input)
 		System.out.println("Press 1 for caesar algorithm");
 		System.out.println("Press 2 for xor algorithm");
 		System.out.println("press 3 for Multiplication algorithm");
+		System.out.println("press 4 for Double algorithm");
+		System.out.println("press 5 for Reverse algorithm");
+		System.out.println("press 6 for Split algorithm");
 	}
 	
 	/**
@@ -62,7 +66,7 @@ public int to_integer(String input)
 		while(!status)
 		{
 			
-			if( result == 1 || result == 2 || result == 3 )
+			if( result>=1 && result <=6  )
 				status = true;
 			
 			else
@@ -78,12 +82,55 @@ public int to_integer(String input)
 		
 		else if(result == 2)
 			return (new XorCipher());
-		else
+		
+		else if(result == 3)
 			return (new MWOCipher());
+		
+		else if (result == 4)
+			return null;
+		
+		else if(result == 5)
+			return (new ReverseCipher(secondCipher(),null));
+		
+		else 
+			return null;
 			
 		
 	}
 	
+	private Cipher secondCipher()
+	{
+		int result = 0;
+		boolean status = false ;
+		while(!status)
+		{
+				System.out.println("please select a second cipher:");
+				System.out.println("Press 1 for caesar algorithm");
+				System.out.println("Press 2 for xor algorithm");
+				System.out.println("press 3 for Multiplication algorithm");
+				
+				result = to_integer(input.nextLine());
+				
+				if( result == 1 || result == 2 || result == 3 )
+					status = true;
+				
+				else
+				{
+					System.out.println("Please enter ONLY numbers as shown");
+				
+				}
+		}
+		
+		if(result == 1 )
+			return (new CaesarCipher());
+		
+		else if(result == 2)
+			return (new XorCipher());
+		
+		else 
+			return (new MWOCipher());
+
+	}
 	/***
 	 * Checks if the user wants encryption or decryption
 	 * @return enum represents the selected option

@@ -2,6 +2,9 @@ package com.encrypt.Ciphers;
 
 
 import java.util.Observable;
+import java.util.Scanner;
+
+import com.encrypt.UserOptions;
 
 import lombok.Data;
 import lombok.Getter;
@@ -20,10 +23,10 @@ public abstract class Cipher extends Observable implements Operations{
 	protected byte[] output;
 	protected long start_time ; 
 	
-	public byte createKey() {
+	public void createKey() {
 	
 		this.key = (byte) ((Math.random() * maximalValue) + minimalValue);
-		return key;
+		System.out.println("Your encryption key is: " + (int)key);
 	}
 	
 	public void start(String msg)
@@ -42,6 +45,32 @@ public abstract class Cipher extends Observable implements Operations{
 	{
 		setChanged();
 		notifyObservers(msg);
+	}
+	
+	
+	public String getName()
+	{
+		String s = this.getClass().getName();
+		String[] names = s.split("\\.");
+		
+		return names[names.length - 1 ];
+	}
+	
+	public void decryptionKey()
+	{
+		Scanner in = new Scanner(System.in);
+		UserOptions uo = new UserOptions();
+		byte k = -1 ;
+		System.out.println("Enter key for "+getName());
+		//while worng input
+		while(k == -1)
+		{
+			k = (byte) uo.to_integer( in.nextLine());
+			if(k == -1)
+				System.out.println("Enter a valid number");
+		}
+		
+		this.setKey(k);
 	}
 
 }

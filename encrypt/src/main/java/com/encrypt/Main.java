@@ -4,6 +4,8 @@ package com.encrypt;
 
 
 import java.util.Scanner;
+
+import com.encrypt.Ciphers.AbstractDouble;
 import com.encrypt.Ciphers.Cipher;
 
 
@@ -13,23 +15,22 @@ public static void main(String[] args)
 {
 	Scanner in = new Scanner(System.in);
 	FileManager file = new FileManager();
-	UserOptions om = new UserOptions();
+	UserOptions uo = new UserOptions();
 	EventTarget eventTraget = new EventTarget();
 	int result;
 	Cipher algorithm ;
 	byte[] data = null;
 	
-	
-	om.menu_content();
-	result = om.to_integer(in.nextLine());
+	uo.menu_content();
+	result = uo.to_integer(in.nextLine());
 	// selected algorithm by user
-	algorithm = om.algorithms_menu(result);
+	algorithm = uo.algorithms_menu(result);
 	
 	algorithm.addObserver(eventTraget);
 	/*  action selected by user = {Encryption , Decryption }
 	 * if user entered invalid selection he will be asked to enter new one
 	 */
-	EnumCipher option = om.eOrd(); 
+	EnumCipher option = uo.eOrd(); 
 	
 	
 	/*
@@ -37,31 +38,47 @@ public static void main(String[] args)
 	 * if not the user will be asked to enter again
 	 */
 	
-	file = om.file_path();
+	file = uo.file_path();
 	if((data = file.ReadBytes()) != null)
 	{
 			if(option.equals(EnumCipher.Encryption))
 			{
 				
-				System.out.println("Your encryption key is: " + (int)algorithm.createKey());
 				
+				algorithm.createKey();
 				algorithm.setInput(data);
 				
 				// writing the encrypted bytes to file.encrypted
-				if(file.writeBytesToFile(file.getFile().getPath() +".encrypted", algorithm.encrypt()) )
-				{
-					System.out.println("File saved at: " +file.getFilePathNoType()+".encrypted");
+				try {
+					if(file.writeBytesToFile(file.getFile().getPath() +".encrypted", algorithm.encrypt()) )
+					{
+						System.out.println("File saved at: " +file.getFilePathNoType()+".encrypted");
+					}
+					
+					else
+						System.out.println("Can't write to file");
+					
+				} 
+				catch (Exception e) {
+					
+					System.out.println("Encryption error!");
 				}
-				
-				else
-					System.out.println("Encryption failed!");
 			}
 			
 			else if(option.equals(EnumCipher.Decryption))
 			{
-				System.out.println("Enter key:");
 				
-				algorithm.setKey((byte) om.to_integer( in.nextLine()));
+					if(algorithm instanceof AbstractDouble)
+					{
+						(((AbstractDouble)algorithm)).setKeys();
+						 
+					}
+					else
+					{
+						System.out.println("Enter key:");
+						algorithm.setKey((byte) uo.to_integer( in.nextLine()));
+					}
+					
 				algorithm.setInput(data);
 				
 				try {
@@ -70,7 +87,7 @@ public static void main(String[] args)
 								System.out.println("File saved at: " +file.getFile().getPath().split("\\.")[0]+"_decrypted"+"."+file.getFile().getPath().split("\\.")[1]);
 							}
 					else
-						System.out.println("Decryption failed!");
+						System.out.println("Can't write to file");
 				} 
 				catch (Exception e) 
 				{

@@ -36,7 +36,8 @@ public class CaesarCipherTest {
 	public void createKeyTest() 
 	{
 		cc = new CaesarCipher();
-		byte result = cc.createKey();
+		cc.createKey();
+		byte result = cc.getKey();
 		//expected to be minimalValue <= result <= maximalValue
 		assertTrue(result >= cc.getMinimalValue() && result <= cc.getMaximalValue());
 		

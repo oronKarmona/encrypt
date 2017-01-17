@@ -23,7 +23,6 @@ public class MWOCipher extends Cipher{
 	public String decrypt() throws Exception{
 		
 		byte dec_key = 0;
-		byte[] temp = input;
 		int mul ;
 		
 		if(this.getKey() %2 == 0 || this.getKey() == 0 )
@@ -42,13 +41,13 @@ public class MWOCipher extends Cipher{
 		}
 		
 		//decryption
-		for(int i = 0 ; i < temp.length ; i++)
+		for(int i = 0 ; i < input.length ; i++)
 		{
-			temp[i] = (byte)(((int)input[i]) * ((int)dec_key));
+			input[i] = (byte)(((int)input[i]) * ((int)dec_key));
 		}
 		
 		End("Decryption");
-		this.setOutput(temp);
+		this.setOutput(input);
 		return new String(output);
 	}
 	
@@ -57,7 +56,7 @@ public class MWOCipher extends Cipher{
 	 * return the key generated.
 	 */
 	
-	public byte createKey() {
+	public void createKey() {
 		boolean status= false;
 		while(!status)
 		{
@@ -66,7 +65,7 @@ public class MWOCipher extends Cipher{
 				status = true;
 		}
 			
-		return key;
+		System.out.println("Your encryption key is: " + (int)key);
 	}
 
 }

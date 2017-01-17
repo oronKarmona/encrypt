@@ -5,8 +5,9 @@ public interface Operations {
 	/***
 	 * Encrypts the input with selected encryption algorithm
 	 * @return encrypted byte array
+	 * @throws Exception 
 	 */
-	public byte[] encrypt();
+	public byte[] encrypt() throws Exception;
 	/***
 	 * Decrypts the input with selected decryption algorithm
 	 * @return decrypted byte array
@@ -17,5 +18,5 @@ public interface Operations {
 	 * Creates key from value min to max value of char.
 	 * return the key generated.
 	 */
-	public byte createKey();
+	public void createKey();
 }
