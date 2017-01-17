@@ -20,11 +20,7 @@ public static void main(String[] args)
 	byte[] data = null;
 	
 	
-	System.out.println("Select an algorithm");
-	System.out.println("Press 1 for caesar algorithm");
-	System.out.println("Press 2 for xor algorithm");
-	System.out.println("press 3 for Multiplication algorithm");
-	
+	om.menu_content();
 	result = om.to_integer(in.nextLine());
 	// selected algorithm by user
 	algorithm = om.algorithms_menu(result);

@@ -41,6 +41,16 @@ public int to_integer(String input)
 		return -1;
 	}
 }
+	/**
+	 * Prints the menu content 
+	 */
+	public void menu_content()
+	{
+		System.out.println("Select an algorithm");
+		System.out.println("Press 1 for caesar algorithm");
+		System.out.println("Press 2 for xor algorithm");
+		System.out.println("press 3 for Multiplication algorithm");
+	}
 	
 	/**
 	 * Showing the user a menu where he can choose a cipher algorithm
@@ -58,11 +68,7 @@ public int to_integer(String input)
 			else
 			{
 				System.out.println("Please enter ONLY numbers as shown");
-				System.out.println("Select an algorithm");
-				System.out.println("Press 1 for caesar algorithm");
-				System.out.println("Press 2 for xor algorithm");
-				System.out.println("press 3 for Multiplication algorithm");
-				
+				this.menu_content();
 				result = to_integer(input.nextLine());
 			}
 		}
