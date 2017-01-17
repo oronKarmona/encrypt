@@ -26,7 +26,7 @@ public abstract class Cipher extends Observable implements Operations{
 	public void createKey() {
 	
 		this.key = (byte) ((Math.random() * maximalValue) + minimalValue);
-		System.out.println("Your encryption key is: " + (int)key);
+		System.out.println("Your encryption key for " +getName() +" is: " + (int)key);
 	}
 	
 	public void start(String msg)

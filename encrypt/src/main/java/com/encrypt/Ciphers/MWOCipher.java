@@ -65,7 +65,7 @@ public class MWOCipher extends Cipher{
 				status = true;
 		}
 			
-		System.out.println("Your encryption key is: " + (int)key);
+		System.out.println("Your encryption key for "+getName()+ " is: " + (int)key);
 	}
 
 }

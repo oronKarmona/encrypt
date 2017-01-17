@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 import com.encrypt.Ciphers.CaesarCipher;
 import com.encrypt.Ciphers.Cipher;
+import com.encrypt.Ciphers.DoubleCipher;
 import com.encrypt.Ciphers.MWOCipher;
 import com.encrypt.Ciphers.ReverseCipher;
 import com.encrypt.Ciphers.XorCipher;
@@ -87,10 +88,10 @@ public int to_integer(String input)
 			return (new MWOCipher());
 		
 		else if (result == 4)
-			return null;
+			return (new DoubleCipher(secondCipher("first"),secondCipher("second")));
 		
 		else if(result == 5)
-			return (new ReverseCipher(secondCipher(),null));
+			return (new ReverseCipher(secondCipher("one"),null));
 		
 		else 
 			return null;
@@ -98,13 +99,13 @@ public int to_integer(String input)
 		
 	}
 	
-	private Cipher secondCipher()
+	private Cipher secondCipher(String num)
 	{
 		int result = 0;
 		boolean status = false ;
 		while(!status)
 		{
-				System.out.println("please select a second cipher:");
+				System.out.println("please select "+num+ " secondary cipher:");
 				System.out.println("Press 1 for caesar algorithm");
 				System.out.println("Press 2 for xor algorithm");
 				System.out.println("press 3 for Multiplication algorithm");

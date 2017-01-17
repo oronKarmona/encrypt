@@ -75,8 +75,7 @@ public static void main(String[] args)
 					}
 					else
 					{
-						System.out.println("Enter key:");
-						algorithm.setKey((byte) uo.to_integer( in.nextLine()));
+						algorithm.decryptionKey();
 					}
 					
 				algorithm.setInput(data);
