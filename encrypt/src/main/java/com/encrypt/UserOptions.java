@@ -8,6 +8,7 @@ import com.encrypt.Ciphers.Cipher;
 import com.encrypt.Ciphers.DoubleCipher;
 import com.encrypt.Ciphers.MWOCipher;
 import com.encrypt.Ciphers.ReverseCipher;
+import com.encrypt.Ciphers.SplitCipher;
 import com.encrypt.Ciphers.XorCipher;
 /***
  * This class is used to show options for the user
@@ -94,7 +95,7 @@ public int to_integer(String input)
 			return (new ReverseCipher(secondCipher("one"),null));
 		
 		else 
-			return null;
+			return (new SplitCipher(secondCipher("one"),null));
 			
 		
 	}
