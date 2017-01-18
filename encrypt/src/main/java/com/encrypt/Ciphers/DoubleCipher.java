@@ -27,6 +27,7 @@ public class DoubleCipher extends AbstractDouble{
 		for(int i = ciphers.size() - 1 ; i >=0 ;i--)
 		{
 			ciphers.get(i).setInput(input);
+			ciphers.get(i).setKey(keys.get(i));
 			ciphers.get(i).decrypt();
 			this.setInput(ciphers.get(i).getInput());
 		}

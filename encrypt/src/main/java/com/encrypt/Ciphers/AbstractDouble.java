@@ -41,17 +41,10 @@ public abstract class AbstractDouble extends Cipher
 	}
 	
 	
-	public void setKeys()
+	public void setKeys(ArrayList<Byte> keys)
 	{
-		Scanner in = new Scanner(System.in);
-		UserOptions uo = new UserOptions();
-		byte k = -1 ; 
-		for(Cipher c : ciphers)
-		{
-			if(c!=null)
-				c.decryptionKey();
-		}
 		
-		
+		this.keys = keys ;
+	
 	}
 }

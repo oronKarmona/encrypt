@@ -143,12 +143,7 @@ public class SplitCipher extends AbstractDouble{
 	public void setKeys(ArrayList<Byte> keys)
 	{
 		this.keys = keys;
-		/*for(int i = 0 ; i< 2 ; i++)
-		{
-			System.out.print((i+1)+".");
-			ciphers.get(0).decryptionKey();
-			keys.add(ciphers.get(0).getKey());
-		}*/
+	
 	}
 
 }

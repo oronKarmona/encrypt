@@ -23,7 +23,7 @@ public class ReverseCipher extends AbstractDouble
 		start("Decrption");
 		Cipher temp = this.ciphers.get(0);
 		temp.setInput(input);
-		
+		temp.setKey(keys.get(0));
 		String str = new String(temp.encrypt());
 		End("Decrption");
 		return str;

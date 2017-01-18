@@ -73,21 +73,11 @@ public abstract class Cipher extends Observable implements Operations{
 		return names[names.length - 1 ];
 	}
 	
-	public void decryptionKey()
+	public void decryptionKey(ArrayList<Byte> keys)
 	{
-		Scanner in = new Scanner(System.in);
-		UserOptions uo = new UserOptions();
-		byte k = -1 ;
-		System.out.println("Enter key for "+getName());
-		//while wrong input
-		while(k == -1)
-		{
-			k = (byte) uo.to_integer( in.nextLine());
-			if(k == -1)
-				System.out.println("Enter a valid number");
-		}
 		
-		this.setKey(k);
+		this.key = keys.get(0);
+	
 	}
 
 }

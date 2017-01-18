@@ -78,7 +78,7 @@ public static void main(String[] args)
 					}
 					else
 					{
-						algorithm.decryptionKey();
+						algorithm.decryptionKey(keys);
 					}
 					
 				algorithm.setInput(data);
