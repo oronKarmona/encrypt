@@ -3,6 +3,7 @@ package com.encrypt;
 
 
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 import com.encrypt.Ciphers.AbstractDouble;
@@ -46,13 +47,14 @@ public static void main(String[] args)
 				
 				
 				algorithm.createKey();
+				file.writeKeytoFile(file.getOnlyPath()+"\\key.bin",algorithm.getKeys());
 				algorithm.setInput(data);
 				
 				// writing the encrypted bytes to file.encrypted
 				try {
 					if(file.writeBytesToFile(file.getFile().getPath() +".encrypted", algorithm.encrypt()) )
 					{
-						System.out.println("File saved at: " +file.getFilePathNoType()+".encrypted");
+						System.out.println("File saved at: " +file.getFile().getPath()+".encrypted");
 					}
 					
 					else
@@ -67,10 +69,11 @@ public static void main(String[] args)
 			
 			else if(option.equals(EnumCipher.Decryption))
 			{
-				
+			      ArrayList<Byte> keys = file.readKeyFromFile(file.getOnlyPath()+"\\key.bin");
+			      
 					if(algorithm instanceof AbstractDouble)
 					{
-						(((AbstractDouble)algorithm)).setKeys();
+						(((AbstractDouble)algorithm)).setKeys(keys);
 						 
 					}
 					else

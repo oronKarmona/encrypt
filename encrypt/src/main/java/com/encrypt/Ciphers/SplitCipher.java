@@ -13,6 +13,12 @@ public class SplitCipher extends AbstractDouble{
 		
 		keys = new ArrayList<Byte>();
 	}
+	
+	@Override
+	public ArrayList<Byte> getKeys()
+	{
+		return this.keys;
+	}
 
 	@Override
 	public byte[] encrypt() throws Exception 
@@ -134,14 +140,15 @@ public class SplitCipher extends AbstractDouble{
 	}
 	
 	@Override 
-	public void setKeys()
+	public void setKeys(ArrayList<Byte> keys)
 	{
-		for(int i = 0 ; i< 2 ; i++)
+		this.keys = keys;
+		/*for(int i = 0 ; i< 2 ; i++)
 		{
 			System.out.print((i+1)+".");
 			ciphers.get(0).decryptionKey();
 			keys.add(ciphers.get(0).getKey());
-		}
+		}*/
 	}
 
 }

@@ -95,7 +95,10 @@ public int to_integer(String input)
 			return (new ReverseCipher(secondCipher("one"),null));
 		
 		else 
-			return (new SplitCipher(secondCipher("one"),null));
+		{
+			Cipher c =  secondCipher("one");
+			return (new SplitCipher(c,c));
+		}
 			
 		
 	}

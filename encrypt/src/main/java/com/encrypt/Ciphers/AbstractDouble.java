@@ -10,23 +10,34 @@ import lombok.Setter;
 
 public abstract class AbstractDouble extends Cipher
 {
-	@Getter @Setter ArrayList<Cipher> ciphers;
+	@Getter @Setter protected ArrayList<Cipher> ciphers;
+	ArrayList<Byte> keys ;
 	
 	public AbstractDouble(Cipher first , Cipher second)
 	{
 		ciphers = new ArrayList<Cipher>();
 		ciphers.add(first);
 		ciphers.add(second);
+		keys = new ArrayList<Byte>();
 	}
-	
+	@Override
+	public ArrayList<Byte> getKeys()
+	{
+		return this.keys;
+	}
 	@Override
 	public void createKey() {
 		
 		for(Cipher c : ciphers)
 		{
 			if(c!=null)
+			{
 				c.createKey();
+				keys.add(c.getKey());
+			}
 		}
+		
+		
 	}
 	
 	
@@ -40,5 +51,7 @@ public abstract class AbstractDouble extends Cipher
 			if(c!=null)
 				c.decryptionKey();
 		}
+		
+		
 	}
 }
