@@ -30,7 +30,7 @@ public class CaesarCipherTest {
 	}
 	
 	/***
-	 * Checking if the created key is set as the key
+	 * Checking if the created key is valid
 	 */
 	@Test
 	public void createKeyTest() 

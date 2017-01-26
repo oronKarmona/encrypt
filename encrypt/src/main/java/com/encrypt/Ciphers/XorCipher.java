@@ -25,7 +25,8 @@ public class XorCipher extends Cipher{
 		}
 		End("Decryption");
 		
-		return (new String(input));
+		output = input ; 
+		return (new String(output));
 	}
 
 }

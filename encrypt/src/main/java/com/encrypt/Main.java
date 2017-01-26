@@ -69,7 +69,8 @@ public static void main(String[] args)
 			
 			else if(option.equals(EnumCipher.Decryption))
 			{
-			      ArrayList<Byte> keys = file.readKeyFromFile(file.getOnlyPath()+"\\key.bin");
+				  System.out.println("Enter key path:");
+			      ArrayList<Byte> keys = file.readKeyFromFile(in.nextLine());
 			      
 					if(algorithm instanceof AbstractDouble)
 					{

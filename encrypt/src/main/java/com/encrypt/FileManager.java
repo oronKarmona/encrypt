@@ -159,13 +159,14 @@ public class FileManager {
 	            if (outStream != null)
 	            {
 	               outStream.close();
-	               return true;
+	              
 	            }
 	         } catch (IOException ioException) {
 	            System.err.println("Error closing file.");
 	         }
 	      }
-	      return false;
+	      System.out.println("Key is saved in: "+ path);
+	      return true;
 		
 	}
 	
