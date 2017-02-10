@@ -1,18 +1,10 @@
 package com.encrypt.Ciphers;
 
 
-import java.io.File;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.ObjectOutputStream;
+
 import java.util.ArrayList;
-import java.util.NoSuchElementException;
 import java.util.Observable;
-import java.util.Scanner;
-
 import com.encrypt.FileManager;
-import com.encrypt.UserOptions;
-
 import lombok.Data;
 import lombok.Getter;
 /***

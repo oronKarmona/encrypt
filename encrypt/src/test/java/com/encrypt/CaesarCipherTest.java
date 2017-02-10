@@ -6,8 +6,11 @@ import static org.mockito.Mockito.*;
 
 import org.junit.Before;
 import org.junit.Test;
+import org.mockito.Mock;
 
 import com.encrypt.Ciphers.CaesarCipher;
+import com.encrypt.Ciphers.Cipher;
+import com.encrypt.Ciphers.XorCipher;
 
 /***
  * Testing CaesarCipher methods
@@ -20,14 +23,6 @@ public class CaesarCipherTest {
 	 */
 	private CaesarCipher cc ; 
 	
-	/***
-	 * creating the mock variable before starting the testing
-	 */
-	@Before
-	public void create()
-	{
-		cc = mock(CaesarCipher.class);
-	}
 	
 	/***
 	 * Checking if the created key is valid
@@ -48,11 +43,11 @@ public class CaesarCipherTest {
 	@Test
 	public void checkEncryptionTest()
 	{
-		CaesarCipher cc2 = new CaesarCipher();
+		 cc = new CaesarCipher();
 		byte[] input = {112,100};
-		cc2.setInput(input);
-		cc2.setKey((byte)5);
-		byte[] result = cc2.encrypt();
+		cc.setInput(input);
+		cc.setKey((byte)5);
+		byte[] result = cc.encrypt();
 		byte[] expected = {117,105};
 		
 		assertEquals(new ByteArrayComp().compare(result, expected),1);
@@ -64,11 +59,11 @@ public class CaesarCipherTest {
 	@Test
 	public void checkEncryption_biggerThanMaxTest()
 	{
-		CaesarCipher cc2 = new CaesarCipher();
+		 cc = new CaesarCipher();
 		byte[] input = {112,100};
-		cc2.setInput(input);
-		cc2.setKey((byte)100);
-		byte[] result = cc2.encrypt();
+		cc.setInput(input);
+		cc.setKey((byte)100);
+		byte[] result = cc.encrypt();
 		byte[] expected = {-43,-55};
 		
 		assertEquals(new ByteArrayComp().compare(result, expected),1);
@@ -80,11 +75,11 @@ public class CaesarCipherTest {
 	@Test
 	public void checkDecryptionTest()
 	{
-		CaesarCipher cc2 = new CaesarCipher();
+		 cc = new CaesarCipher();
 		byte[] input = {112,100};
-		cc2.setInput(input);
-		cc2.setKey((byte)100);
-		String result = cc2.decrypt();
+		cc.setInput(input);
+		cc.setKey((byte)100);
+		String result = cc.decrypt();
 		byte[] e = {12,0};
 		String expected = new String(e);
 		
@@ -97,17 +92,18 @@ public class CaesarCipherTest {
 	@Test
 	public void checkDecryption_smallerThanMinTest()
 	{
-		CaesarCipher cc2 = new CaesarCipher();
+		 cc = new CaesarCipher();
 		byte[] input = {5,3};
-		cc2.setInput(input);
-		cc2.setKey((byte)cc2.getMaximalValue());
-		cc2.setInput(cc2.encrypt());
-		String result = cc2.decrypt();
+		cc.setInput(input);
+		cc.setKey((byte)cc.getMaximalValue());
+		cc.setInput(cc.encrypt());
+		String result = cc.decrypt();
 		byte[] e = {5,3};
 		String expected = new String(e);
 		
 		assertTrue(expected.equals(result));
 	}
+	
 	
 	
 

@@ -1,5 +1,12 @@
 package com.encrypt.Ciphers;
 
+/***
+ * Reverse cipher algorithm . 
+ * encrypts with given cipher decryption  
+ * decrypts with given cipher encryption 
+ * @author Oron
+ *
+ */
 public class ReverseCipher extends AbstractDouble
 {
 
