@@ -39,7 +39,7 @@ public abstract class Cipher extends Observable implements Operations{
 	public void createKey() {
 	
 		this.key = (byte) ((Math.random() * maximalValue) + minimalValue);
-		System.out.println("Your encryption key for " +getName() +" is: " + (int)key);
+		//System.out.println("Your encryption key for " +getName() +" is: " + (int)key);
 		this.keys.add(this.key);
 	}
 	
@@ -79,5 +79,15 @@ public abstract class Cipher extends Observable implements Operations{
 		this.key = keys.get(0);
 	
 	}
+	
+	public byte[] getByteArrayKey()
+	{
+		byte[] b = new byte[keys.size()];
+		
+		for(int i = 0 ; i < b.length ; i++)
+			b[i] = (byte)keys.get(i);
+		
+		return b ; 
+	} 
 
 }

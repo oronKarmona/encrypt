@@ -8,11 +8,20 @@ import com.encrypt.UserOptions;
 import lombok.Getter;
 import lombok.Setter;
 
+/***
+ * Abstract class for the double cipher algorithms 
+ * @author Oron
+ *
+ */
 public abstract class AbstractDouble extends Cipher
 {
 	@Getter @Setter protected ArrayList<Cipher> ciphers;
-	ArrayList<Byte> keys ;
 	
+	/***
+	 * Constructor
+	 * @param first - first cipher to act
+	 * @param second - second cipher to act
+	 */
 	public AbstractDouble(Cipher first , Cipher second)
 	{
 		ciphers = new ArrayList<Cipher>();
@@ -20,11 +29,10 @@ public abstract class AbstractDouble extends Cipher
 		ciphers.add(second);
 		keys = new ArrayList<Byte>();
 	}
-	@Override
-	public ArrayList<Byte> getKeys()
-	{
-		return this.keys;
-	}
+	
+	/***
+	 * Creating the keys for each cipher
+	 */
 	@Override
 	public void createKey() {
 		
@@ -39,12 +47,5 @@ public abstract class AbstractDouble extends Cipher
 		
 		
 	}
-	
-	
-	public void setKeys(ArrayList<Byte> keys)
-	{
-		
-		this.keys = keys ;
-	
-	}
+
 }

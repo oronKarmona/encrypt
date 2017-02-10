@@ -2,23 +2,28 @@ package com.encrypt.Ciphers;
 
 import java.util.ArrayList;
 
+/***
+ * Split cipher - ciphers the odds bytes with one key and the evens with another
+ * @author Oron
+ *
+ */
 public class SplitCipher extends AbstractDouble{
 
-	ArrayList<Byte> keys ;
+	
 	byte[] odds ;
 	byte[] even ;
 	
+	/***
+	 * constructor
+	 * @param first - method for encryption
+	 * @param second - method for encryption
+	 */
 	public SplitCipher(Cipher first, Cipher second) {
 		super(first, second);
-		
-		keys = new ArrayList<Byte>();
+
 	}
 	
-	@Override
-	public ArrayList<Byte> getKeys()
-	{
-		return this.keys;
-	}
+	
 
 	@Override
 	public byte[] encrypt() throws Exception 
@@ -133,17 +138,12 @@ public class SplitCipher extends AbstractDouble{
 	{
 		for(int i = 0 ; i< 2 ; i++)
 		{
-			System.out.print((i+1)+".");
+			//System.out.print((i+1)+".");
 			ciphers.get(0).createKey();
 			keys.add(ciphers.get(0).getKey());
 		}
 	}
 	
-	@Override 
-	public void setKeys(ArrayList<Byte> keys)
-	{
-		this.keys = keys;
 	
-	}
 
 }

@@ -50,7 +50,7 @@ public class FileManager {
 	 * @return bytes[] read from the file
 	 * @return null for reading error
 	 */
-	public byte[] ReadBytes()
+	public byte[] ReadBytes(String path)
 	{
 		byte data[] = null;
 		int i = 0 ; 
@@ -58,12 +58,13 @@ public class FileManager {
 		FileInputStream fis = null;
 
 		try {
-			fis = new FileInputStream(file);
+			fis = new FileInputStream(path);
 
 			System.out.println("Total file size to read (in bytes) : " + fis.available());
 			data = new byte[fis.available()];
 			byte content;
-			while ((content = (byte) fis.read()) != -1) {
+			while ((content = (byte) fis.read()) != -1) 
+			{
 				data[i] = content;
 				i++;
 			}
@@ -107,7 +108,8 @@ public class FileManager {
 	{
 		try {
 			FileOutputStream fos = new FileOutputStream(path);
-			fos.write(content);
+			for(byte c : content)
+				fos.write(c);
 			fos.close();
 			return true;
 		} 
@@ -141,66 +143,9 @@ public class FileManager {
 	}
 	
 	
-	public boolean writeKeytoFile(String path , ArrayList<Byte> keys)
-	{
-		
-		ObjectOutputStream outStream = null;
-	      try {
-	         outStream = new ObjectOutputStream(new FileOutputStream(new File(path)));
-	            outStream.writeObject(keys);
-	        
-	      } catch (IOException ioException) {
-	         System.err.println("Error opening file.");
-	      } catch (NoSuchElementException noSuchElementException) {
-	         System.err.println("Invalid input.");
-	      } 
-	      finally {
-	         try {
-	            if (outStream != null)
-	            {
-	               outStream.close();
-	              
-	            }
-	         } catch (IOException ioException) {
-	            System.err.println("Error closing file.");
-	         }
-	      }
-	      System.out.println("Key is saved in: "+ path);
-	      return true;
-		
-	}
+
 	
 	
-	@SuppressWarnings("unchecked")
-	public ArrayList<Byte> readKeyFromFile(String path)
-	{
-		ArrayList<Byte> keys = new ArrayList<Byte>();
-		ObjectInputStream inputStream = null;
-	      try {
-	         inputStream = new ObjectInputStream(new FileInputStream(new File(path)));
-	         while (true) {
-	            keys  = (ArrayList<Byte>) inputStream.readObject();
-	            
-	         }
-	      } catch (EOFException eofException) {
-	         return keys;
-	      } catch (ClassNotFoundException classNotFoundException) {
-	         System.err.println("Object creation failed.");
-	      } catch (IOException ioException) {
-	         System.err.println("Error opening file.");
-	      } finally {
-	         try {
-	            if (inputStream != null)
-	            {
-	               inputStream.close();
-	               return keys;
-	            }
-	         } catch (IOException ioException) {
-	            System.err.println("Error closing file.");
-	         }
-	      }
-	      
-		return null;
-	}
+
 
 }

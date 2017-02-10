@@ -40,14 +40,15 @@ public static void main(String[] args)
 	 */
 	
 	file = uo.file_path();
-	if((data = file.ReadBytes()) != null)
+	if((data = file.ReadBytes(file.getFile().getPath())) != null)
 	{
 			if(option.equals(EnumCipher.Encryption))
 			{
 				
 				
 				algorithm.createKey();
-				file.writeKeytoFile(file.getOnlyPath()+"\\key.bin",algorithm.getKeys());
+				file.writeBytesToFile(file.getOnlyPath()+"\\key.bin", algorithm.getByteArrayKey());
+				//file.writeKeytoFile(file.getOnlyPath()+"\\key.bin",algorithm.getKeys());
 				algorithm.setInput(data);
 				
 				// writing the encrypted bytes to file.encrypted
@@ -70,7 +71,11 @@ public static void main(String[] args)
 			else if(option.equals(EnumCipher.Decryption))
 			{
 				  System.out.println("Enter key path:");
-			      ArrayList<Byte> keys = file.readKeyFromFile(in.nextLine());
+				  ArrayList<Byte> keys = new ArrayList<Byte>() ; 
+				  byte[] k = file.ReadBytes(in.nextLine());
+				  for(byte b: k)
+					  keys.add(b);
+			    //  ArrayList<Byte> keys = file.readKeyFromFile(in.nextLine());
 			      
 					if(algorithm instanceof AbstractDouble)
 					{
