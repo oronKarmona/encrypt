@@ -1,5 +1,7 @@
 package com.encrypt.Ciphers;
 
+import java.util.Arrays;
+
 
 
 /***
@@ -18,7 +20,7 @@ public class CaesarCipher extends Cipher{
 	public byte[] encrypt() 
 	{
 		
-		byte[] temp = this.getInput();
+		byte[] temp = Arrays.copyOf(input,input.length);
 		
 		start("Encryption");
 
@@ -46,7 +48,7 @@ public class CaesarCipher extends Cipher{
 	@Override
 	public String decrypt() 
 	{
-		byte[] temp = this.getInput();
+		byte[] temp = input;
 		int a,b; 
 		
 		start("Decryption");
@@ -67,7 +69,8 @@ public class CaesarCipher extends Cipher{
 		}
 		
 		End("Decryption");
-		String s = new String(temp);
+		output = temp ; 
+		String s = new String(output);
 			return s;
 	}
 

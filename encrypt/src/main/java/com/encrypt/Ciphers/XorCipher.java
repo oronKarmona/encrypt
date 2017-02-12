@@ -1,10 +1,13 @@
 package com.encrypt.Ciphers;
 
+import java.util.Arrays;
+
 public class XorCipher extends Cipher{
 
 	@Override
 	public byte[] encrypt()
 	{
+	
 		start("Encryption");
 		for(int i=0 ; i < input.length ; i++)
 		{
@@ -18,14 +21,16 @@ public class XorCipher extends Cipher{
 	@Override
 	public String decrypt() 
 	{
+		byte[] temp = input;
+		
 		start("Decryption");
 		for(int i=0 ; i < input.length ; i++)
 		{
-			input[i] = (byte)(((int)input[i])  ^ ((int)this.getKey()));
+			temp[i] = (byte)(((int)input[i])  ^ ((int)this.getKey()));
 		}
 		End("Decryption");
 		
-		output = input ; 
+		output = temp ; 
 		return (new String(output));
 	}
 
