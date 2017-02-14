@@ -103,6 +103,7 @@ public int to_integer(String input)
 		
 	}
 	
+	
 	private Cipher secondCipher(String num)
 	{
 		int result = 0;
@@ -196,6 +197,29 @@ public int to_integer(String input)
 		}
 		
 		return file;
+	}
+	
+	/***
+	 * Sub menu for the user
+	 * @return 1 for one file and 2 for more than one file
+	 */
+	public int OneOrMore()
+	{
+		int result = -1 ; 
+		while(result == -1 )
+		{
+		System.out.println("Enter 1 for one file action");
+		System.out.println("Enter 2 for more than one file action");
+		
+		result = to_integer(new Scanner(System.in).nextLine());
+		if( result != 1 && result != 2)
+		{
+			result = -1 ;
+			System.out.println("Please enter on the allowed selection");
+		}
+		}
+		
+		return result;
 	}
 
 }
