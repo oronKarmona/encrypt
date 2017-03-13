@@ -36,12 +36,22 @@ public static void main(String[] args)
 	 */
 	EnumCipher option = uo.eOrd(); 
 	
-	
+	//key creation in case of encryption
+	if(option.equals(EnumCipher.Encryption))
+		algorithm.createKey();
+			
 	int oneOrmore = uo.OneOrMore(); // if the user want to encrypt one or more files
+	
 	// manipulation of more than one
 	if(oneOrmore == 2 )
 	{
 		File folder = uo.getFolder();
+		new File(folder.getAbsolutePath()+"\\encrypted").mkdir();
+		String target = folder.getAbsolutePath()+"\\encrypted";
+		ThreadEncryption te = new ThreadEncryption(folder , algorithm , target);
+		te.run();
+		
+		file.writeBytesToFile(folder.getAbsolutePath()+"\\key.bin", algorithm.getByteArrayKey());
 		
 	}
 	// manipulation of one file 
@@ -57,9 +67,7 @@ public static void main(String[] args)
 		{
 				if(option.equals(EnumCipher.Encryption))
 				{
-					algorithm.createKey();
 					file.writeBytesToFile(file.getOnlyPath()+"\\key.bin", algorithm.getByteArrayKey());
-					//file.writeKeytoFile(file.getOnlyPath()+"\\key.bin",algorithm.getKeys());
 					algorithm.setInput(data);
 					
 					// writing the encrypted bytes to file.encrypted
