@@ -39,21 +39,73 @@ public static void main(String[] args)
 	//key creation in case of encryption
 	if(option.equals(EnumCipher.Encryption))
 		algorithm.createKey();
+	
+	//key request in case of decryption
+	else if (option.equals(EnumCipher.Decryption))
+	{
+		  System.out.println("Enter key path:");
+		  ArrayList<Byte> keys = new ArrayList<Byte>() ; 
+		 byte[] k = file.ReadBytes(in.nextLine());
+		  for(byte b: k)
+			  keys.add(b);
+		 
+	      
+			if(algorithm instanceof AbstractDouble)
+			{
+				(((AbstractDouble)algorithm)).setKeys(keys);
+				 
+			}
+			else
+			{
+				algorithm.decryptionKey(keys);
+			}
+			
+	}
 			
 	int oneOrmore = uo.OneOrMore(); // if the user want to encrypt one or more files
 	
 	// manipulation of more than one
 	if(oneOrmore == 2 )
 	{
+
 		File folder = uo.getFolder();
-		new File(folder.getAbsolutePath()+"\\encrypted").mkdir();
-		String target = folder.getAbsolutePath()+"\\encrypted";
-		ThreadEncryption te = new ThreadEncryption(folder , algorithm , target);
+		String target = null;
+		EnumCipher action = null;
+		
+		if (option.equals(EnumCipher.Encryption))
+		{
+			new File(folder.getAbsolutePath()+"\\encrypted").mkdir();
+			target = folder.getAbsolutePath()+"\\decrypted";
+			action = EnumCipher.Encryption;
+		}
+		
+		if (option.equals(EnumCipher.Decryption))
+		{
+			new File(folder.getParent()+"\\decrypted").mkdir();
+			target = folder.getParent()+"\\decrypted";
+			action = EnumCipher.Decryption;
+		}
+		
+		ThreadEncryption te = new ThreadEncryption(folder , algorithm , target,action);
+		
 		te.run();
 		
-		file.writeBytesToFile(folder.getAbsolutePath()+"\\key.bin", algorithm.getByteArrayKey());
+		if (option.equals(EnumCipher.Encryption))
+			file.writeBytesToFile(folder.getAbsolutePath()+"\\key.bin", algorithm.getByteArrayKey());
+	
+		
+		
+		
 		
 	}
+	
+	
+	
+	
+	
+	
+	
+	
 	// manipulation of one file 
 	else if(oneOrmore == 1)
 	{
@@ -89,23 +141,7 @@ public static void main(String[] args)
 				
 				else if(option.equals(EnumCipher.Decryption))
 				{
-					  System.out.println("Enter key path:");
-					  ArrayList<Byte> keys = new ArrayList<Byte>() ; 
-					 byte[] k = file.ReadBytes(in.nextLine());
-					  for(byte b: k)
-						  keys.add(b);
-					 
-				      
-						if(algorithm instanceof AbstractDouble)
-						{
-							(((AbstractDouble)algorithm)).setKeys(keys);
-							 
-						}
-						else
-						{
-							algorithm.decryptionKey(keys);
-						}
-						
+					
 					algorithm.setInput(data);
 					try {
 						algorithm.decrypt();

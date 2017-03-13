@@ -14,13 +14,15 @@ public class ThreadEncryption implements Runnable{
 	ArrayList<File> listOfFiles;
 	String target;
 	FileManager fm ; 
-	ThreadEncryption(File folder , Cipher alg, String target)
+	EnumCipher action;
+	
+	ThreadEncryption(File folder , Cipher alg, String target , EnumCipher action)
 	{
 		this.folder = folder ; 
 		this.alg  = alg; 
 		this.target = target;
 		fm = new FileManager();
-		
+		this.action = action;
 		listOfFiles = new ArrayList<File>();
 		
 		for(File file : folder.listFiles())
@@ -32,6 +34,8 @@ public class ThreadEncryption implements Runnable{
 			
 		}
 	}
+
+
 
 	@Override
 	public void run() 
@@ -48,14 +52,30 @@ public class ThreadEncryption implements Runnable{
 						}
 						
 						alg.setInput(data);
-						
-						try {
-							data = alg.encrypt();
-						} catch (Exception e) {
-							e.printStackTrace();
+						// if this is an Encryption action
+						if(action.equals(EnumCipher.Encryption))
+						{
+							try {
+								data = alg.encrypt();
+							} catch (Exception e) {
+								e.printStackTrace();
+							}
+							
+							fm.writeBytesToFile(target+"\\"+listOfFiles.get(i).getName()+".encrypted", data);
 						}
-						
-						fm.writeBytesToFile(target+"\\"+listOfFiles.get(i).getName()+".encrypted", data);
+						// if this is a Decryption action
+						else if(action.equals(EnumCipher.Decryption))
+						{
+							try {
+								alg.decrypt();
+								data = alg.getOutput();
+							} catch (Exception e) {
+								e.printStackTrace();
+							}
+							fm.setFile(listOfFiles.get(i));
+							String n = folder.getParent()+"\\decrypted\\"+listOfFiles.get(i).getName().split("\\.")[0]+"_decrypted"+"."+listOfFiles.get(i).getPath().split("\\.")[1];
+							fm.writeBytesToFile(n, data);
+						}
 		}
 		
 		System.out.println("All files are saved at "+target);
