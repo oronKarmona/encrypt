@@ -103,7 +103,11 @@ public int to_integer(String input)
 		
 	}
 	
-	
+	/***
+	 * Secondary ciphers for the larger ones
+	 * @param num - number of wanted secnodaries
+	 * @return the secondary cipher
+	 */
 	private Cipher secondCipher(String num)
 	{
 		int result = 0;
@@ -197,6 +201,36 @@ public int to_integer(String input)
 		}
 		
 		return file;
+	}
+	/***
+	 * Getting the folder from the user 
+	 * @return file object with folder data
+	 */
+	public File getFolder()
+	{
+		boolean status = false ; 
+		File f = null ;
+		String path;
+		while(!status)
+		{
+			System.out.println("Enter folder path");
+			path = input.nextLine();
+			try
+			{
+				f = new File(path);
+				if(!f.exists())
+					throw(new Exception()); 
+				status = true;
+			}
+			
+			catch(Exception e)
+			{
+				System.out.println("Please enter a valid path");
+			}
+			
+		}
+		return f;
+		
 	}
 	
 	/***

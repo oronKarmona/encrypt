@@ -62,10 +62,10 @@ public class FileManager {
 
 			System.out.println("Total file size to read (in bytes) : " + fis.available());
 			data = new byte[fis.available()];
-			byte content;
-			while ((content = (byte) fis.read()) != -1) 
+			int content;
+			while ((content =  fis.read()) != -1) 
 			{
-				data[i] = content;
+				data[i] = (byte)content;
 				i++;
 			}
 
@@ -108,8 +108,9 @@ public class FileManager {
 	{
 		try {
 			FileOutputStream fos = new FileOutputStream(path);
-			for(byte c : content)
-				fos.write(c);
+			System.out.println(content.length);
+			//for(byte c : content)
+				fos.write(content);
 			fos.close();
 			return true;
 		} 

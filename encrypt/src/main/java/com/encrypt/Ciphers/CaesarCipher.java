@@ -23,17 +23,20 @@ public class CaesarCipher extends Cipher{
 		byte[] temp = Arrays.copyOf(input,input.length);
 		
 		start("Encryption");
-
+		int t ; 
 		for(int i = 0 ; i < temp.length ;i++)
 		{
 			if( (this.getKey() + temp[i]) > maximalValue)
 			{
-				temp[i] = (byte) (((this.getKey() + temp[i]) - maximalValue) + minimalValue);
+				 t =  (((this.getKey() + temp[i]) - maximalValue) + minimalValue);
+
 			}
 			else
 			{
-				temp[i] = (byte) (this.getKey() + temp[i]);
+				t =  (this.getKey() + temp[i]);
 			}
+			
+			temp[i] = (byte)t;
 		}
 		
 		End("Encryption");
@@ -52,20 +55,21 @@ public class CaesarCipher extends Cipher{
 		int a,b; 
 		
 		start("Decryption");
-		
+		int t ; 
 		for(int i = 0 ; i < temp.length ; i++)
 		{
 			if (temp[i]-this.getKey() < minimalValue)
 			{
 				a = temp[i] - this.getKey();
-				b = a -minimalValue;
-				temp[i] = (byte)(maximalValue +b) ;
+				b = a - minimalValue;
+				t = (maximalValue +b) ;
 			}
 			
 			else
 			{
-				temp[i] = (byte)(temp[i] - this.getKey());
+				t = (temp[i] - this.getKey());
 			}
+			temp[i] =(byte) t ;
 		}
 		
 		End("Decryption");

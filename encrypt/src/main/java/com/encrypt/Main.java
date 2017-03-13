@@ -3,6 +3,7 @@ package com.encrypt;
 
 
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -14,6 +15,7 @@ public class Main {
 
 public static void main(String[] args)
 {
+
 	Scanner in = new Scanner(System.in);
 	FileManager file = new FileManager();
 	UserOptions uo = new UserOptions();
@@ -21,6 +23,7 @@ public static void main(String[] args)
 	int result;
 	Cipher algorithm ;
 	byte[] data = null;
+	
 	
 	uo.menu_content();
 	result = uo.to_integer(in.nextLine());
@@ -34,10 +37,15 @@ public static void main(String[] args)
 	EnumCipher option = uo.eOrd(); 
 	
 	
-	
 	int oneOrmore = uo.OneOrMore(); // if the user want to encrypt one or more files
-	
-	if(oneOrmore == 1)
+	// manipulation of more than one
+	if(oneOrmore == 2 )
+	{
+		File folder = uo.getFolder();
+		
+	}
+	// manipulation of one file 
+	else if(oneOrmore == 1)
 	{
 		/*
 		 * Checking if file path valid
@@ -49,8 +57,6 @@ public static void main(String[] args)
 		{
 				if(option.equals(EnumCipher.Encryption))
 				{
-					
-					
 					algorithm.createKey();
 					file.writeBytesToFile(file.getOnlyPath()+"\\key.bin", algorithm.getByteArrayKey());
 					//file.writeKeytoFile(file.getOnlyPath()+"\\key.bin",algorithm.getKeys());
@@ -77,10 +83,10 @@ public static void main(String[] args)
 				{
 					  System.out.println("Enter key path:");
 					  ArrayList<Byte> keys = new ArrayList<Byte>() ; 
-					  byte[] k = file.ReadBytes(in.nextLine());
+					 byte[] k = file.ReadBytes(in.nextLine());
 					  for(byte b: k)
 						  keys.add(b);
-				    //  ArrayList<Byte> keys = file.readKeyFromFile(in.nextLine());
+					 
 				      
 						if(algorithm instanceof AbstractDouble)
 						{
@@ -93,9 +99,13 @@ public static void main(String[] args)
 						}
 						
 					algorithm.setInput(data);
-					
 					try {
-						if(file.writeStringTofile(file.getFilePathNoType()+"_decrypted"+"."+file.getFile().getPath().split("\\.")[1], algorithm.decrypt()))
+						algorithm.decrypt();
+					} catch (Exception e1) {
+						e1.printStackTrace();
+					}
+					try {
+						if(file.writeBytesToFile(file.getFilePathNoType()+"_decrypted"+"."+file.getFile().getPath().split("\\.")[1], algorithm.getOutput()))
 								{
 									System.out.println("File saved at: " +file.getFile().getPath().split("\\.")[0]+"_decrypted"+"."+file.getFile().getPath().split("\\.")[1]);
 								}
@@ -106,6 +116,8 @@ public static void main(String[] args)
 					{
 						System.out.println("Invalid Key!");
 					}
+					
+					
 				}
 				
 		}
