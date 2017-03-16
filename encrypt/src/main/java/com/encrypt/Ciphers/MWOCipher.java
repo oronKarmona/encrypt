@@ -1,5 +1,7 @@
 package com.encrypt.Ciphers;
 
+import MultiFiles.Cipher;
+
 public class MWOCipher extends Cipher{
 
 	@Override

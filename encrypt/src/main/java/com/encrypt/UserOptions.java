@@ -3,8 +3,9 @@ package com.encrypt;
 import java.io.File;
 import java.util.Scanner;
 
+import MultiFiles.Cipher;
+
 import com.encrypt.Ciphers.CaesarCipher;
-import com.encrypt.Ciphers.Cipher;
 import com.encrypt.Ciphers.DoubleCipher;
 import com.encrypt.Ciphers.MWOCipher;
 import com.encrypt.Ciphers.ReverseCipher;
@@ -237,6 +238,7 @@ public int to_integer(String input)
 	 * Sub menu for the user
 	 * @return 1 for one file and 2 for more than one file
 	 */
+	@SuppressWarnings("resource")
 	public int OneOrMore()
 	{
 		int result = -1 ; 

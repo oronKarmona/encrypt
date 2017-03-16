@@ -2,6 +2,8 @@ package com.encrypt.Ciphers;
 
 import java.util.ArrayList;
 
+import MultiFiles.Cipher;
+
 /***
  * Split cipher - ciphers the odds bytes with one key and the evens with another
  * @author Oron

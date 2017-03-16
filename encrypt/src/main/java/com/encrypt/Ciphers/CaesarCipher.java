@@ -2,6 +2,8 @@ package com.encrypt.Ciphers;
 
 import java.util.Arrays;
 
+import MultiFiles.Cipher;
+
 
 
 /***

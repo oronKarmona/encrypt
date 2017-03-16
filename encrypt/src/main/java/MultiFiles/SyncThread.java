@@ -1,13 +1,14 @@
-package com.encrypt;
+package MultiFiles;
 
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.util.ArrayList;
 
-import com.encrypt.Ciphers.Cipher;
+import com.encrypt.EnumCipher;
+import com.encrypt.FileManager;
 
-public class ThreadEncryption implements Runnable{
+public class SyncThread extends Thread{
 	
 	File folder ; 
 	Cipher alg ; 
@@ -16,7 +17,7 @@ public class ThreadEncryption implements Runnable{
 	FileManager fm ; 
 	EnumCipher action;
 	
-	ThreadEncryption(File folder , Cipher alg, String target , EnumCipher action)
+	public SyncThread(File folder , Cipher alg, String target , EnumCipher action)
 	{
 		this.folder = folder ; 
 		this.alg  = alg; 

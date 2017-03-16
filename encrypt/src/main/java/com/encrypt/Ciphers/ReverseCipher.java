@@ -1,5 +1,7 @@
 package com.encrypt.Ciphers;
 
+import MultiFiles.Cipher;
+
 /***
  * Reverse cipher algorithm . 
  * encrypts with given cipher decryption  
@@ -31,9 +33,9 @@ public class ReverseCipher extends AbstractDouble
 		Cipher temp = this.ciphers.get(0);
 		temp.setInput(input);
 		temp.setKey(keys.get(0));
-		String str = new String(temp.encrypt());
+		this.output = temp.encrypt();
 		End("Decrption");
-		return str;
+		return new String(output);
 	}
 
 }

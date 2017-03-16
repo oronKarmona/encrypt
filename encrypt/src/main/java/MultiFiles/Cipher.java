@@ -1,10 +1,13 @@
-package com.encrypt.Ciphers;
+package MultiFiles;
 
 
 
 import java.util.ArrayList;
 import java.util.Observable;
+
 import com.encrypt.FileManager;
+import com.encrypt.Ciphers.Operations;
+
 import lombok.Data;
 import lombok.Getter;
 /***
@@ -13,7 +16,7 @@ import lombok.Getter;
  *
  */
 @Data
-public abstract class Cipher extends Observable implements Operations{
+public abstract class Cipher extends Observable implements Operations,Cloneable{
 
 	@Getter protected final int maximalValue = Byte.MAX_VALUE + 0 ;
 	@Getter protected final int minimalValue =  Byte.MIN_VALUE  + 0;
@@ -81,5 +84,11 @@ public abstract class Cipher extends Observable implements Operations{
 		
 		return b ; 
 	} 
+	
+	@Override
+	protected Object clone() throws CloneNotSupportedException {
+
+	    return super.clone();
+	}
 
 }

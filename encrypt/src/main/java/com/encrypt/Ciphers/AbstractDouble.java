@@ -3,6 +3,8 @@ package com.encrypt.Ciphers;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import MultiFiles.Cipher;
+
 import com.encrypt.UserOptions;
 
 import lombok.Getter;

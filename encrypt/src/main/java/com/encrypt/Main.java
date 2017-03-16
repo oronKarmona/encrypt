@@ -7,8 +7,12 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import MultiFiles.Async;
+import MultiFiles.Cipher;
+import MultiFiles.Sync;
+import MultiFiles.SyncThread;
+
 import com.encrypt.Ciphers.AbstractDouble;
-import com.encrypt.Ciphers.Cipher;
 
 
 public class Main {
@@ -67,41 +71,22 @@ public static void main(String[] args)
 	// manipulation of more than one
 	if(oneOrmore == 2 )
 	{
-
 		File folder = uo.getFolder();
-		String target = null;
-		EnumCipher action = null;
 		
-		if (option.equals(EnumCipher.Encryption))
-		{
-			new File(folder.getAbsolutePath()+"\\encrypted").mkdir();
-			target = folder.getAbsolutePath()+"\\decrypted";
-			action = EnumCipher.Encryption;
-		}
+		Sync.folder = folder;
+		Sync.c = algorithm;
+		Sync.option = option;
 		
-		if (option.equals(EnumCipher.Decryption))
-		{
-			new File(folder.getParent()+"\\decrypted").mkdir();
-			target = folder.getParent()+"\\decrypted";
-			action = EnumCipher.Decryption;
-		}
-		
-		ThreadEncryption te = new ThreadEncryption(folder , algorithm , target,action);
-		
-		te.run();
-		
-		if (option.equals(EnumCipher.Encryption))
-			file.writeBytesToFile(folder.getAbsolutePath()+"\\key.bin", algorithm.getByteArrayKey());
-	
-		
-		
+		Sync.action();
+	/*	
+		Async.folder = folder;
+		Async.c = algorithm;
+		Async.option = option;
+		Async.start();
+	*/	
 		
 		
 	}
-	
-	
-	
-	
 	
 	
 	
@@ -115,6 +100,7 @@ public static void main(String[] args)
 		 */
 		
 		file = uo.file_path();
+	//	long start_time = System.nanoTime();
 		if((data = file.ReadBytes(file.getFile().getPath())) != null)
 		{
 				if(option.equals(EnumCipher.Encryption))
@@ -131,7 +117,8 @@ public static void main(String[] args)
 						
 						else
 							System.out.println("Can't write to file");
-						
+					//	long total_time = System.nanoTime() - start_time;
+			//			System.out.println( " Finished - Total time: " + ((total_time)/(double)1000000) +" ms");	
 					} 
 					catch (Exception e) {
 						e.printStackTrace();

@@ -8,8 +8,9 @@ import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mock;
 
+import MultiFiles.Cipher;
+
 import com.encrypt.Ciphers.CaesarCipher;
-import com.encrypt.Ciphers.Cipher;
 import com.encrypt.Ciphers.XorCipher;
 
 /***

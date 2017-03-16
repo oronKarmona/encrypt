@@ -1,5 +1,7 @@
 package com.encrypt.Ciphers;
 
+import MultiFiles.Cipher;
+
 public class DoubleCipher extends AbstractDouble{
 
 	public DoubleCipher(Cipher first, Cipher second) {
@@ -29,12 +31,12 @@ public class DoubleCipher extends AbstractDouble{
 			ciphers.get(i).setInput(input);
 			ciphers.get(i).setKey(keys.get(i));
 			ciphers.get(i).decrypt();
-			this.setInput(ciphers.get(i).getInput());
+			this.setInput(ciphers.get(i).getOutput());
 		}
 		
-		String output = new String(input);
+		this.output = input;
 		End("Decrption");
-		return output;
+		return new String(output);
 	}
 
 }
