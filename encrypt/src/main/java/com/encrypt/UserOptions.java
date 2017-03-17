@@ -105,6 +105,34 @@ public int to_integer(String input)
 	}
 	
 	/***
+	 * If the user wants sync or async operation
+	 * @return operation selected
+	 */
+	public int syncOrasync()
+	{
+		int result = 0;
+		boolean status = false ;
+		while(!status)
+		{
+				System.out.println("please select type of operation:");
+				System.out.println("Press 1 for sync operation");
+				System.out.println("Press 2 for async operation");
+	
+				result = to_integer(input.nextLine());
+				
+				if( result == 1 || result == 2 )
+					status = true;
+				
+				else
+				{
+					System.out.println("Please enter ONLY numbers as shown");
+				
+				}
+		}
+		
+		return result;
+	}
+	/***
 	 * Secondary ciphers for the larger ones
 	 * @param num - number of wanted secnodaries
 	 * @return the secondary cipher

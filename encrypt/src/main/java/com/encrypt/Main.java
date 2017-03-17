@@ -73,17 +73,26 @@ public static void main(String[] args)
 	{
 		File folder = uo.getFolder();
 		
-		Sync.folder = folder;
-		Sync.c = algorithm;
-		Sync.option = option;
-		
-		Sync.action();
-	/*	
-		Async.folder = folder;
-		Async.c = algorithm;
-		Async.option = option;
-		Async.start();
-	*/	
+		switch(uo.syncOrasync())
+		{
+			case 1:
+				Sync.folder = folder;
+				Sync.c = algorithm;
+				Sync.option = option;
+				Sync.action();
+				break;
+				
+			case 2:
+				Async.folder = folder;
+				Async.c = algorithm;
+				Async.option = option;
+				try {
+					Async.start();
+					} catch (CloneNotSupportedException e) {
+						e.printStackTrace();
+					}
+				break;
+		}
 		
 		
 	}
