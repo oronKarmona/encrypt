@@ -4,6 +4,7 @@ import java.io.File;
 
 import com.encrypt.EnumCipher;
 import com.encrypt.FileManager;
+import com.encrypt.Ciphers.Cipher;
 
 /***
  * This class contains static methods for accessing from the main class

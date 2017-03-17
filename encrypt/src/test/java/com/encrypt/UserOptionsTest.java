@@ -6,9 +6,8 @@ import static org.mockito.Mockito.*;
 import org.junit.Before;
 import org.junit.Test;
 
-import MultiFiles.Cipher;
-
 import com.encrypt.Ciphers.CaesarCipher;
+import com.encrypt.Ciphers.Cipher;
 /***
  * This testing class will test the UserOptions class
  * @author Oron

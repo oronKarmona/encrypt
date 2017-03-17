@@ -1,6 +1,5 @@
 package com.encrypt.Ciphers;
 
-import MultiFiles.Cipher;
 
 public class DoubleCipher extends AbstractDouble{
 

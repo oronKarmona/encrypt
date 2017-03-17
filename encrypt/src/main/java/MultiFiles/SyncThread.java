@@ -7,6 +7,7 @@ import java.util.ArrayList;
 
 import com.encrypt.EnumCipher;
 import com.encrypt.FileManager;
+import com.encrypt.Ciphers.Cipher;
 
 public class SyncThread extends Thread{
 	

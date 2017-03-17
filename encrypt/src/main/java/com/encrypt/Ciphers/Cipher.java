@@ -1,4 +1,4 @@
-package MultiFiles;
+package com.encrypt.Ciphers;
 
 
 
@@ -6,7 +6,6 @@ import java.util.ArrayList;
 import java.util.Observable;
 
 import com.encrypt.FileManager;
-import com.encrypt.Ciphers.Operations;
 
 import lombok.Data;
 import lombok.Getter;
@@ -85,8 +84,8 @@ public abstract class Cipher extends Observable implements Operations,Cloneable{
 		return b ; 
 	} 
 	
-	@Override
-	protected Object clone() throws CloneNotSupportedException {
+
+	public Object clone() throws CloneNotSupportedException {
 
 	    return super.clone();
 	}

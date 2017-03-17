@@ -8,11 +8,11 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 import MultiFiles.Async;
-import MultiFiles.Cipher;
 import MultiFiles.Sync;
 import MultiFiles.SyncThread;
 
 import com.encrypt.Ciphers.AbstractDouble;
+import com.encrypt.Ciphers.Cipher;
 
 
 public class Main {

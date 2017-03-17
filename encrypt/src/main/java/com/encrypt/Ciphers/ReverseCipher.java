@@ -1,6 +1,5 @@
 package com.encrypt.Ciphers;
 
-import MultiFiles.Cipher;
 
 /***
  * Reverse cipher algorithm . 
