@@ -7,6 +7,8 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import jaxb.DataJAXB;
+
 import org.apache.log4j.Logger;
 
 import lombok.extern.log4j.Log4j;
@@ -22,21 +24,24 @@ public class Main {
 
 public static void main(String[] args)
 {
-
 	final Logger log = Logger.getLogger(Main.class);
+	log.info("----------------------------------------New RUN-------------------------------------------");
+	//Retrieving the default cipher
+	Cipher algorithm = DataJAXB.unmarshall();
+
+	
 	
 	Scanner in = new Scanner(System.in);
 	FileManager file = new FileManager();
 	UserOptions uo = new UserOptions();
 	EventTarget eventTraget = new EventTarget();
 	int result;
-	Cipher algorithm ;
 	byte[] data = null;
 	
 	ErrorMSG.msg = "";
 	ErrorMSG.ecxeption = "";
 	
-	log.info("----------------------------------------New RUN-------------------------------------------");
+	
 	
 	uo.menu_content();
 	result = uo.to_integer(in.nextLine());

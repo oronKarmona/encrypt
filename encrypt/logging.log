@@ -1633,3 +1633,6 @@
 2017-03-19 15:05:53 INFO  Cipher:63 - Secondary cipher c.jpg.encrypted Decryption Started
 2017-03-19 15:05:53 INFO  Cipher:78 - Secondary cipher c.jpg.encrypted Decryption Finished - Total time: 0.516447 ms
 2017-03-19 15:05:53 INFO  Cipher:83 - c.jpg.encrypted Decrption Finished - Total time: 18.402019 ms
+2017-03-19 20:45:31 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 20:47:13 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 20:47:40 INFO  Main:42 - ----------------------------------------New RUN-------------------------------------------
