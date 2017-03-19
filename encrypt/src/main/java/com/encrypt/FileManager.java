@@ -70,7 +70,9 @@ public class FileManager {
 			}
 
 		} catch (IOException e) {
+			System.out.println("Faile to read file "+ path);
 			e.printStackTrace();
+			ErrorMSG.addEx("Faile to read file "+ path, e.getMessage());
 		} finally {
 			try {
 				if (fis != null)
@@ -79,7 +81,10 @@ public class FileManager {
 					return data;
 				}
 			} catch (IOException ex) {
+				
+				System.out.println("Failed to finish reading file "+ path);
 				ex.printStackTrace();
+				ErrorMSG.addEx("Failed to finish reading file "+ path, ex.getMessage());
 				return null;
 			}
 		}
@@ -115,8 +120,11 @@ public class FileManager {
 			return true;
 		} 
 		catch (Exception e) {
-			System.out.println("Failed to write file");
+			
+			System.out.println("Failed to write bytes to "+ path);
 			e.printStackTrace();
+			ErrorMSG.addEx("Failed to write bytes to "+ path, e.getMessage());
+			
 			return false;
 		}
 		

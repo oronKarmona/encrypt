@@ -28,6 +28,8 @@ public static void main(String[] args)
 	Cipher algorithm ;
 	byte[] data = null;
 	
+	ErrorMSG.msg = new ArrayList<String>();
+	ErrorMSG.ecxeption = new ArrayList<String>();
 	
 	uo.menu_content();
 	result = uo.to_integer(in.nextLine());
@@ -89,8 +91,22 @@ public static void main(String[] args)
 				try {
 					Async.start();
 					} catch (CloneNotSupportedException e) {
+						
+						ErrorMSG.addEx("Failed to use async operation", e.getMessage());
+						System.out.println("Failed to use async operation");
 						e.printStackTrace();
+						
+						
 					}
+				finally{
+					
+					//write to log
+					for(String str : ErrorMSG.msg)
+					{
+						
+					}
+				}
+					
 				break;
 		}
 		
@@ -131,7 +147,17 @@ public static void main(String[] args)
 					} 
 					catch (Exception e) {
 						e.printStackTrace();
-						System.out.println("Encryption error!");
+						System.out.println("Encryption failed!");
+						ErrorMSG.addEx("Encryption failed!", e.getMessage());
+						
+					}
+					finally{
+						
+						//write to log
+						for(String str : ErrorMSG.msg)
+						{
+							
+						}
 					}
 				}
 				
@@ -143,7 +169,18 @@ public static void main(String[] args)
 						algorithm.decrypt();
 					} catch (Exception e1) {
 						e1.printStackTrace();
+						System.out.println("Decryption failed!");
+						ErrorMSG.addEx("Decryption failed!", e1.getMessage());
 					}
+					finally{
+						
+						//write to log
+						for(String str : ErrorMSG.msg)
+						{
+							
+						}
+					}
+					
 					try {
 						if(file.writeBytesToFile(file.getFilePathNoType()+"_decrypted"+"."+file.getFile().getPath().split("\\.")[1], algorithm.getOutput()))
 								{
@@ -157,12 +194,23 @@ public static void main(String[] args)
 						System.out.println("Invalid Key!");
 					}
 					
+					finally{
+						
+						//write to log
+						for(String str : ErrorMSG.msg)
+						{
+							
+						}
+					}
+					
 					
 				}
 				
 		}
 	  
 	}
+	
+	
 	in.close();
 		
 }
