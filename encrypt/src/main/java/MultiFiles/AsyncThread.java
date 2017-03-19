@@ -5,8 +5,13 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.util.ArrayList;
 
+import org.apache.log4j.Logger;
+
 import com.encrypt.EnumCipher;
+import com.encrypt.ErrorMSG;
 import com.encrypt.FileManager;
+import com.encrypt.Main;
+import com.encrypt.Ciphers.AbstractDouble;
 import com.encrypt.Ciphers.Cipher;
 
 public class AsyncThread extends Thread{
@@ -18,7 +23,7 @@ public class AsyncThread extends Thread{
 	FileManager fm ; 
 	EnumCipher action;
 	File folder ;
-	
+	final Logger log = Logger.getLogger(AsyncThread.class);
 	
 	public AsyncThread(File file , Cipher alg, String target , EnumCipher action ,File folder)
 	{
@@ -47,9 +52,15 @@ public class AsyncThread extends Thread{
 						try {
 							data = Files.readAllBytes(file.toPath());
 						} catch (IOException e) {
+							System.out.println( "Reading file has failed");
 							e.printStackTrace();
+							ErrorMSG.addEx("Reading file has failed",e.getMessage());
+							log.error("Reading file has failed");
+							log.error(e.getMessage());
 						}
-						
+						alg.setFilePath(file.getPath());
+						if(alg instanceof AbstractDouble)
+							((AbstractDouble)alg).setScondaryCipherFilePath();
 						alg.setInput(data);
 						// if this is an Encryption action
 						if(action.equals(EnumCipher.Encryption))
@@ -57,7 +68,11 @@ public class AsyncThread extends Thread{
 							try {
 								data = alg.encrypt();
 							} catch (Exception e) {
+								System.out.println( "Encryption has failed");
 								e.printStackTrace();
+								ErrorMSG.addEx("Encryption has failed",e.getMessage());
+								log.error("Encryption has failed");
+								log.error(e.getMessage());
 							}
 							
 							fm.writeBytesToFile(target+"\\"+file.getName()+".encrypted", data);
@@ -69,7 +84,11 @@ public class AsyncThread extends Thread{
 								alg.decrypt();
 								data = alg.getOutput();
 							} catch (Exception e) {
+								System.out.println( "Decryption has failed");
 								e.printStackTrace();
+								ErrorMSG.addEx("Decryption has failed",e.getMessage());
+								log.error("Decryption has failed");
+								log.error(e.getMessage());
 							}
 							fm.setFile(file);
 						

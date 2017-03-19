@@ -1,0 +1,1635 @@
+2017-03-19 13:36:42 INFO  Main:39 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 13:36:44 INFO  UserOptions:121 - SplitCipher has been selected
+2017-03-19 13:36:50 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-19 13:36:51 INFO  Main:55 - Encryption selected
+2017-03-19 13:36:51 INFO  Main:57 - Key created
+2017-03-19 13:36:55 INFO  UserOptions:286 - folder path selected -check
+2017-03-19 13:36:58 INFO  Main:121 - ASync operation has been selected
+2017-03-19 13:36:58 INFO  Async:28 - Async operation has started
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - check\key.bin Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - check\IMG-20150816-WA0008.jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.314876 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 2.32278 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - check\key.bin Encryption Finished - Total time: 39.275841 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 1.78786 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 1.472162 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 29.132459 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.74347 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Finished - Total time: 57.007053 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 42.813381 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.590753 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.331298 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.289424 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - check\IMG-20150816-WA0008.jpg Encryption Finished - Total time: 63.295145 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Finished - Total time: 90.566261 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.349772 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.276698 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Finished - Total time: 6.210091 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.47991 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.457331 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Finished - Total time: 7.490124 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.50249 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.235234 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Finished - Total time: 57.348205 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Finished - Total time: 5.971162 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.31693 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.374814 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.264792 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 1.435624 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 2.079746 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Finished - Total time: 59.735028 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Finished - Total time: 6.539747 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.512342 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Finished - Total time: 7.947045 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.430236 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.254528 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.465542 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.188434 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Finished - Total time: 5.93832 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.313235 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Finished - Total time: 5.791761 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.385078 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.249602 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Finished - Total time: 28.806498 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.876892 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.323087 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 3.358549 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Finished - Total time: 7.349312 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Finished - Total time: 13.801206 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.286961 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.343203 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Finished - Total time: 5.703908 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.569405 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.206497 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.395751 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.227023 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Finished - Total time: 7.237238 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (27).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 3.761279 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.263971 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Finished - Total time: 6.158365 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Finished - Total time: 9.489407 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.741007 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.251655 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (3).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (4).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (5).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.247961 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.178991 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.261508 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.178581 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (3).jpg Encryption Finished - Total time: 5.708834 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (4).jpg Encryption Finished - Total time: 6.803308 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (6).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.359214 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.23975 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (27).jpg Encryption Finished - Total time: 15.862069 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (7).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (5).jpg Encryption Finished - Total time: 8.577209 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.260276 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.175296 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.451994 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.256581 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (8).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (6).jpg Encryption Finished - Total time: 5.157081 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (7).jpg Encryption Finished - Total time: 5.56679 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (9).jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 1.255402 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.213476 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷.jpg Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (8).jpg Encryption Finished - Total time: 7.263102 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.759481 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.20937 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (9).jpg Encryption Finished - Total time: 7.755738 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 1.709859 ms
+2017-03-19 13:36:58 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:36:58 INFO  Cipher:67 - null Encryption Finished - Total time: 0.172833 ms
+2017-03-19 13:36:58 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷.jpg Encryption Finished - Total time: 9.588756 ms
+2017-03-19 13:36:58 INFO  Async:99 - Async operation has Finished - Total time: 210.548247 ms
+2017-03-19 13:36:58 INFO  Main:135 - ASync operation has been finished
+2017-03-19 13:37:29 INFO  Main:39 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 13:37:30 INFO  UserOptions:121 - SplitCipher has been selected
+2017-03-19 13:37:31 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-19 13:37:32 INFO  Main:55 - Encryption selected
+2017-03-19 13:37:32 INFO  Main:57 - Key created
+2017-03-19 13:37:35 INFO  UserOptions:286 - folder path selected -check
+2017-03-19 13:37:38 INFO  Main:112 - Sync operation has been selected
+2017-03-19 13:37:38 INFO  Sync:47 - Sync thread has started
+2017-03-19 13:37:38 INFO  Cipher:60 - check\IMG-20150816-WA0008.jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 7.717559 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.442962 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\IMG-20150816-WA0008.jpg Encryption Finished - Total time: 34.378625 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 2.398318 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.204033 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Finished - Total time: 13.396013 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.604301 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.413815 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Finished - Total time: 30.58861 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.508647 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.777134 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Finished - Total time: 5.818445 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.346898 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.196234 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Finished - Total time: 5.083185 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.449531 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.296813 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Finished - Total time: 5.05527 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.440499 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.199107 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Finished - Total time: 4.485454 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.388773 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.19336 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Finished - Total time: 4.331915 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.190897 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.16298 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Finished - Total time: 3.697236 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.470468 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.194181 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Finished - Total time: 5.330325 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.328835 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.213065 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Finished - Total time: 5.230977 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.333351 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.174065 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Finished - Total time: 5.07087 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.382614 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.196644 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Finished - Total time: 4.84631 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.314876 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.205265 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Finished - Total time: 4.448506 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.357571 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.18556 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Finished - Total time: 5.073744 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.199929 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.222918 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Finished - Total time: 3.791247 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.451583 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.231539 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Finished - Total time: 5.167345 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.34074 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.306666 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Finished - Total time: 5.301998 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.378098 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.202802 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Finished - Total time: 4.045366 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (27).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.288192 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.176939 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (27).jpg Encryption Finished - Total time: 4.848362 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (3).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.416277 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.198697 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (3).jpg Encryption Finished - Total time: 5.433368 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (4).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.321035 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.177349 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (4).jpg Encryption Finished - Total time: 4.82373 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (5).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.24016 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.17858 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (5).jpg Encryption Finished - Total time: 3.338021 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (6).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.14697 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.118643 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (6).jpg Encryption Finished - Total time: 2.714015 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (7).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.183096 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.161338 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (7).jpg Encryption Finished - Total time: 3.668499 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (8).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.17776 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.175707 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (8).jpg Encryption Finished - Total time: 3.01945 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷ (9).jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.17037 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.117822 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (9).jpg Encryption Finished - Total time: 2.755068 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - check\þþIMG-20150816-WA0008 - òåú÷.jpg Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.259045 ms
+2017-03-19 13:37:38 INFO  Cipher:60 - null Encryption Started
+2017-03-19 13:37:38 INFO  Cipher:67 - null Encryption Finished - Total time: 0.159696 ms
+2017-03-19 13:37:38 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷.jpg Encryption Finished - Total time: 4.948531 ms
+2017-03-19 13:37:38 INFO  Sync:59 - Sync thread has finished- Total time: 284.132923 ms
+2017-03-19 13:37:38 INFO  Main:114 - Sync operation has been finished
+2017-03-19 13:39:48 INFO  Main:39 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 13:39:50 INFO  UserOptions:121 - SplitCipher has been selected
+2017-03-19 13:39:51 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-19 13:39:53 INFO  Main:55 - Encryption selected
+2017-03-19 13:39:53 INFO  Main:57 - Key created
+2017-03-19 13:40:00 INFO  UserOptions:286 - folder path selected -check
+2017-03-19 13:40:01 INFO  Main:121 - ASync operation has been selected
+2017-03-19 13:40:01 INFO  Async:28 - Async operation has started
+2017-03-19 13:40:01 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Started
+2017-03-19 13:40:01 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Started
+2017-03-19 13:40:01 INFO  Cipher:67 - check\IMG-20150816-WA0008.jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 7.676505 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 1.807975 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 2.267359 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 11.264129 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.395341 ms
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 9.941401 ms
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Finished - Total time: 69.54588 ms
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 3.418075 ms
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Finished - Total time: 64.709012 ms
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:82 - check\IMG-20150816-WA0008.jpg Encryption Finished - Total time: 79.888369 ms
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 30.061489 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.556679 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Finished - Total time: 85.60336 ms
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.222507 ms
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Finished - Total time: 9.007445 ms
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.245908 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.212655 ms
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Finished - Total time: 6.073795 ms
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.410941 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.321446 ms
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Finished - Total time: 15.059482 ms
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.39493 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.24755 ms
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Finished - Total time: 46.126359 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.582543 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.814082 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 2.41515 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 10.192235 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.227845 ms
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Finished - Total time: 33.601902 ms
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Finished - Total time: 53.123026 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.475395 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.331298 ms
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Finished - Total time: 20.555661 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 18.27886 ms
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Finished - Total time: 50.57076 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.457741 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.220865 ms
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Finished - Total time: 5.92231 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.370298 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.241802 ms
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Finished - Total time: 5.911225 ms
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.396572 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.259455 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.881819 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.206907 ms
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Finished - Total time: 6.162469 ms
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Finished - Total time: 6.493767 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.240161 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.212655 ms
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Finished - Total time: 5.199777 ms
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.613332 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (27).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 1.098169 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.245087 ms
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (3).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.215939 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.187613 ms
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Finished - Total time: 6.86694 ms
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.353056 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.97542 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.229897 ms
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (27).jpg Encryption Finished - Total time: 5.393957 ms
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Finished - Total time: 10.576491 ms
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (3).jpg Encryption Finished - Total time: 5.871404 ms
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (4).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (5).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (6).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.353466 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.281213 ms
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (4).jpg Encryption Finished - Total time: 6.917435 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.334993 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.180223 ms
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (7).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (6).jpg Encryption Finished - Total time: 10.253404 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (8).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.645354 ms
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷ (9).jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 7.535694 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.215939 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.343614 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (7).jpg Encryption Finished - Total time: 13.357423 ms
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.757839 ms
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.321446 ms
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 3.110999 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 1.503362 ms
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (5).jpg Encryption Finished - Total time: 26.432812 ms
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (8).jpg Encryption Finished - Total time: 8.545598 ms
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷ (9).jpg Encryption Finished - Total time: 7.495051 ms
+2017-03-19 13:40:02 INFO  Cipher:67 - check\þþIMG-20150816-WA0008 - òåú÷.jpg Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.564479 ms
+2017-03-19 13:40:02 INFO  Cipher:62 - Secondary cipher Encryption Started
+2017-03-19 13:40:02 INFO  Cipher:77 - Secondary cipher Encryption Finished - Total time: 0.121107 ms
+2017-03-19 13:40:02 INFO  Cipher:82 - check\þþIMG-20150816-WA0008 - òåú÷.jpg Encryption Finished - Total time: 5.764255 ms
+2017-03-19 13:40:02 INFO  Async:99 - Async operation has Finished - Total time: 256.21317 ms
+2017-03-19 13:40:02 INFO  Main:135 - ASync operation has been finished
+2017-03-19 13:43:33 INFO  Main:39 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 13:43:36 INFO  UserOptions:121 - SplitCipher has been selected
+2017-03-19 13:43:37 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-19 13:43:40 INFO  Main:55 - Encryption selected
+2017-03-19 13:43:40 INFO  Main:57 - Key created
+2017-03-19 13:43:49 INFO  UserOptions:286 - folder path selected -check
+2017-03-19 13:43:52 INFO  Main:112 - Sync operation has been selected
+2017-03-19 13:43:52 INFO  Sync:47 - Sync thread has started
+2017-03-19 13:43:52 INFO  Cipher:68 - check\IMG-20150816-WA0008.jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 5.998258 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.451994 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\IMG-20150816-WA0008.jpg Encryption Finished - Total time: 32.240994 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 2.812132 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.39493 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Finished - Total time: 18.687338 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.463488 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.331709 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Finished - Total time: 12.855755 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 1.179043 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.709807 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Finished - Total time: 15.70114 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.703238 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.380561 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Finished - Total time: 10.054297 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.477446 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.649458 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Finished - Total time: 6.37882 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.440088 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.224971 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Finished - Total time: 5.070459 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.290655 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.225381 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Finished - Total time: 4.379537 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.241391 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.226202 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Finished - Total time: 3.950532 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.516036 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.259455 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Finished - Total time: 5.662033 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.390825 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.229897 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Finished - Total time: 5.070048 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.235644 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.209781 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Finished - Total time: 3.59173 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.364141 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.167907 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Finished - Total time: 4.260483 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.218812 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.226202 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Finished - Total time: 3.842152 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.406835 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.234003 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Finished - Total time: 4.308925 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.260276 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.206907 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Finished - Total time: 4.228462 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.419972 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.219223 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Finished - Total time: 5.820909 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.192539 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.183097 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Finished - Total time: 3.74773 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.346488 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.159697 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Finished - Total time: 4.997795 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (27).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.314466 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.190076 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (27).jpg Encryption Finished - Total time: 4.620519 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (3).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.286961 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.153948 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (3).jpg Encryption Finished - Total time: 4.997795 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (4).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.34854 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.238929 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (4).jpg Encryption Finished - Total time: 6.0935 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (5).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.300919 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.15477 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (5).jpg Encryption Finished - Total time: 4.081082 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (6).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.228255 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.134243 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (6).jpg Encryption Finished - Total time: 3.772362 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (7).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.290245 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.217581 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (7).jpg Encryption Finished - Total time: 4.758046 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (8).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.199928 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.176938 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (8).jpg Encryption Finished - Total time: 4.403347 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (9).jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.298045 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.25576 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (9).jpg Encryption Finished - Total time: 5.087702 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷.jpg Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.13876 ms
+2017-03-19 13:43:52 INFO  Cipher:68 - null Encryption Started
+2017-03-19 13:43:52 INFO  Cipher:83 - null Encryption Finished - Total time: 0.11577 ms
+2017-03-19 13:43:52 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷.jpg Encryption Finished - Total time: 2.904501 ms
+2017-03-19 13:43:52 INFO  Sync:59 - Sync thread has finished- Total time: 291.88866 ms
+2017-03-19 13:43:52 INFO  Main:114 - Sync operation has been finished
+2017-03-19 14:50:54 INFO  Main:39 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 14:50:59 INFO  UserOptions:95 - XorCipher has been selected
+2017-03-19 14:51:04 INFO  Main:39 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 14:51:15 INFO  UserOptions:115 - ReverseCipher has been selected
+2017-03-19 14:51:16 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-19 14:51:17 INFO  Main:55 - Encryption selected
+2017-03-19 14:51:17 INFO  Main:57 - Key created
+2017-03-19 14:51:22 INFO  UserOptions:286 - folder path selected -check
+2017-03-19 14:51:25 INFO  Main:112 - Sync operation has been selected
+2017-03-19 14:51:25 INFO  Sync:47 - Sync thread has started
+2017-03-19 14:51:25 INFO  Sync:59 - Sync thread has finished- Total time: 25.204916 ms
+2017-03-19 14:51:25 INFO  Main:114 - Sync operation has been finished
+2017-03-19 14:52:22 INFO  Main:39 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 14:52:27 INFO  UserOptions:121 - SplitCipher has been selected
+2017-03-19 14:52:28 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-19 14:52:29 INFO  Main:55 - Encryption selected
+2017-03-19 14:52:29 INFO  Main:57 - Key created
+2017-03-19 14:52:37 INFO  UserOptions:286 - folder path selected -check
+2017-03-19 14:52:40 INFO  Main:112 - Sync operation has been selected
+2017-03-19 14:52:40 INFO  Sync:47 - Sync thread has started
+2017-03-19 14:53:15 INFO  Main:39 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 14:53:17 INFO  Main:39 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 14:53:20 INFO  UserOptions:115 - ReverseCipher has been selected
+2017-03-19 14:53:21 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-19 14:53:23 INFO  Main:55 - Encryption selected
+2017-03-19 14:53:23 INFO  Main:57 - Key created
+2017-03-19 14:53:26 INFO  UserOptions:286 - folder path selected -check
+2017-03-19 14:53:29 INFO  Main:112 - Sync operation has been selected
+2017-03-19 14:53:29 INFO  Sync:47 - Sync thread has started
+2017-03-19 14:53:29 INFO  Sync:59 - Sync thread has finished- Total time: 21.322531 ms
+2017-03-19 14:53:29 INFO  Main:114 - Sync operation has been finished
+2017-03-19 14:54:11 INFO  Main:39 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 14:54:13 INFO  UserOptions:121 - SplitCipher has been selected
+2017-03-19 14:54:18 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-19 14:54:20 INFO  Main:55 - Encryption selected
+2017-03-19 14:54:20 INFO  Main:57 - Key created
+2017-03-19 14:54:22 INFO  UserOptions:286 - folder path selected -check
+2017-03-19 14:54:26 INFO  Main:112 - Sync operation has been selected
+2017-03-19 14:54:26 INFO  Sync:47 - Sync thread has started
+2017-03-19 14:55:05 INFO  Cipher:68 - check\IMG-20150816-WA0008.jpg Encryption Started
+2017-03-19 14:55:05 INFO  Cipher:63 - Secondary cipher check\IMG-20150816-WA0008.jpg Encryption Started
+2017-03-19 14:55:05 INFO  Cipher:78 - Secondary cipher check\IMG-20150816-WA0008.jpg Encryption Finished - Total time: 5.829941 ms
+2017-03-19 14:55:05 INFO  Cipher:63 - Secondary cipher check\IMG-20150816-WA0008.jpg Encryption Started
+2017-03-19 14:55:05 INFO  Cipher:78 - Secondary cipher check\IMG-20150816-WA0008.jpg Encryption Finished - Total time: 1.01442 ms
+2017-03-19 14:55:05 INFO  Cipher:83 - check\IMG-20150816-WA0008.jpg Encryption Finished - Total time: 27.691498 ms
+2017-03-19 14:55:14 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Started
+2017-03-19 14:55:14 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Started
+2017-03-19 14:55:14 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Finished - Total time: 5.049112 ms
+2017-03-19 14:55:14 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Started
+2017-03-19 14:55:14 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Finished - Total time: 3.078155 ms
+2017-03-19 14:55:14 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Finished - Total time: 18.217691 ms
+2017-03-19 14:55:15 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Started
+2017-03-19 14:55:15 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Started
+2017-03-19 14:55:15 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Finished - Total time: 0.895367 ms
+2017-03-19 14:55:15 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Started
+2017-03-19 14:55:15 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Finished - Total time: 3.3606 ms
+2017-03-19 14:55:15 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Finished - Total time: 10.453332 ms
+2017-03-19 14:55:16 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Started
+2017-03-19 14:55:16 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Started
+2017-03-19 14:55:16 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Finished - Total time: 0.337866 ms
+2017-03-19 14:55:16 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Started
+2017-03-19 14:55:16 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Finished - Total time: 0.309129 ms
+2017-03-19 14:55:16 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Finished - Total time: 5.058144 ms
+2017-03-19 14:55:17 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Started
+2017-03-19 14:55:17 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Started
+2017-03-19 14:55:17 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Finished - Total time: 0.399856 ms
+2017-03-19 14:55:17 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Started
+2017-03-19 14:55:17 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Finished - Total time: 0.258224 ms
+2017-03-19 14:55:17 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Finished - Total time: 5.573359 ms
+2017-03-19 14:55:17 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Started
+2017-03-19 14:55:17 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Started
+2017-03-19 14:55:17 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Finished - Total time: 0.47991 ms
+2017-03-19 14:55:17 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Started
+2017-03-19 14:55:17 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Finished - Total time: 0.218813 ms
+2017-03-19 14:55:17 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Finished - Total time: 4.354495 ms
+2017-03-19 14:55:18 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Started
+2017-03-19 14:55:18 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Started
+2017-03-19 14:55:18 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Finished - Total time: 0.447478 ms
+2017-03-19 14:55:18 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Started
+2017-03-19 14:55:18 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Finished - Total time: 0.26315 ms
+2017-03-19 14:55:18 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Finished - Total time: 5.575822 ms
+2017-03-19 14:55:19 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Started
+2017-03-19 14:55:19 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Started
+2017-03-19 14:55:19 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Finished - Total time: 0.323087 ms
+2017-03-19 14:55:19 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Started
+2017-03-19 14:55:19 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Finished - Total time: 0.240571 ms
+2017-03-19 14:55:19 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Finished - Total time: 4.550728 ms
+2017-03-19 14:55:19 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Started
+2017-03-19 14:55:19 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Started
+2017-03-19 14:55:19 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Finished - Total time: 0.30995 ms
+2017-03-19 14:55:19 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Started
+2017-03-19 14:55:19 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Finished - Total time: 0.259866 ms
+2017-03-19 14:55:19 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Finished - Total time: 3.653309 ms
+2017-03-19 14:55:20 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Started
+2017-03-19 14:55:20 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Started
+2017-03-19 14:55:20 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Finished - Total time: 0.637554 ms
+2017-03-19 14:55:20 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Started
+2017-03-19 14:55:20 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Finished - Total time: 0.320214 ms
+2017-03-19 14:55:20 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Finished - Total time: 6.303281 ms
+2017-03-19 14:55:21 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Started
+2017-03-19 14:55:21 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Started
+2017-03-19 14:55:21 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Finished - Total time: 0.424899 ms
+2017-03-19 14:55:21 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Started
+2017-03-19 14:55:21 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Finished - Total time: 0.319803 ms
+2017-03-19 14:55:21 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Finished - Total time: 5.11685 ms
+2017-03-19 14:55:22 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Started
+2017-03-19 14:55:22 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Started
+2017-03-19 14:55:22 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Finished - Total time: 0.476215 ms
+2017-03-19 14:55:22 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Started
+2017-03-19 14:55:22 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Finished - Total time: 0.256581 ms
+2017-03-19 14:55:22 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Finished - Total time: 6.074206 ms
+2017-03-19 14:55:22 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Started
+2017-03-19 14:55:22 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Started
+2017-03-19 14:55:22 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Finished - Total time: 0.412173 ms
+2017-03-19 14:55:22 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Started
+2017-03-19 14:55:22 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Finished - Total time: 0.244265 ms
+2017-03-19 14:55:22 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Finished - Total time: 4.95428 ms
+2017-03-19 14:55:23 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Started
+2017-03-19 14:55:23 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Started
+2017-03-19 14:55:23 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Finished - Total time: 0.4639 ms
+2017-03-19 14:55:23 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Started
+2017-03-19 14:55:23 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Finished - Total time: 0.375225 ms
+2017-03-19 14:55:23 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Finished - Total time: 5.391084 ms
+2017-03-19 14:55:24 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Started
+2017-03-19 14:55:24 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Started
+2017-03-19 14:55:24 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Finished - Total time: 1.080515 ms
+2017-03-19 14:55:24 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Started
+2017-03-19 14:55:24 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Finished - Total time: 0.358393 ms
+2017-03-19 14:55:24 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Finished - Total time: 6.055732 ms
+2017-03-19 14:55:25 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Started
+2017-03-19 14:55:25 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Started
+2017-03-19 14:55:25 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Finished - Total time: 0.316109 ms
+2017-03-19 14:55:25 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Started
+2017-03-19 14:55:25 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Finished - Total time: 0.181455 ms
+2017-03-19 14:55:25 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Finished - Total time: 3.871711 ms
+2017-03-19 14:55:25 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Started
+2017-03-19 14:55:25 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Started
+2017-03-19 14:55:25 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Finished - Total time: 0.341561 ms
+2017-03-19 14:55:25 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Started
+2017-03-19 14:55:25 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Finished - Total time: 0.28655 ms
+2017-03-19 14:55:25 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Finished - Total time: 4.634476 ms
+2017-03-19 14:55:26 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Started
+2017-03-19 14:55:26 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Started
+2017-03-19 14:55:26 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Finished - Total time: 0.311182 ms
+2017-03-19 14:55:26 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Started
+2017-03-19 14:55:26 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Finished - Total time: 0.230718 ms
+2017-03-19 14:55:26 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Finished - Total time: 3.461181 ms
+2017-03-19 14:55:27 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Started
+2017-03-19 14:55:27 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Started
+2017-03-19 14:55:27 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Finished - Total time: 0.398214 ms
+2017-03-19 14:55:27 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Started
+2017-03-19 14:55:27 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Finished - Total time: 0.268897 ms
+2017-03-19 14:55:27 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Finished - Total time: 4.262946 ms
+2017-03-19 14:55:49 INFO  Main:39 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 14:55:53 INFO  UserOptions:121 - SplitCipher has been selected
+2017-03-19 14:55:54 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-19 14:55:59 INFO  Main:39 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 14:56:00 INFO  UserOptions:121 - SplitCipher has been selected
+2017-03-19 14:56:01 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-19 14:56:02 INFO  Main:55 - Encryption selected
+2017-03-19 14:56:02 INFO  Main:57 - Key created
+2017-03-19 14:56:05 INFO  UserOptions:286 - folder path selected -check
+2017-03-19 14:56:07 INFO  Main:112 - Sync operation has been selected
+2017-03-19 14:56:07 INFO  Sync:47 - Sync thread has started
+2017-03-19 14:56:28 INFO  Main:39 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 14:56:31 INFO  UserOptions:109 - DoubleCipher has been selected
+2017-03-19 14:56:32 INFO  UserOptions:187 - Secondary cipher - CaesarCipher has been selected
+2017-03-19 14:56:33 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-19 14:56:35 INFO  Main:55 - Encryption selected
+2017-03-19 14:56:35 INFO  Main:57 - Key created
+2017-03-19 14:56:38 INFO  UserOptions:286 - folder path selected -check
+2017-03-19 14:56:40 INFO  Main:112 - Sync operation has been selected
+2017-03-19 14:56:40 INFO  Sync:47 - Sync thread has started
+2017-03-19 14:56:40 INFO  Cipher:68 - check\IMG-20150816-WA0008.jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\IMG-20150816-WA0008.jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\IMG-20150816-WA0008.jpg Encryption Finished - Total time: 9.270594 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\IMG-20150816-WA0008.jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\IMG-20150816-WA0008.jpg Encryption Finished - Total time: 4.494896 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\IMG-20150816-WA0008.jpg Encrption Finished - Total time: 16.731161 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Finished - Total time: 1.066968 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Finished - Total time: 0.436804 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encrption Finished - Total time: 5.154618 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Finished - Total time: 5.345925 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Finished - Total time: 0.414636 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encrption Finished - Total time: 7.456051 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Finished - Total time: 0.578027 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Finished - Total time: 0.221276 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encrption Finished - Total time: 2.027609 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Finished - Total time: 0.798892 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Finished - Total time: 0.310361 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encrption Finished - Total time: 2.700468 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Finished - Total time: 0.78165 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Finished - Total time: 0.31693 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encrption Finished - Total time: 2.597425 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Finished - Total time: 0.771386 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Finished - Total time: 0.319393 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encrption Finished - Total time: 2.482476 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Finished - Total time: 0.729923 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Finished - Total time: 0.280393 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encrption Finished - Total time: 2.404476 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Finished - Total time: 0.664648 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Finished - Total time: 0.313645 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encrption Finished - Total time: 2.173758 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Finished - Total time: 0.545184 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Finished - Total time: 0.280803 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encrption Finished - Total time: 2.162673 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Finished - Total time: 0.633038 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Finished - Total time: 0.192128 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encrption Finished - Total time: 1.876534 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Finished - Total time: 0.602248 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Finished - Total time: 0.188844 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encrption Finished - Total time: 1.722175 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Finished - Total time: 0.734028 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Finished - Total time: 0.227844 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encrption Finished - Total time: 2.152411 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Finished - Total time: 1.023862 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Finished - Total time: 0.21676 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encrption Finished - Total time: 2.912712 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Finished - Total time: 0.706933 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Finished - Total time: 0.272181 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encrption Finished - Total time: 2.064968 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Finished - Total time: 0.440909 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Finished - Total time: 0.251655 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encrption Finished - Total time: 1.681121 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Finished - Total time: 0.717196 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Finished - Total time: 0.230718 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encrption Finished - Total time: 2.12942 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Finished - Total time: 0.454457 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Finished - Total time: 0.200749 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encrption Finished - Total time: 1.729153 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Finished - Total time: 0.544774 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Finished - Total time: 0.165443 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encrption Finished - Total time: 1.576436 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (27).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (27).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (27).jpg Encryption Finished - Total time: 0.426541 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (27).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (27).jpg Encryption Finished - Total time: 0.221686 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (27).jpg Encrption Finished - Total time: 1.60271 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (3).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (3).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (3).jpg Encryption Finished - Total time: 0.611279 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (3).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (3).jpg Encryption Finished - Total time: 0.231539 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (3).jpg Encrption Finished - Total time: 1.810439 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (4).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (4).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (4).jpg Encryption Finished - Total time: 0.493868 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (4).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (4).jpg Encryption Finished - Total time: 0.283266 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (4).jpg Encrption Finished - Total time: 2.86509 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (5).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (5).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (5).jpg Encryption Finished - Total time: 0.431878 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (5).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (5).jpg Encryption Finished - Total time: 0.148201 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (5).jpg Encrption Finished - Total time: 1.40935 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (6).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (6).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (6).jpg Encryption Finished - Total time: 0.630164 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (6).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (6).jpg Encryption Finished - Total time: 0.21676 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (6).jpg Encrption Finished - Total time: 1.780881 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (7).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (7).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (7).jpg Encryption Finished - Total time: 0.43352 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (7).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (7).jpg Encryption Finished - Total time: 0.189255 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (7).jpg Encrption Finished - Total time: 1.463951 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (8).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (8).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (8).jpg Encryption Finished - Total time: 0.412172 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (8).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (8).jpg Encryption Finished - Total time: 0.134243 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (8).jpg Encrption Finished - Total time: 1.314518 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (9).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (9).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (9).jpg Encryption Finished - Total time: 0.466362 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (9).jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (9).jpg Encryption Finished - Total time: 0.162159 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (9).jpg Encrption Finished - Total time: 1.481603 ms
+2017-03-19 14:56:40 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷.jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷.jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷.jpg Encryption Finished - Total time: 0.606764 ms
+2017-03-19 14:56:40 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷.jpg Encryption Started
+2017-03-19 14:56:40 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷.jpg Encryption Finished - Total time: 0.187202 ms
+2017-03-19 14:56:40 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷.jpg Encrption Finished - Total time: 1.619953 ms
+2017-03-19 14:56:40 INFO  Sync:59 - Sync thread has finished- Total time: 166.92407 ms
+2017-03-19 14:56:40 INFO  Main:114 - Sync operation has been finished
+2017-03-19 14:56:53 INFO  Main:39 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 14:56:55 INFO  UserOptions:109 - DoubleCipher has been selected
+2017-03-19 14:56:56 INFO  UserOptions:187 - Secondary cipher - CaesarCipher has been selected
+2017-03-19 14:56:56 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-19 14:56:58 INFO  Main:63 - Decryption selected
+2017-03-19 14:57:07 INFO  Main:96 - Key has been set
+2017-03-19 14:57:13 INFO  UserOptions:286 - folder path selected -check\encrypted
+2017-03-19 14:57:15 INFO  Main:112 - Sync operation has been selected
+2017-03-19 14:57:15 INFO  Sync:47 - Sync thread has started
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\IMG-20150816-WA0008.jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\IMG-20150816-WA0008.jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\IMG-20150816-WA0008.jpg.encrypted Decryption Finished - Total time: 5.65916 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\IMG-20150816-WA0008.jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\IMG-20150816-WA0008.jpg.encrypted Decryption Finished - Total time: 9.513628 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\IMG-20150816-WA0008.jpg.encrypted Decrption Finished - Total time: 27.535086 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (10).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (10).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (10).jpg.encrypted Decryption Finished - Total time: 0.695849 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (10).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (10).jpg.encrypted Decryption Finished - Total time: 1.584647 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (10).jpg.encrypted Decrption Finished - Total time: 9.355164 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (11).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (11).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (11).jpg.encrypted Decryption Finished - Total time: 0.397803 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (11).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (11).jpg.encrypted Decryption Finished - Total time: 0.78206 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (11).jpg.encrypted Decrption Finished - Total time: 5.793814 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (12).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (12).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (12).jpg.encrypted Decryption Finished - Total time: 0.266024 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (12).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (12).jpg.encrypted Decryption Finished - Total time: 0.478267 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (12).jpg.encrypted Decrption Finished - Total time: 5.031048 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (13).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (13).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (13).jpg.encrypted Decryption Finished - Total time: 0.274645 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (13).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (13).jpg.encrypted Decryption Finished - Total time: 0.770155 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (13).jpg.encrypted Decrption Finished - Total time: 5.595117 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (14).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (14).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (14).jpg.encrypted Decryption Finished - Total time: 0.277929 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (14).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (14).jpg.encrypted Decryption Finished - Total time: 0.772208 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (14).jpg.encrypted Decrption Finished - Total time: 5.600043 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (15).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (15).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (15).jpg.encrypted Decryption Finished - Total time: 0.257402 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (15).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (15).jpg.encrypted Decryption Finished - Total time: 0.594448 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (15).jpg.encrypted Decrption Finished - Total time: 4.730951 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (16).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (16).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (16).jpg.encrypted Decryption Finished - Total time: 0.272592 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (16).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (16).jpg.encrypted Decryption Finished - Total time: 0.5887 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (16).jpg.encrypted Decrption Finished - Total time: 4.815109 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (17).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (17).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (17).jpg.encrypted Decryption Finished - Total time: 0.19377 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (17).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (17).jpg.encrypted Decryption Finished - Total time: 0.419562 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (17).jpg.encrypted Decrption Finished - Total time: 3.875817 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (18).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (18).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (18).jpg.encrypted Decryption Finished - Total time: 0.211013 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (18).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (18).jpg.encrypted Decryption Finished - Total time: 0.39452 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (18).jpg.encrypted Decrption Finished - Total time: 4.019502 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (19).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (19).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (19).jpg.encrypted Decryption Finished - Total time: 0.205676 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (19).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (19).jpg.encrypted Decryption Finished - Total time: 0.367014 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (19).jpg.encrypted Decrption Finished - Total time: 3.728026 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (2).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (2).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (2).jpg.encrypted Decryption Finished - Total time: 0.245497 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (2).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (2).jpg.encrypted Decryption Finished - Total time: 0.569406 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (2).jpg.encrypted Decrption Finished - Total time: 3.783036 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (20).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (20).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (20).jpg.encrypted Decryption Finished - Total time: 0.25535 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (20).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (20).jpg.encrypted Decryption Finished - Total time: 0.654385 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (20).jpg.encrypted Decrption Finished - Total time: 4.960027 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (21).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (21).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (21).jpg.encrypted Decryption Finished - Total time: 0.374403 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (21).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (21).jpg.encrypted Decryption Finished - Total time: 0.716375 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (21).jpg.encrypted Decrption Finished - Total time: 4.68374 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (22).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (22).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (22).jpg.encrypted Decryption Finished - Total time: 0.233592 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (22).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (22).jpg.encrypted Decryption Finished - Total time: 0.495099 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (22).jpg.encrypted Decrption Finished - Total time: 3.916048 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (23).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (23).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (23).jpg.encrypted Decryption Finished - Total time: 0.174886 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (23).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (23).jpg.encrypted Decryption Finished - Total time: 0.73526 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (23).jpg.encrypted Decrption Finished - Total time: 4.319599 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (24).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (24).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (24).jpg.encrypted Decryption Finished - Total time: 0.247139 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (24).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (24).jpg.encrypted Decryption Finished - Total time: 0.482373 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (24).jpg.encrypted Decrption Finished - Total time: 3.672604 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (25).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (25).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (25).jpg.encrypted Decryption Finished - Total time: 0.161749 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (25).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (25).jpg.encrypted Decryption Finished - Total time: 0.41833 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (25).jpg.encrypted Decrption Finished - Total time: 3.490738 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (26).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (26).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (26).jpg.encrypted Decryption Finished - Total time: 0.244266 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (26).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (26).jpg.encrypted Decryption Finished - Total time: 0.70447 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (26).jpg.encrypted Decrption Finished - Total time: 4.928416 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (27).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (27).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (27).jpg.encrypted Decryption Finished - Total time: 0.237287 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (27).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (27).jpg.encrypted Decryption Finished - Total time: 0.805871 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (27).jpg.encrypted Decrption Finished - Total time: 5.260535 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (3).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (3).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (3).jpg.encrypted Decryption Finished - Total time: 0.163391 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (3).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (3).jpg.encrypted Decryption Finished - Total time: 0.484015 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (3).jpg.encrypted Decrption Finished - Total time: 3.436959 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (4).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (4).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (4).jpg.encrypted Decryption Finished - Total time: 0.196644 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (4).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (4).jpg.encrypted Decryption Finished - Total time: 0.935188 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (4).jpg.encrypted Decrption Finished - Total time: 9.416743 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (5).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (5).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (5).jpg.encrypted Decryption Finished - Total time: 0.244265 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (5).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (5).jpg.encrypted Decryption Finished - Total time: 0.608405 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (5).jpg.encrypted Decrption Finished - Total time: 4.230515 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (6).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (6).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (6).jpg.encrypted Decryption Finished - Total time: 0.165854 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (6).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (6).jpg.encrypted Decryption Finished - Total time: 0.403551 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (6).jpg.encrypted Decrption Finished - Total time: 3.622519 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (7).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (7).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (7).jpg.encrypted Decryption Finished - Total time: 0.293529 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (7).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (7).jpg.encrypted Decryption Finished - Total time: 1.009084 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (7).jpg.encrypted Decrption Finished - Total time: 5.211682 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (8).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (8).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (8).jpg.encrypted Decryption Finished - Total time: 0.288603 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (8).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (8).jpg.encrypted Decryption Finished - Total time: 0.667933 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (8).jpg.encrypted Decrption Finished - Total time: 5.431315 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (9).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (9).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (9).jpg.encrypted Decryption Finished - Total time: 0.212244 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (9).jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (9).jpg.encrypted Decryption Finished - Total time: 0.706112 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (9).jpg.encrypted Decrption Finished - Total time: 4.898447 ms
+2017-03-19 14:57:15 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷.jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷.jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷.jpg.encrypted Decryption Finished - Total time: 0.300508 ms
+2017-03-19 14:57:15 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷.jpg.encrypted Decryption Started
+2017-03-19 14:57:15 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷.jpg.encrypted Decryption Finished - Total time: 0.640428 ms
+2017-03-19 14:57:15 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷.jpg.encrypted Decrption Finished - Total time: 4.466159 ms
+2017-03-19 14:57:15 INFO  Sync:59 - Sync thread has finished- Total time: 295.563728 ms
+2017-03-19 14:57:15 INFO  Main:114 - Sync operation has been finished
+2017-03-19 14:58:27 INFO  Main:39 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 14:58:30 INFO  UserOptions:121 - SplitCipher has been selected
+2017-03-19 14:58:31 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-19 14:58:33 INFO  Main:55 - Encryption selected
+2017-03-19 14:58:33 INFO  Main:57 - Key created
+2017-03-19 14:58:36 INFO  UserOptions:286 - folder path selected -check
+2017-03-19 14:58:37 INFO  Main:112 - Sync operation has been selected
+2017-03-19 14:58:37 INFO  Sync:47 - Sync thread has started
+2017-03-19 14:58:37 INFO  Cipher:68 - check\IMG-20150816-WA0008.jpg Encryption Started
+2017-03-19 14:58:37 INFO  Cipher:63 - Secondary cipher check\IMG-20150816-WA0008.jpg Encryption Started
+2017-03-19 14:58:37 INFO  Cipher:78 - Secondary cipher check\IMG-20150816-WA0008.jpg Encryption Finished - Total time: 4.080671 ms
+2017-03-19 14:58:37 INFO  Cipher:63 - Secondary cipher check\IMG-20150816-WA0008.jpg Encryption Started
+2017-03-19 14:58:37 INFO  Cipher:78 - Secondary cipher check\IMG-20150816-WA0008.jpg Encryption Finished - Total time: 0.979936 ms
+2017-03-19 14:58:37 INFO  Cipher:83 - check\IMG-20150816-WA0008.jpg Encryption Finished - Total time: 20.538418 ms
+2017-03-19 14:58:37 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Started
+2017-03-19 14:58:37 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Started
+2017-03-19 14:58:37 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Finished - Total time: 2.377791 ms
+2017-03-19 14:58:37 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Started
+2017-03-19 14:58:37 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Finished - Total time: 2.031714 ms
+2017-03-19 14:58:37 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (10).jpg Encryption Finished - Total time: 13.745375 ms
+2017-03-19 14:58:37 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Started
+2017-03-19 14:58:37 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Started
+2017-03-19 14:58:37 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Finished - Total time: 0.378098 ms
+2017-03-19 14:58:37 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Started
+2017-03-19 14:58:37 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Finished - Total time: 0.189664 ms
+2017-03-19 14:58:37 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (11).jpg Encryption Finished - Total time: 9.92457 ms
+2017-03-19 14:58:37 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Started
+2017-03-19 14:58:37 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Started
+2017-03-19 14:58:37 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Finished - Total time: 0.443783 ms
+2017-03-19 14:58:37 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Started
+2017-03-19 14:58:37 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Finished - Total time: 0.17776 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (12).jpg Encryption Finished - Total time: 11.466932 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Finished - Total time: 0.352235 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Finished - Total time: 0.23236 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (13).jpg Encryption Finished - Total time: 5.145997 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Finished - Total time: 0.955715 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Finished - Total time: 0.23236 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (14).jpg Encryption Finished - Total time: 5.72115 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Finished - Total time: 0.493457 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Finished - Total time: 0.237287 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (15).jpg Encryption Finished - Total time: 5.818446 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Finished - Total time: 0.422846 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Finished - Total time: 0.223328 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (16).jpg Encryption Finished - Total time: 4.709193 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Finished - Total time: 0.351414 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Finished - Total time: 0.229076 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (17).jpg Encryption Finished - Total time: 4.395958 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Finished - Total time: 0.427362 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Finished - Total time: 0.291066 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (18).jpg Encryption Finished - Total time: 4.088471 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Finished - Total time: 0.314467 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Finished - Total time: 0.141633 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (19).jpg Encryption Finished - Total time: 3.83271 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Finished - Total time: 0.238108 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Finished - Total time: 0.191718 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (2).jpg Encryption Finished - Total time: 3.056398 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Finished - Total time: 0.419973 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Finished - Total time: 0.190486 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (20).jpg Encryption Finished - Total time: 4.155798 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Finished - Total time: 0.219223 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Finished - Total time: 0.231128 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (21).jpg Encryption Finished - Total time: 3.156567 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Finished - Total time: 0.345667 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Finished - Total time: 0.20937 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (22).jpg Encryption Finished - Total time: 4.184124 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Finished - Total time: 0.273413 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Finished - Total time: 0.16257 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (23).jpg Encryption Finished - Total time: 3.509213 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Finished - Total time: 0.268076 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Finished - Total time: 0.195823 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (24).jpg Encryption Finished - Total time: 4.32001 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Finished - Total time: 0.235234 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Finished - Total time: 0.16298 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (25).jpg Encryption Finished - Total time: 3.358958 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Finished - Total time: 0.326782 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Finished - Total time: 0.183507 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (26).jpg Encryption Finished - Total time: 3.521119 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (27).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (27).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (27).jpg Encryption Finished - Total time: 0.25494 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (27).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (27).jpg Encryption Finished - Total time: 0.133422 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (27).jpg Encryption Finished - Total time: 3.365937 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (3).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (3).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (3).jpg Encryption Finished - Total time: 0.223328 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (3).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (3).jpg Encryption Finished - Total time: 0.132602 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (3).jpg Encryption Finished - Total time: 2.963208 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (4).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (4).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (4).jpg Encryption Finished - Total time: 0.300097 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (4).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (4).jpg Encryption Finished - Total time: 0.156002 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (4).jpg Encryption Finished - Total time: 4.565507 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (5).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (5).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (5).jpg Encryption Finished - Total time: 0.342383 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (5).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (5).jpg Encryption Finished - Total time: 0.222918 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (5).jpg Encryption Finished - Total time: 3.75512 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (6).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (6).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (6).jpg Encryption Finished - Total time: 0.27834 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (6).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (6).jpg Encryption Finished - Total time: 0.131781 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (6).jpg Encryption Finished - Total time: 2.943091 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (7).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (7).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (7).jpg Encryption Finished - Total time: 0.364962 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (7).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (7).jpg Encryption Finished - Total time: 0.158465 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (7).jpg Encryption Finished - Total time: 3.797816 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (8).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (8).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (8).jpg Encryption Finished - Total time: 0.268897 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (8).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (8).jpg Encryption Finished - Total time: 0.125212 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (8).jpg Encryption Finished - Total time: 3.361832 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷ (9).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (9).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (9).jpg Encryption Finished - Total time: 0.213476 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (9).jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷ (9).jpg Encryption Finished - Total time: 0.130138 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷ (9).jpg Encryption Finished - Total time: 2.915175 ms
+2017-03-19 14:58:38 INFO  Cipher:68 - check\þþIMG-20150816-WA0008 - òåú÷.jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷.jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷.jpg Encryption Finished - Total time: 0.237697 ms
+2017-03-19 14:58:38 INFO  Cipher:63 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷.jpg Encryption Started
+2017-03-19 14:58:38 INFO  Cipher:78 - Secondary cipher check\þþIMG-20150816-WA0008 - òåú÷.jpg Encryption Finished - Total time: 0.204855 ms
+2017-03-19 14:58:38 INFO  Cipher:83 - check\þþIMG-20150816-WA0008 - òåú÷.jpg Encryption Finished - Total time: 3.733773 ms
+2017-03-19 14:58:38 INFO  Sync:59 - Sync thread has finished- Total time: 237.666234 ms
+2017-03-19 14:58:38 INFO  Main:114 - Sync operation has been finished
+2017-03-19 14:59:24 INFO  Main:39 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 14:59:25 INFO  UserOptions:121 - SplitCipher has been selected
+2017-03-19 14:59:26 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-19 14:59:30 INFO  Main:63 - Decryption selected
+2017-03-19 14:59:34 INFO  Main:96 - Key has been set
+2017-03-19 14:59:39 INFO  UserOptions:286 - folder path selected -check\encrypted
+2017-03-19 14:59:42 INFO  Main:112 - Sync operation has been selected
+2017-03-19 14:59:42 INFO  Sync:47 - Sync thread has started
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\IMG-20150816-WA0008.jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\IMG-20150816-WA0008.jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\IMG-20150816-WA0008.jpg.encrypted Decryption Finished - Total time: 4.450148 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\IMG-20150816-WA0008.jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\IMG-20150816-WA0008.jpg.encrypted Decryption Finished - Total time: 0.460204 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\IMG-20150816-WA0008.jpg.encrypted Decryption Finished - Total time: 30.040963 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (10).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (10).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (10).jpg.encrypted Decryption Finished - Total time: 2.191821 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (10).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (10).jpg.encrypted Decryption Finished - Total time: 0.324729 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (10).jpg.encrypted Decryption Finished - Total time: 13.612773 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (11).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (11).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (11).jpg.encrypted Decryption Finished - Total time: 0.509879 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (11).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (11).jpg.encrypted Decryption Finished - Total time: 0.427772 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (11).jpg.encrypted Decryption Finished - Total time: 16.061996 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (12).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (12).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (12).jpg.encrypted Decryption Finished - Total time: 0.492637 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (12).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (12).jpg.encrypted Decryption Finished - Total time: 0.392056 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (12).jpg.encrypted Decryption Finished - Total time: 17.352293 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (13).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (13).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (13).jpg.encrypted Decryption Finished - Total time: 0.435162 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (13).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (13).jpg.encrypted Decryption Finished - Total time: 0.327193 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (13).jpg.encrypted Decryption Finished - Total time: 9.222151 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (14).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (14).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (14).jpg.encrypted Decryption Finished - Total time: 0.639195 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (14).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (14).jpg.encrypted Decryption Finished - Total time: 0.457742 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (14).jpg.encrypted Decryption Finished - Total time: 10.429521 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (15).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (15).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (15).jpg.encrypted Decryption Finished - Total time: 0.335814 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (15).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (15).jpg.encrypted Decryption Finished - Total time: 0.229897 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (15).jpg.encrypted Decryption Finished - Total time: 6.917435 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (16).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (16).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (16).jpg.encrypted Decryption Finished - Total time: 0.305434 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (16).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (16).jpg.encrypted Decryption Finished - Total time: 0.26356 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (16).jpg.encrypted Decryption Finished - Total time: 6.298356 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (17).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (17).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (17).jpg.encrypted Decryption Finished - Total time: 0.196234 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (17).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (17).jpg.encrypted Decryption Finished - Total time: 0.242623 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (17).jpg.encrypted Decryption Finished - Total time: 6.073795 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (18).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (18).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (18).jpg.encrypted Decryption Finished - Total time: 0.32555 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (18).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (18).jpg.encrypted Decryption Finished - Total time: 0.343203 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (18).jpg.encrypted Decryption Finished - Total time: 7.31606 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (19).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (19).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (19).jpg.encrypted Decryption Finished - Total time: 0.205265 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (19).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (19).jpg.encrypted Decryption Finished - Total time: 0.273414 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (19).jpg.encrypted Decryption Finished - Total time: 5.623033 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (2).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (2).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (2).jpg.encrypted Decryption Finished - Total time: 0.199518 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (2).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (2).jpg.encrypted Decryption Finished - Total time: 0.174475 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (2).jpg.encrypted Decryption Finished - Total time: 11.16355 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (20).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (20).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (20).jpg.encrypted Decryption Finished - Total time: 0.239339 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (20).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (20).jpg.encrypted Decryption Finished - Total time: 0.222918 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (20).jpg.encrypted Decryption Finished - Total time: 5.315136 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (21).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (21).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (21).jpg.encrypted Decryption Finished - Total time: 0.197465 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (21).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (21).jpg.encrypted Decryption Finished - Total time: 0.205265 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (21).jpg.encrypted Decryption Finished - Total time: 5.513422 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (22).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (22).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (22).jpg.encrypted Decryption Finished - Total time: 0.282445 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (22).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (22).jpg.encrypted Decryption Finished - Total time: 0.286961 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (22).jpg.encrypted Decryption Finished - Total time: 7.171554 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (23).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (23).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (23).jpg.encrypted Decryption Finished - Total time: 0.197055 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (23).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (23).jpg.encrypted Decryption Finished - Total time: 0.215939 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (23).jpg.encrypted Decryption Finished - Total time: 6.5574 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (24).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (24).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (24).jpg.encrypted Decryption Finished - Total time: 0.307487 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (24).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (24).jpg.encrypted Decryption Finished - Total time: 0.161749 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (24).jpg.encrypted Decryption Finished - Total time: 5.183355 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (25).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (25).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (25).jpg.encrypted Decryption Finished - Total time: 0.141222 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (25).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (25).jpg.encrypted Decryption Finished - Total time: 0.160517 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (25).jpg.encrypted Decryption Finished - Total time: 5.076207 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (26).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (26).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (26).jpg.encrypted Decryption Finished - Total time: 0.204033 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (26).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (26).jpg.encrypted Decryption Finished - Total time: 0.167086 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (26).jpg.encrypted Decryption Finished - Total time: 5.185819 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (27).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (27).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (27).jpg.encrypted Decryption Finished - Total time: 0.134654 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (27).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (27).jpg.encrypted Decryption Finished - Total time: 0.134243 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (27).jpg.encrypted Decryption Finished - Total time: 5.058143 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (3).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (3).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (3).jpg.encrypted Decryption Finished - Total time: 0.240571 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (3).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (3).jpg.encrypted Decryption Finished - Total time: 0.151896 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (3).jpg.encrypted Decryption Finished - Total time: 5.331557 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (4).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (4).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (4).jpg.encrypted Decryption Finished - Total time: 0.138759 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (4).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (4).jpg.encrypted Decryption Finished - Total time: 0.13999 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (4).jpg.encrypted Decryption Finished - Total time: 5.623854 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (5).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (5).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (5).jpg.encrypted Decryption Finished - Total time: 0.192539 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (5).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (5).jpg.encrypted Decryption Finished - Total time: 0.138759 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (5).jpg.encrypted Decryption Finished - Total time: 4.924721 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (6).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (6).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (6).jpg.encrypted Decryption Finished - Total time: 0.135885 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (6).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (6).jpg.encrypted Decryption Finished - Total time: 0.129727 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (6).jpg.encrypted Decryption Finished - Total time: 4.736698 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (7).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (7).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (7).jpg.encrypted Decryption Finished - Total time: 0.17817 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (7).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (7).jpg.encrypted Decryption Finished - Total time: 0.186381 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (7).jpg.encrypted Decryption Finished - Total time: 7.474525 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (8).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (8).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (8).jpg.encrypted Decryption Finished - Total time: 0.225381 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (8).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (8).jpg.encrypted Decryption Finished - Total time: 0.144917 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (8).jpg.encrypted Decryption Finished - Total time: 4.99328 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (9).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (9).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (9).jpg.encrypted Decryption Finished - Total time: 0.265613 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (9).jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (9).jpg.encrypted Decryption Finished - Total time: 0.145738 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷ (9).jpg.encrypted Decryption Finished - Total time: 5.634528 ms
+2017-03-19 14:59:42 INFO  Cipher:68 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷.jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷.jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷.jpg.encrypted Decryption Finished - Total time: 0.117001 ms
+2017-03-19 14:59:42 INFO  Cipher:63 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷.jpg.encrypted Decryption Started
+2017-03-19 14:59:42 INFO  Cipher:78 - Secondary cipher check\encrypted\þþIMG-20150816-WA0008 - òåú÷.jpg.encrypted Decryption Finished - Total time: 0.121107 ms
+2017-03-19 14:59:42 INFO  Cipher:83 - check\encrypted\þþIMG-20150816-WA0008 - òåú÷.jpg.encrypted Decryption Finished - Total time: 4.821678 ms
+2017-03-19 14:59:42 INFO  Sync:59 - Sync thread has finished- Total time: 314.879177 ms
+2017-03-19 14:59:42 INFO  Main:114 - Sync operation has been finished
+2017-03-19 15:00:06 INFO  Main:39 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 15:00:09 INFO  UserOptions:109 - DoubleCipher has been selected
+2017-03-19 15:00:11 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-19 15:00:12 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-19 15:00:14 INFO  Main:55 - Encryption selected
+2017-03-19 15:00:14 INFO  Main:57 - Key created
+2017-03-19 15:00:27 INFO  UserOptions:262 - file path selected -c.jpg
+2017-03-19 15:00:28 INFO  Cipher:68 - null Encryption Started
+2017-03-19 15:00:28 INFO  Cipher:68 - null Encryption Started
+2017-03-19 15:00:28 INFO  Cipher:83 - null Encryption Finished - Total time: 5.095502 ms
+2017-03-19 15:00:28 INFO  Cipher:68 - null Encryption Started
+2017-03-19 15:00:28 INFO  Cipher:83 - null Encryption Finished - Total time: 0.708576 ms
+2017-03-19 15:00:28 INFO  Cipher:83 - null Encrption Finished - Total time: 8.637557 ms
+2017-03-19 15:04:47 INFO  Main:39 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 15:04:58 INFO  UserOptions:109 - DoubleCipher has been selected
+2017-03-19 15:04:59 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-19 15:05:00 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-19 15:05:01 INFO  Main:55 - Encryption selected
+2017-03-19 15:05:01 INFO  Main:57 - Key created
+2017-03-19 15:05:07 INFO  UserOptions:262 - file path selected -c.jpg
+2017-03-19 15:05:08 INFO  Cipher:68 - c.jpg Encryption Started
+2017-03-19 15:05:08 INFO  Cipher:63 - Secondary cipher c.jpg Encryption Started
+2017-03-19 15:05:08 INFO  Cipher:78 - Secondary cipher c.jpg Encryption Finished - Total time: 5.366041 ms
+2017-03-19 15:05:08 INFO  Cipher:63 - Secondary cipher c.jpg Encryption Started
+2017-03-19 15:05:08 INFO  Cipher:78 - Secondary cipher c.jpg Encryption Finished - Total time: 0.388772 ms
+2017-03-19 15:05:08 INFO  Cipher:83 - c.jpg Encrption Finished - Total time: 8.798895 ms
+2017-03-19 15:05:22 INFO  Main:39 - ----------------------------------------New RUN-------------------------------------------
+2017-03-19 15:05:39 INFO  UserOptions:109 - DoubleCipher has been selected
+2017-03-19 15:05:40 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-19 15:05:40 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-19 15:05:42 INFO  Main:63 - Decryption selected
+2017-03-19 15:05:45 INFO  Main:97 - Key has been set
+2017-03-19 15:05:52 INFO  UserOptions:262 - file path selected -c.jpg.encrypted
+2017-03-19 15:05:53 INFO  Cipher:68 - c.jpg.encrypted Decryption Started
+2017-03-19 15:05:53 INFO  Cipher:63 - Secondary cipher c.jpg.encrypted Decryption Started
+2017-03-19 15:05:53 INFO  Cipher:78 - Secondary cipher c.jpg.encrypted Decryption Finished - Total time: 4.90132 ms
+2017-03-19 15:05:53 INFO  Cipher:63 - Secondary cipher c.jpg.encrypted Decryption Started
+2017-03-19 15:05:53 INFO  Cipher:78 - Secondary cipher c.jpg.encrypted Decryption Finished - Total time: 0.516447 ms
+2017-03-19 15:05:53 INFO  Cipher:83 - c.jpg.encrypted Decrption Finished - Total time: 18.402019 ms

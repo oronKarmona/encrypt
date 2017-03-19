@@ -3,6 +3,8 @@ package com.encrypt;
 import java.io.File;
 import java.util.Scanner;
 
+import org.apache.log4j.Logger;
+
 import com.encrypt.Ciphers.CaesarCipher;
 import com.encrypt.Ciphers.Cipher;
 import com.encrypt.Ciphers.DoubleCipher;
@@ -18,6 +20,10 @@ import com.encrypt.Ciphers.XorCipher;
 public class UserOptions {
 	Scanner input;
 	
+	/***
+	 * Logger object
+	 */
+	final Logger log = Logger.getLogger(UserOptions.class);
 	/***
 	 * Constructor
 	 */
@@ -80,22 +86,39 @@ public int to_integer(String input)
 		}
 		
 		if(result == 1 )
+		{
+			log.info("CaesarCipher has been selected");
 			return (new CaesarCipher());
-		
+		}
 		else if(result == 2)
+		{
+			log.info("XorCipher has been selected");
 			return (new XorCipher());
+		}
+			
 		
 		else if(result == 3)
+		{
+			log.info("MWOCipher has been selected");
 			return (new MWOCipher());
+		}
+			
 		
 		else if (result == 4)
+		{
+			log.info("DoubleCipher has been selected");
 			return (new DoubleCipher(secondCipher("first"),secondCipher("second")));
+		}
 		
 		else if(result == 5)
+		{
+			log.info("ReverseCipher has been selected");
 			return (new ReverseCipher(secondCipher("one"),null));
+		}
 		
 		else 
 		{
+			log.info("SplitCipher has been selected");
 			Cipher c =  secondCipher("one");
 			return (new SplitCipher(c,c));
 		}
@@ -160,13 +183,22 @@ public int to_integer(String input)
 		}
 		
 		if(result == 1 )
+		{
+			log.info("Secondary cipher - CaesarCipher has been selected");
 			return (new CaesarCipher());
+		}
 		
 		else if(result == 2)
+		{
+			log.info("Secondary cipher - XorCipher has been selected");
 			return (new XorCipher());
+		}
 		
 		else 
+		{
+			log.info("Secondary cipher - MWOCipher has been selected");
 			return (new MWOCipher());
+		}
 
 	}
 	/***
@@ -205,7 +237,7 @@ public int to_integer(String input)
 	public FileManager file_path()
 	{
 		boolean status = false ; 
-		String path ; 
+		String path = ""; 
 		File f = null ;
 		FileManager file = new FileManager();
 		
@@ -227,7 +259,7 @@ public int to_integer(String input)
 			}
 			
 		}
-		
+		log.info("file path selected -" + path);
 		return file;
 	}
 	/***
@@ -238,25 +270,20 @@ public int to_integer(String input)
 	{
 		boolean status = false ; 
 		File f = null ;
-		String path;
+		String path = "";
 		while(!status)
 		{
 			System.out.println("Enter folder path");
 			path = input.nextLine();
-			try
-			{
+			
 				f = new File(path);
 				if(!f.exists())
-					throw(new Exception()); 
-				status = true;
-			}
-			
-			catch(Exception e)
-			{
-				System.out.println("Please enter a valid path");
-			}
-			
+					status = false ;
+				else 
+					status = true;
 		}
+		
+		log.info("folder path selected -" + path);
 		return f;
 		
 	}

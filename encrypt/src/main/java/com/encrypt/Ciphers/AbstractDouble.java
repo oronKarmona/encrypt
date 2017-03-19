@@ -15,7 +15,7 @@ import lombok.Setter;
  */
 public abstract class AbstractDouble extends Cipher
 {
-	@Getter @Setter protected ArrayList<Cipher> ciphers;
+	 @Setter protected ArrayList<Cipher> ciphers;
 	
 	/***
 	 * Constructor
@@ -47,5 +47,23 @@ public abstract class AbstractDouble extends Cipher
 		
 		
 	}
-
+	
+	public ArrayList<Cipher> getCiphers()
+	{
+		return this.ciphers;
+	}
+	
+	public void setCiphers(ArrayList<Cipher> c)
+	{
+		 this.ciphers = c ;
+	}
+	
+	public void setScondaryCipherFilePath()
+	{
+		for(Cipher c : this.ciphers)
+		{
+			c.setFilePath(this.filepath);
+			c.secondary = true;
+		}
+	}
 }

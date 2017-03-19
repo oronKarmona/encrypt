@@ -1,5 +1,7 @@
 package com.encrypt.Ciphers;
 
+import java.io.Serializable;
+
 public interface Operations {
 
 	/***

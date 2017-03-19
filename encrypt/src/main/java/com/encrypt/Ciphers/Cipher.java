@@ -5,7 +5,10 @@ package com.encrypt.Ciphers;
 import java.util.ArrayList;
 import java.util.Observable;
 
+import org.apache.log4j.Logger;
+
 import com.encrypt.FileManager;
+import com.encrypt.Main;
 
 import lombok.Data;
 import lombok.Getter;
@@ -25,7 +28,10 @@ public abstract class Cipher extends Observable implements Operations,Cloneable{
 	protected byte[] output;
 	protected long start_time ; 
 	protected FileManager fm;
+	protected String filepath;
+	protected boolean secondary =false;
 	
+	final Logger log = Logger.getLogger(Cipher.class);
 	public Cipher()
 	{
 		keys = new ArrayList<Byte>();
@@ -39,17 +45,44 @@ public abstract class Cipher extends Observable implements Operations,Cloneable{
 	
 
 	
+	public void setFilePath(String filePath)
+	{
+		this.filepath = filePath;
+	}
+	
+	public String getFilePath()
+	{
+		return this.filepath;
+	}
 	
 	public void start(String msg)
 	{
 		start_time = System.nanoTime();
-		publish(msg + " Started");
+		if(secondary )
+		{
+			log.info("Secondary cipher "+this.filepath+" "+msg + " Started");
+			publish("Secondary cipher "+this.filepath+" "+msg + " Started");
+		}
+		else
+		{
+		log.info(this.filepath+" "+msg + " Started");
+		publish(this.filepath+" "+msg + " Started");
+		}
 	}
 	
 	public void End(String msg)
 	{
 		long total_time = System.nanoTime() - start_time;
-		publish(msg + " Finished - Total time: " + ((total_time)/(double)1000000) +" ms");
+		if(secondary)
+		{
+			log.info("Secondary cipher "+this.filepath+" "+msg + " Finished - Total time: " + ((total_time)/(double)1000000) +" ms");
+			publish("Secondary cipher "+this.filepath+" "+msg + " Finished - Total time: " + ((total_time)/(double)1000000) +" ms");
+		}
+		else
+		{
+		log.info(this.filepath+" "+msg + " Finished - Total time: " + ((total_time)/(double)1000000) +" ms");
+		publish(this.filepath+" "+msg + " Finished - Total time: " + ((total_time)/(double)1000000) +" ms");
+		}
 	}
 	
 	public void publish(String msg)

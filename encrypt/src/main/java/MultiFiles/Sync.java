@@ -2,8 +2,11 @@ package MultiFiles;
 
 import java.io.File;
 
+import org.apache.log4j.Logger;
+
 import com.encrypt.EnumCipher;
 import com.encrypt.FileManager;
+import com.encrypt.Main;
 import com.encrypt.Ciphers.Cipher;
 
 /***
@@ -12,7 +15,7 @@ import com.encrypt.Ciphers.Cipher;
  *
  */
 public class Sync {
-	
+	final static Logger log = Logger.getLogger(Sync.class);
 	public static Cipher c ; 
 	public static File folder;
 	public static EnumCipher option;
@@ -41,8 +44,9 @@ public class Sync {
 		
 		SyncThread te = new SyncThread(folder , c , target,action);
 		
+		log.info("Sync thread has started");
 		
-			te.start();
+			te.run();
 		
 		
 		if (option.equals(EnumCipher.Encryption))
@@ -52,6 +56,7 @@ public class Sync {
 		while(te.isAlive());
 		
 		long total_time = System.nanoTime() - start_time;
+		log.info("Sync thread has finished- Total time: " + ((total_time)/(double)1000000) +" ms");
 		System.out.println(" Finished - Total time: " + ((total_time)/(double)1000000) +" ms");
 		
 	}

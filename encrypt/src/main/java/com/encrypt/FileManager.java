@@ -13,6 +13,8 @@ import java.nio.file.Files;
 import java.util.ArrayList;
 import java.util.NoSuchElementException;
 
+import org.apache.log4j.Logger;
+
 import lombok.Getter;
 import lombok.Setter;
 
@@ -27,6 +29,10 @@ public class FileManager {
 	 */
 	@Getter @Setter private File file;
 	
+	/***
+	 * Logger object
+	 */
+	final Logger log = Logger.getLogger(FileManager.class);
 	/***
 	 * Cuts only the simple file path from the absolute path of the file.
 	 * @return path of the file 
@@ -73,6 +79,10 @@ public class FileManager {
 			System.out.println("Faile to read file "+ path);
 			e.printStackTrace();
 			ErrorMSG.addEx("Faile to read file "+ path, e.getMessage());
+			
+			log.error(ErrorMSG.msg);
+			log.error(ErrorMSG.ecxeption);
+			
 		} finally {
 			try {
 				if (fis != null)
@@ -85,6 +95,10 @@ public class FileManager {
 				System.out.println("Failed to finish reading file "+ path);
 				ex.printStackTrace();
 				ErrorMSG.addEx("Failed to finish reading file "+ path, ex.getMessage());
+				
+				log.error(ErrorMSG.msg);
+				log.error(ErrorMSG.ecxeption);
+			
 				return null;
 			}
 		}
@@ -125,8 +139,14 @@ public class FileManager {
 			e.printStackTrace();
 			ErrorMSG.addEx("Failed to write bytes to "+ path, e.getMessage());
 			
+			log.error(ErrorMSG.msg);
+			log.error(ErrorMSG.ecxeption);
+			
 			return false;
+			
+
 		}
+		
 		
 	}
 	
@@ -147,6 +167,10 @@ public class FileManager {
 		} catch (Exception e) {
 			System.out.println("Failed to write file");
 			e.printStackTrace();
+			
+			log.error(ErrorMSG.msg);
+			log.error(ErrorMSG.ecxeption);
+			
 			return false;
 		}
 	}
