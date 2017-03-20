@@ -1636,3 +1636,56 @@
 2017-03-19 20:45:31 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
 2017-03-19 20:47:13 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
 2017-03-19 20:47:40 INFO  Main:42 - ----------------------------------------New RUN-------------------------------------------
+2017-03-20 10:11:59 INFO  Main:41 - ----------------------------------------New RUN-------------------------------------------
+2017-03-20 10:11:59 INFO  DataJAXB:71 - The default Cipher is:XorCipher
+2017-03-20 10:11:59 INFO  DataJAXB:84 - Config.xml has been read succesfully
+2017-03-20 10:12:14 INFO  UserOptions:109 - DoubleCipher has been selected
+2017-03-20 10:12:18 INFO  UserOptions:199 - Secondary cipher - MWOCipher has been selected
+2017-03-20 10:12:20 INFO  UserOptions:187 - Secondary cipher - CaesarCipher has been selected
+2017-03-20 10:12:30 INFO  DataJAXB:42 - Config.xml has been updated Succesfully
+2017-03-20 10:12:48 INFO  Main:41 - ----------------------------------------New RUN-------------------------------------------
+2017-03-20 10:12:49 INFO  DataJAXB:71 - The default Cipher is:DoubleCipher
+2017-03-20 10:12:49 INFO  DataJAXB:76 - Secondary Cipher 1 MWOCipher
+2017-03-20 10:12:49 INFO  DataJAXB:81 - Secondary Cipher 2 CaesarCipher
+2017-03-20 10:12:49 INFO  DataJAXB:84 - Config.xml has been read succesfully
+2017-03-20 10:14:33 INFO  Main:41 - ----------------------------------------New RUN-------------------------------------------
+2017-03-20 10:14:33 INFO  DataJAXB:71 - The default Cipher is:DoubleCipher
+2017-03-20 10:14:33 INFO  DataJAXB:76 - Secondary Cipher 1 MWOCipher
+2017-03-20 10:14:33 INFO  DataJAXB:81 - Secondary Cipher 2 CaesarCipher
+2017-03-20 10:14:33 INFO  DataJAXB:84 - Config.xml has been read succesfully
+2017-03-20 10:14:38 INFO  Main:71 - Encryption selected
+2017-03-20 10:14:38 INFO  Main:73 - Key created
+2017-03-20 10:14:43 INFO  UserOptions:262 - file path selected -check.pdf
+2017-03-20 10:14:43 INFO  Cipher:68 - check.pdf Encryption Started
+2017-03-20 10:14:43 INFO  Cipher:63 - Secondary cipher check.pdf Encryption Started
+2017-03-20 10:14:43 INFO  Cipher:78 - Secondary cipher check.pdf Encryption Finished - Total time: 5.025301 ms
+2017-03-20 10:14:43 INFO  Cipher:63 - Secondary cipher check.pdf Encryption Started
+2017-03-20 10:14:43 INFO  Cipher:78 - Secondary cipher check.pdf Encryption Finished - Total time: 7.122289 ms
+2017-03-20 10:14:43 INFO  Cipher:83 - check.pdf Encrption Finished - Total time: 15.575518 ms
+2017-03-20 10:14:47 INFO  Main:41 - ----------------------------------------New RUN-------------------------------------------
+2017-03-20 10:14:47 INFO  DataJAXB:71 - The default Cipher is:DoubleCipher
+2017-03-20 10:14:47 INFO  DataJAXB:76 - Secondary Cipher 1 MWOCipher
+2017-03-20 10:14:47 INFO  DataJAXB:81 - Secondary Cipher 2 CaesarCipher
+2017-03-20 10:14:47 INFO  DataJAXB:84 - Config.xml has been read succesfully
+2017-03-20 10:14:51 INFO  Main:79 - Decryption selected
+2017-03-20 10:14:54 INFO  Main:113 - Key has been set
+2017-03-20 10:15:03 INFO  UserOptions:262 - file path selected -check.pdf.encrypted
+2017-03-20 10:15:03 INFO  Cipher:68 - check.pdf.encrypted Decryption Started
+2017-03-20 10:15:03 INFO  Cipher:63 - Secondary cipher check.pdf.encrypted Decryption Started
+2017-03-20 10:15:03 INFO  Cipher:78 - Secondary cipher check.pdf.encrypted Decryption Finished - Total time: 6.646895 ms
+2017-03-20 10:15:03 INFO  Cipher:63 - Secondary cipher check.pdf.encrypted Decryption Started
+2017-03-20 10:15:03 INFO  Cipher:78 - Secondary cipher check.pdf.encrypted Decryption Finished - Total time: 2.26818 ms
+2017-03-20 10:15:03 INFO  Cipher:83 - check.pdf.encrypted Decrption Finished - Total time: 17.931141 ms
+2017-03-20 10:24:09 INFO  Main:41 - ----------------------------------------New RUN-------------------------------------------
+2017-03-20 10:24:09 INFO  DataJAXB:71 - The default Cipher is:DoubleCipher
+2017-03-20 10:24:09 INFO  DataJAXB:76 - Secondary Cipher 1 MWOCipher
+2017-03-20 10:24:09 INFO  DataJAXB:81 - Secondary Cipher 2 CaesarCipher
+2017-03-20 10:24:09 INFO  DataJAXB:84 - Config.xml has been read succesfully
+2017-03-20 10:24:14 INFO  UserOptions:95 - XorCipher has been selected
+2017-03-20 10:25:12 INFO  Main:41 - ----------------------------------------New RUN-------------------------------------------
+2017-03-20 10:25:12 INFO  DataJAXB:71 - The default Cipher is:DoubleCipher
+2017-03-20 10:25:12 INFO  DataJAXB:76 - Secondary Cipher 1 MWOCipher
+2017-03-20 10:25:12 INFO  DataJAXB:81 - Secondary Cipher 2 CaesarCipher
+2017-03-20 10:25:12 INFO  DataJAXB:84 - Config.xml has been read succesfully
+2017-03-20 10:25:17 INFO  UserOptions:90 - CaesarCipher has been selected
+2017-03-20 10:25:18 INFO  DataJAXB:42 - Config.xml has been updated Succesfully

@@ -305,11 +305,68 @@ public int to_integer(String input)
 		if( result != 1 && result != 2)
 		{
 			result = -1 ;
-			System.out.println("Please enter on the allowed selection");
+			System.out.println("Please enter only the allowed selection");
 		}
 		}
 		
 		return result;
+	}
+	
+	
+	/***
+	 * Showing the user the option to use the default cipher or another one
+	 * @return true for default and false otherwise
+	 */
+	@SuppressWarnings("resource")
+	public boolean defaultOrNot()
+	{
+		int result = -1 ; 
+		String str = "";
+		while(result == -1 )
+		{
+			
+		System.out.println("Enter y for the default cipher");
+		System.out.println("Enter n for using different cipher");
+		str = new Scanner(System.in).nextLine();
+		
+			if( !str.equals("y") && !str.equals("n"))
+			{
+				result = -1 ;
+				System.out.println("Please enter only the allowed selection");
+			}
+			else
+				result = 1 ;
+		}
+		if(str.equals("y"))
+			return true;
+		else return false;
+		
+	}
+	
+	
+	public boolean exportCipher()
+	{
+		int result = -1 ; 
+		String str = "";
+		while(result == -1 )
+		{
+			
+		System.out.println("Enter y to export the cipher to the config.xml file \n and use it as default cipher next time");
+		System.out.println("Enter n otherwise");
+		str = new Scanner(System.in).nextLine();
+		
+			if( !str.equals("y") && !str.equals("n"))
+			{
+				result = -1 ;
+				System.out.println("Please enter only the allowed selection");
+			}
+			else
+				result = 1 ;
+		}
+		if(str.equals("y"))
+			return true;
+		else return false;
+		
 	}
 
 }

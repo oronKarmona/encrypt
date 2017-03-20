@@ -24,6 +24,19 @@ public class Main {
 
 public static void main(String[] args)
 {
+
+	Scanner in = new Scanner(System.in);
+	FileManager file = new FileManager();
+	UserOptions uo = new UserOptions();
+	EventTarget eventTraget = new EventTarget();
+	int result;
+	byte[] data = null;
+	boolean s_result ;
+	
+	ErrorMSG.msg = "";
+	ErrorMSG.ecxeption = "";
+	
+	
 	final Logger log = Logger.getLogger(Main.class);
 	log.info("----------------------------------------New RUN-------------------------------------------");
 	//Retrieving the default cipher
@@ -31,22 +44,20 @@ public static void main(String[] args)
 
 	
 	
-	Scanner in = new Scanner(System.in);
-	FileManager file = new FileManager();
-	UserOptions uo = new UserOptions();
-	EventTarget eventTraget = new EventTarget();
-	int result;
-	byte[] data = null;
+	//default cipher or not
+	s_result = uo.defaultOrNot();
 	
-	ErrorMSG.msg = "";
-	ErrorMSG.ecxeption = "";
-	
-	
-	
-	uo.menu_content();
-	result = uo.to_integer(in.nextLine());
-	// selected algorithm by user
-	algorithm = uo.algorithms_menu(result);
+	if(!s_result) // if the user wants cipher the is not the default
+	{
+		uo.menu_content();
+		result = uo.to_integer(in.nextLine());
+		// selected algorithm by user
+		algorithm = uo.algorithms_menu(result);
+		
+		s_result = uo.exportCipher();
+		if(s_result)
+			DataJAXB.MarshallCipher(algorithm);
+	}
 	
 	algorithm.addObserver(eventTraget);
 	/*  action selected by user = {Encryption , Decryption }

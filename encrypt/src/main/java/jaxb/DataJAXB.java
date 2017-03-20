@@ -1,6 +1,7 @@
 package jaxb;
 
 import java.io.File;
+import java.util.ArrayList;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
@@ -11,6 +12,7 @@ import javax.xml.transform.Result;
 import org.apache.log4j.Logger;
 
 import com.encrypt.Main;
+import com.encrypt.Ciphers.AbstractDouble;
 import com.encrypt.Ciphers.CaesarCipher;
 import com.encrypt.Ciphers.Cipher;
 import com.encrypt.Ciphers.DoubleCipher;
@@ -26,17 +28,17 @@ import com.encrypt.Ciphers.XorCipher;
 public class DataJAXB 
 {
 	
-		public static void marshall()
+		public static void marshall(Object obj)
 		{
 			final Logger log = Logger.getLogger(DataJAXB.class);
-			Data data = new Data("XorCipher",null,null);
+			
 			
 			try {
 				JAXBContext jc = JAXBContext.newInstance(Data.class);
 				Marshaller ms = jc.createMarshaller();
 				ms.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
-				ms.marshal(data, System.out);
-				ms.marshal(data, new File("Config.xml"));
+				ms.marshal(obj, System.out);
+				ms.marshal(obj, new File("Config.xml"));
 				log.info("Config.xml has been updated Succesfully");
 				
 				
@@ -143,6 +145,53 @@ public class DataJAXB
 			
 			else return null;
 				
+		}
+		
+		/***
+		 * Converting CIpher object to string
+		 * @param cipher - object to be converted
+		 * @return - the string the object is converted to 
+		 */
+		public static String fromCipher2String(Cipher cipher)
+		{
+			if(cipher instanceof CaesarCipher)
+				return "CaesarCipher";
+			else if(cipher instanceof XorCipher)
+				return "XorCipher";
+			else if(cipher instanceof MWOCipher)
+				return "MWOCipher";
+			else return null;
+		}
+		
+		/***
+		 * marshaling Cipher
+		 * @param cipher - double cipher to be marshalled
+		 */
+		public static void MarshallCipher(Cipher cipher)
+		{
+			ArrayList<Cipher> c  = null;
+			
+			if(cipher instanceof AbstractDouble)
+				 c = ((AbstractDouble)cipher).getCiphers();
+			
+			if(cipher instanceof DoubleCipher)
+			{
+				DataJAXB.marshall(new Data("DoubleCipher",DataJAXB.fromCipher2String(c.get(0)),DataJAXB.fromCipher2String(c.get(1))));
+			}
+			
+			else if(cipher instanceof SplitCipher)
+			{
+				DataJAXB.marshall(new Data("SplitCipher",DataJAXB.fromCipher2String(c.get(0)),null));
+			}
+			
+			else if(cipher instanceof ReverseCipher)
+			{
+				DataJAXB.marshall(new Data("ReverseCipher",DataJAXB.fromCipher2String(c.get(0)),null));
+			}
+			
+			else
+				DataJAXB.marshall(new Data(DataJAXB.fromCipher2String(cipher),null,null));
+			
 		}
 		
 }

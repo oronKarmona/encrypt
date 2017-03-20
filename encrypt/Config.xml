@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Cipher>
-    <m_cipher>XorCipher</m_cipher>
+    <m_cipher>CaesarCipher</m_cipher>
 </Cipher>
