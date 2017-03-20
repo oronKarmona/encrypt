@@ -4,6 +4,11 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+import javax.xml.transform.TransformerException;
+
+import jaxb.JAXBCon;
+import jaxb.StatusJaxb;
+
 import org.apache.log4j.Logger;
 
 import com.encrypt.EnumCipher;
@@ -56,10 +61,12 @@ public class Async {
 		
 		String target = null; 
 		sync = max;
+		String action = "";
 		if (option.equals(EnumCipher.Encryption))
 		{
 			new File(folder.getAbsolutePath()+"\\encrypted").mkdir();
 			target = folder.getAbsolutePath()+"\\encrypted";
+			action = "encryption";
 			
 		}
 		
@@ -67,6 +74,7 @@ public class Async {
 		{
 			new File(folder.getParent()+"\\decrypted").mkdir();
 			target = folder.getParent()+"\\decrypted";
+			action = "decryption";
 
 		}
 		
@@ -98,6 +106,14 @@ public class Async {
 		long total_time = System.nanoTime() - start_time;
 		log.info("Async operation has Finished - Total time: " + ((total_time)/(double)1000000) +" ms");
 		System.out.println(" Finished - Total time: " + ((total_time)/(double)1000000) +" ms");
+		
+		
+		try {
+			JAXBCon.appendXml(new StatusJaxb("Success",target,((total_time)/(double)1000000) +" ms",action));
+		} catch (Exception e) {
+		
+			e.printStackTrace();
+		}
 	}
 	
 	public static synchronized void downSync()

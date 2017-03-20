@@ -3,23 +3,21 @@ package jaxb;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 
-import lombok.Getter;
-import lombok.Setter;
 
 @XmlRootElement(name="Cipher")
-public class Data 
+public class CipherJaxb 
 {
 	
 	private String m_cipher,s_cipher1,s_cipher2;
 
-	public Data(String m_cipher, String s_cipher1, String s_cipher2) {
+	public CipherJaxb(String m_cipher, String s_cipher1, String s_cipher2) {
 		super();
 		this.m_cipher = m_cipher;
 		this.s_cipher1 = s_cipher1;
 		this.s_cipher2 = s_cipher2;
 	}
 	
-	public Data() {
+	public CipherJaxb() {
 	super();
 	}
 	

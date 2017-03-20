@@ -26,7 +26,8 @@ public abstract class AbstractDouble extends Cipher
 	{
 		ciphers = new ArrayList<Cipher>();
 		ciphers.add(first);
-		ciphers.add(second);
+		if(second!=null)
+			ciphers.add(second);
 		keys = new ArrayList<Byte>();
 	}
 	

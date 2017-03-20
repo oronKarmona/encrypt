@@ -7,7 +7,7 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import jaxb.DataJAXB;
+import jaxb.JAXBCon;
 
 import org.apache.log4j.Logger;
 
@@ -40,8 +40,8 @@ public static void main(String[] args)
 	final Logger log = Logger.getLogger(Main.class);
 	log.info("----------------------------------------New RUN-------------------------------------------");
 	//Retrieving the default cipher
-	Cipher algorithm = DataJAXB.unmarshall();
-
+	Cipher algorithm = JAXBCon.unmarshall();
+	//Cipher algorithm = null ;
 	
 	
 	//default cipher or not
@@ -56,7 +56,7 @@ public static void main(String[] args)
 		
 		s_result = uo.exportCipher();
 		if(s_result)
-			DataJAXB.MarshallCipher(algorithm);
+			JAXBCon.MarshallCipher(algorithm);
 	}
 	
 	algorithm.addObserver(eventTraget);
@@ -236,6 +236,7 @@ public static void main(String[] args)
 						
 						log.error(ErrorMSG.msg);
 						log.error(ErrorMSG.ecxeption);
+						
 					}
 					
 				

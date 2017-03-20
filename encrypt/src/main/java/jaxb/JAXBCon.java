@@ -1,15 +1,31 @@
 package jaxb;
 
 import java.io.File;
+import java.io.IOException;
 import java.util.ArrayList;
+
+
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;
 import javax.xml.bind.Unmarshaller;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.transform.Result;
+import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerConfigurationException;
+import javax.xml.transform.TransformerException;
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.dom.DOMSource;
+import javax.xml.transform.stream.StreamResult;
 
 import org.apache.log4j.Logger;
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+import org.w3c.dom.Node;
+import org.xml.sax.SAXException;
 
 import com.encrypt.Main;
 import com.encrypt.Ciphers.AbstractDouble;
@@ -25,16 +41,16 @@ import com.encrypt.Ciphers.XorCipher;
  * @author Oron
  *
  */
-public class DataJAXB 
+public class JAXBCon 
 {
 	
-		public static void marshall(Object obj)
+		public static void marshall(Object obj, Class<?> classOBJ)
 		{
-			final Logger log = Logger.getLogger(DataJAXB.class);
+			final Logger log = Logger.getLogger(JAXBCon.class);
 			
 			
 			try {
-				JAXBContext jc = JAXBContext.newInstance(Data.class);
+				JAXBContext jc = JAXBContext.newInstance(classOBJ);
 				Marshaller ms = jc.createMarshaller();
 				ms.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
 				ms.marshal(obj, System.out);
@@ -53,14 +69,14 @@ public class DataJAXB
 		
 		public static Cipher unmarshall()
 		{
-			final Logger log = Logger.getLogger(DataJAXB.class);
+			final Logger log = Logger.getLogger(JAXBCon.class);
 			String cipher_name = null;
 			String second_cipher_name_1 = null;
 			String second_cipher_name_2 = null;
 			try {
-				JAXBContext jc = JAXBContext.newInstance(Data.class);
+				JAXBContext jc = JAXBContext.newInstance(CipherJaxb.class);
 				Unmarshaller ums = jc.createUnmarshaller();
-				Data data = (Data)ums.unmarshal(new File("Config.xml"));
+				CipherJaxb data = (CipherJaxb)ums.unmarshal(new File("Config.xml"));
 				
 				 cipher_name = data.getM_cipher();
 				 second_cipher_name_1 = data.getS_cipher1();
@@ -91,12 +107,12 @@ public class DataJAXB
 				log.error(e.getMessage());
 			}
 			
-			Cipher c = DataJAXB.fromString2Cipher(cipher_name);
+			Cipher c = JAXBCon.fromString2Cipher(cipher_name);
 			
 			if(c != null)
 				return c ;
 			
-			return DataJAXB.fromString2DoubleCipher(cipher_name, second_cipher_name_1, second_cipher_name_2);
+			return JAXBCon.fromString2DoubleCipher(cipher_name, second_cipher_name_1, second_cipher_name_2);
 		}
 		
 		/***
@@ -176,22 +192,81 @@ public class DataJAXB
 			
 			if(cipher instanceof DoubleCipher)
 			{
-				DataJAXB.marshall(new Data("DoubleCipher",DataJAXB.fromCipher2String(c.get(0)),DataJAXB.fromCipher2String(c.get(1))));
+				JAXBCon.marshall(new CipherJaxb("DoubleCipher",JAXBCon.fromCipher2String(c.get(0)),JAXBCon.fromCipher2String(c.get(1))),CipherJaxb.class);
 			}
 			
 			else if(cipher instanceof SplitCipher)
 			{
-				DataJAXB.marshall(new Data("SplitCipher",DataJAXB.fromCipher2String(c.get(0)),null));
+				JAXBCon.marshall(new CipherJaxb("SplitCipher",JAXBCon.fromCipher2String(c.get(0)),null),CipherJaxb.class);
 			}
 			
 			else if(cipher instanceof ReverseCipher)
 			{
-				DataJAXB.marshall(new Data("ReverseCipher",DataJAXB.fromCipher2String(c.get(0)),null));
+				JAXBCon.marshall(new CipherJaxb("ReverseCipher",JAXBCon.fromCipher2String(c.get(0)),null),CipherJaxb.class);
 			}
 			
 			else
-				DataJAXB.marshall(new Data(DataJAXB.fromCipher2String(cipher),null,null));
+				JAXBCon.marshall(new CipherJaxb(JAXBCon.fromCipher2String(cipher),null,null),CipherJaxb.class);
 			
 		}
+		
+		public static void appendXml(StatusJaxb sj) throws TransformerException, SAXException, IOException, ParserConfigurationException
+		{
+			DocumentBuilderFactory documentBuilderFactory = DocumentBuilderFactory.newInstance();
+	        DocumentBuilder documentBuilder = documentBuilderFactory.newDocumentBuilder();
+	        Document document = (Document) documentBuilder.parse("config.xml");
+	        Element root =  document.getDocumentElement();
+
+	     
+	     
+	            Element details = ((org.w3c.dom.Document) document).createElement("details");
+
+	            Element name = ((org.w3c.dom.Document) document).createElement("result");
+	            name.appendChild(((org.w3c.dom.Document) document).createTextNode(sj.getStatus()));
+	            details.appendChild(name);
+	         
+	            Element opertaion = ((org.w3c.dom.Document) document).createElement("opertaion");
+	            opertaion.appendChild(((org.w3c.dom.Document) document).createTextNode(sj.getOpertaion()));
+	            details.appendChild(opertaion);
+	            
+	            if(sj.getStatus().equals("Success"))
+	            {
+		            Element path = ((org.w3c.dom.Document) document).createElement("path");
+		            path.appendChild(((org.w3c.dom.Document) document).createTextNode(sj.getPath()));
+		            details.appendChild(path);
+		            
+		            Element time = ((org.w3c.dom.Document) document).createElement("time");
+		            time.appendChild(((org.w3c.dom.Document) document).createTextNode(sj.getTime()));
+		            details.appendChild(time);
+	            }
+	            
+	            else 
+	            {
+	            	 	Element exceptionName = ((org.w3c.dom.Document) document).createElement("exceptionName");
+	            	 	exceptionName.appendChild(((org.w3c.dom.Document) document).createTextNode(sj.getExceptionName()));
+			            details.appendChild(exceptionName);
+			            
+			            Element exceptionMsg = ((org.w3c.dom.Document) document).createElement("exceptionMsg");
+			            exceptionMsg.appendChild(((org.w3c.dom.Document) document).createTextNode(sj.getExceptionMsg()));
+			            details.appendChild(exceptionMsg);
+			            
+			            Element exceptionStackTrace = ((org.w3c.dom.Document) document).createElement("exceptionStackTrace");
+			            exceptionStackTrace.appendChild(((org.w3c.dom.Document) document).createTextNode(sj.getExceptionStackTrace()));
+			            details.appendChild(exceptionStackTrace);
+	            }
+	            root.appendChild(details);
+	            
+	            
+	            DOMSource source = new DOMSource((Node) document);
+
+		        TransformerFactory transformerFactory = TransformerFactory.newInstance();
+		        Transformer transformer = transformerFactory.newTransformer();
+		        StreamResult result = new StreamResult("config.xml");
+		        transformer.transform(source, result);
+	        }
+
+	       
+		
+		
 		
 }
