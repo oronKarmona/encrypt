@@ -11,19 +11,19 @@ public class DoubleCipher extends AbstractDouble{
 	@Override
 	public byte[] encrypt() throws Exception 
 	{
-		start("Encryption");
+		
 		for(Cipher c : ciphers)
 		{
 			c.setInput(input);
 			this.setInput(c.encrypt());
 		}
-		End("Encrption");
+		
 		return input;
 	}
 
 	@Override
 	public String decrypt() throws Exception {
-		start("Decryption");
+	
 
 		for(int i = ciphers.size() - 1 ; i >=0 ;i--)
 		{
@@ -34,7 +34,7 @@ public class DoubleCipher extends AbstractDouble{
 		}
 		
 		this.output = input;
-		End("Decrption");
+		
 		return new String(output);
 	}
 

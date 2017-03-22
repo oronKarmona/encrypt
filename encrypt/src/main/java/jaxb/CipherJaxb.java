@@ -8,7 +8,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 public class CipherJaxb 
 {
 	
-	private String m_cipher,s_cipher1,s_cipher2;
+	private String m_cipher ="",s_cipher1="",s_cipher2="";
 
 	public CipherJaxb(String m_cipher, String s_cipher1, String s_cipher2) {
 		super();

@@ -5,6 +5,9 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.util.ArrayList;
 
+import jaxb.JAXBCon;
+import jaxb.StatusJaxb;
+
 import org.apache.log4j.Logger;
 
 import com.encrypt.EnumCipher;
@@ -57,9 +60,16 @@ public class SyncThread extends Thread{
 						} catch (IOException e) {
 							System.out.println( "Reading file has failed");
 							e.printStackTrace();
-							ErrorMSG.addEx("Reading file has failed",e.getMessage());
+							String st = org.apache.commons.lang.exception.ExceptionUtils.getFullStackTrace(e);
+							ErrorMSG.addEx("Reading file has failed",st);
 							log.error("Reading file has failed");
 							log.error(e.getMessage());
+							
+							try {
+								JAXBCon.appendXml(new StatusJaxb("Failed",target+"\\"+listOfFiles.get(i).getName(),"Encryption",e.getClass().getName(),e.getMessage()+"",st));
+							} catch (Exception e1) {
+								e1.printStackTrace();
+							}
 						}
 						
 						alg.setFilePath(listOfFiles.get(i).getPath());
@@ -70,36 +80,52 @@ public class SyncThread extends Thread{
 						if(action.equals(EnumCipher.Encryption))
 						{
 							try {
+								alg.start("Encryption");
 								data = alg.encrypt();
 							} catch (Exception e) {
-								
+								String st = org.apache.commons.lang.exception.ExceptionUtils.getFullStackTrace(e);
 								System.out.println( "Encryption failed");
 								e.printStackTrace();
-								ErrorMSG.addEx("Encryption failed",e.getMessage());
-								log.error("Encryption failed");
-								log.error(e.getMessage());
+								ErrorMSG.addEx("Encryption failed",st);
+								log.error(ErrorMSG.msg);
+								log.error(ErrorMSG.ecxeption);
+								try {
+									JAXBCon.appendXml(new StatusJaxb("Failed",target+"\\"+listOfFiles.get(i).getName(),"Encryption",e.getClass().getName(),e.getMessage()+"",st));
+								} catch (Exception e1) {
+									e1.printStackTrace();
+								}
 								
 							}
 							
 							fm.writeBytesToFile(target+"\\"+listOfFiles.get(i).getName()+".encrypted", data);
+							alg.End("Encryption");
 						}
 						// if this is a Decryption action
 						else if(action.equals(EnumCipher.Decryption))
 						{
 							try {
+								alg.start("Decryption");
 								alg.decrypt();
 								data = alg.getOutput();
 							} catch (Exception e) {
-								
+								String st = org.apache.commons.lang.exception.ExceptionUtils.getFullStackTrace(e);
+
 								System.out.println( "Decryption failed");
 								e.printStackTrace();
-								ErrorMSG.addEx("Decryption failed",e.getMessage());
-								log.error("Decryption failed");
-								log.error(e.getMessage());
+								ErrorMSG.addEx("Decryption failed",st);
+								log.error(ErrorMSG.msg);
+								log.error(ErrorMSG.ecxeption);
+								
+								try {
+									JAXBCon.appendXml(new StatusJaxb("Failed",target+"\\"+listOfFiles.get(i).getName(),"Decryption",e.getClass().getName(),e.getMessage()+"",st));
+								} catch (Exception e1) {
+									e1.printStackTrace();
+								}
 							}
 							fm.setFile(listOfFiles.get(i));
 							String n = folder.getParent()+"\\decrypted\\"+listOfFiles.get(i).getName().split("\\.")[0]+"_decrypted"+"."+listOfFiles.get(i).getPath().split("\\.")[1];
 							fm.writeBytesToFile(n, data);
+							alg.End("Decryption");
 						}
 		}
 		

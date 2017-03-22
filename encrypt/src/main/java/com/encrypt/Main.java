@@ -4,10 +4,13 @@ package com.encrypt;
 
 
 import java.io.File;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
 import jaxb.JAXBCon;
+import jaxb.StatusJaxb;
+import jaxb.XMLValidation;
 
 import org.apache.log4j.Logger;
 
@@ -42,8 +45,9 @@ public static void main(String[] args)
 	//Retrieving the default cipher
 	Cipher algorithm = JAXBCon.unmarshall();
 	//Cipher algorithm = null ;
-	
-	
+	JAXBCon.MarshallCipher(algorithm);
+
+
 	//default cipher or not
 	s_result = uo.defaultOrNot();
 	
@@ -89,7 +93,9 @@ public static void main(String[] args)
 			  System.out.println("key File not found!");
 			  e.printStackTrace();
 			  
-			  ErrorMSG.addEx("key File not found!", e.getMessage());
+				String st = org.apache.commons.lang.exception.ExceptionUtils.getFullStackTrace(e);
+
+			  ErrorMSG.addEx("key File not found!",st);
 			  log.error(ErrorMSG.msg);
 			  log.error(ErrorMSG.ecxeption);
 			  
@@ -140,10 +146,11 @@ public static void main(String[] args)
 					Async.start();
 					} catch (CloneNotSupportedException e) {
 						
-						ErrorMSG.addEx("Failed to use async operation", e.getMessage());
+						
 						System.out.println("Failed to use async operation");
 						e.printStackTrace();
-						
+						String st = org.apache.commons.lang.exception.ExceptionUtils.getFullStackTrace(e);
+						ErrorMSG.addEx("Failed to use async operation", st);
 						log.error(ErrorMSG.msg);
 						log.error(ErrorMSG.ecxeption);
 						
@@ -168,7 +175,7 @@ public static void main(String[] args)
 		 */
 		
 		file = uo.file_path();
-	//	long start_time = System.nanoTime();
+	
 		if((data = file.ReadBytes(file.getFile().getPath())) != null)
 		{
 			algorithm.setFilePath(file.getFile().getPath());
@@ -180,6 +187,8 @@ public static void main(String[] args)
 					file.writeBytesToFile(file.getOnlyPath()+"\\key.bin", algorithm.getByteArrayKey());
 					algorithm.setInput(data);
 					
+					algorithm.start("Encryption");
+					
 					// writing the encrypted bytes to file.encrypted
 					try {
 						if(file.writeBytesToFile(file.getFile().getPath() +".encrypted", algorithm.encrypt()) )
@@ -189,23 +198,38 @@ public static void main(String[] args)
 						
 						else
 							System.out.println("Can't write to file");
-					//	long total_time = System.nanoTime() - start_time;
-			//			System.out.println( " Finished - Total time: " + ((total_time)/(double)1000000) +" ms");	
+			
 					} 
 					catch (Exception e) {
 						e.printStackTrace();
 						System.out.println("Encryption failed!");
-						ErrorMSG.addEx("Encryption failed!", e.getMessage());
+						String st = org.apache.commons.lang.exception.ExceptionUtils.getFullStackTrace(e);
+						ErrorMSG.addEx("Encryption failed!", st);
 						
 						log.error(ErrorMSG.msg);
 						log.error(ErrorMSG.ecxeption);
 						
+							try {
+							JAXBCon.appendXml(new StatusJaxb("Failed",file.getFile().getPath(),"Encryption",e.getClass().getName(),e.getMessage()+"",st));
+						} catch (Exception e1) {
+							e1.printStackTrace();
+						}
+						
 					}
+					
+				algorithm.End("Encryption");
+				try {
+					JAXBCon.appendXml(new StatusJaxb("Success",file.getFile().getPath(),((algorithm.getTotal_time())/(double)1000000) +" ms","Encryption"));
+				} catch (Exception e) {
+				
+					e.printStackTrace();
+				}
 					
 				}
 				
 				else if(option.equals(EnumCipher.Decryption))
 				{
+					algorithm.start("Decryption");
 					
 					algorithm.setInput(data);
 					try {
@@ -213,34 +237,62 @@ public static void main(String[] args)
 					} catch (Exception e1) {
 						e1.printStackTrace();
 						System.out.println("Decryption failed!");
-						ErrorMSG.addEx("Decryption failed!", e1.getMessage());
+						
+						String st = org.apache.commons.lang.exception.ExceptionUtils.getFullStackTrace(e1);
+						
+						ErrorMSG.addEx("Decryption failed!", st);
 						
 						log.error(ErrorMSG.msg);
 						log.error(ErrorMSG.ecxeption);
+						
+						try {
+							
+							JAXBCon.appendXml(new StatusJaxb("Failed",file.getFile().getPath(),"Decryption",e1.getClass().getName(),e1.getMessage()+"",st));
+						} catch (Exception e2) {
+							e2.printStackTrace();
+						}
 					}
 					
 					
 					try {
+						
 						if(file.writeBytesToFile(file.getFilePathNoType()+"_decrypted"+"."+file.getFile().getPath().split("\\.")[1], algorithm.getOutput()))
 								{
 									System.out.println("File saved at: " +file.getFile().getPath().split("\\.")[0]+"_decrypted"+"."+file.getFile().getPath().split("\\.")[1]);
 								}
 						else
 							System.out.println("Can't write to file");
+						
+						
 					} 
 					catch (Exception e) 
 					{
 						System.out.println("Write the decrypted file has failed" + file.getFilePathNoType()+"_decrypted"+"."+file.getFile().getPath().split("\\.")[1]);
 						e.printStackTrace();
 						ErrorMSG.addEx("Decryption failed!", e.getMessage());
-						
+						String st = org.apache.commons.lang.exception.ExceptionUtils.getFullStackTrace(e);
 						log.error(ErrorMSG.msg);
 						log.error(ErrorMSG.ecxeption);
 						
+						try {
+							JAXBCon.appendXml(new StatusJaxb("Failed",file.getFile().getPath(),"Decryption",e.getClass().getName(),e.getMessage()+"",st));
+						} catch (Exception e1) {
+							e1.printStackTrace();
+						}
+						
+					
 					}
 					
+					
+					algorithm.End("Decryption");
 				
 					
+					try {
+						JAXBCon.appendXml(new StatusJaxb("Success",file.getFile().getPath(),((algorithm.getTotal_time())/(double)1000000) +" ms","Decryption"));
+					} catch (Exception e) {
+					
+						e.printStackTrace();
+					}
 					
 				}
 				
@@ -248,9 +300,13 @@ public static void main(String[] args)
 	  
 	}
 	
+	if(XMLValidation.validateXMLSchema("validate.xsd", "config.xml"))
+		System.out.println("XML is valid");
+	else
+		System.out.println("XML is not valid");
 	
 	in.close();
-		
+	
 }
 
 

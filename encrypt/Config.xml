@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><Cipher>
-    <m_cipher>XorCipher</m_cipher>
-	
-<details><result>Success</result><opertaion>Encryption</opertaion><path>C:\Users\karmo\git\encrypt\encrypt\check\encrypted</path><time>79.116572 ms</time></details>
-<details><result>Success</result><opertaion>decryption</opertaion><path>null\decrypted</path><time>125.777442 ms</time></details></Cipher>
+<?xml version="1.0" encoding="UTF-8"?><Cipher>
+    <m_cipher>DoubleCipher</m_cipher>
+    <s_cipher1>XorCipher</s_cipher1>
+    <s_cipher2>CaesarCipher</s_cipher2>
+<details><result>Success</result><opertaion>decryption</opertaion><path>check\decrypted</path><time>107.602446 ms</time><exceptionName/><exceptionMsg/><exceptionStackTrace/></details></Cipher>

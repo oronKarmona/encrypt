@@ -22,7 +22,7 @@ public class CaesarCipher extends Cipher{
 		
 		byte[] temp = Arrays.copyOf(input,input.length);
 		
-		start("Encryption");
+		
 		int t ; 
 		for(int i = 0 ; i < temp.length ;i++)
 		{
@@ -39,7 +39,7 @@ public class CaesarCipher extends Cipher{
 			temp[i] = (byte)t;
 		}
 		
-		End("Encryption");
+		
 
 		return temp;
 	}
@@ -54,7 +54,7 @@ public class CaesarCipher extends Cipher{
 		byte[] temp = input;
 		int a,b; 
 		
-		start("Decryption");
+		
 		int t ; 
 		for(int i = 0 ; i < temp.length ; i++)
 		{
@@ -72,7 +72,7 @@ public class CaesarCipher extends Cipher{
 			temp[i] =(byte) t ;
 		}
 		
-		End("Decryption");
+		
 		output = temp ; 
 		String s = new String(output);
 			return s;

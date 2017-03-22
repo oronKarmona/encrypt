@@ -78,7 +78,8 @@ public class FileManager {
 		} catch (IOException e) {
 			System.out.println("Faile to read file "+ path);
 			e.printStackTrace();
-			ErrorMSG.addEx("Faile to read file "+ path, e.getMessage());
+			String st = org.apache.commons.lang.exception.ExceptionUtils.getFullStackTrace(e);
+			ErrorMSG.addEx("Failed to read file "+ path,st);
 			
 			log.error(ErrorMSG.msg);
 			log.error(ErrorMSG.ecxeption);
@@ -137,7 +138,8 @@ public class FileManager {
 			
 			System.out.println("Failed to write bytes to "+ path);
 			e.printStackTrace();
-			ErrorMSG.addEx("Failed to write bytes to "+ path, e.getMessage());
+			String st = org.apache.commons.lang.exception.ExceptionUtils.getFullStackTrace(e);
+			ErrorMSG.addEx("Failed to write bytes to "+ path, st);
 			
 			log.error(ErrorMSG.msg);
 			log.error(ErrorMSG.ecxeption);

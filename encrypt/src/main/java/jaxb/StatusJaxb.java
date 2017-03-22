@@ -6,16 +6,16 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 public class StatusJaxb {
 	
-	private String exceptionName,exceptionMsg,exceptionStackTrace;
+	private String exceptionName = "",exceptionMsg = "",exceptionStackTrace = "";
 	
-	private String status,path,time;
+	private String status = "",path = "",time = "";
 	
-	private String opertaion;
+	private String opertaion = "";
 	
 	
-	public StatusJaxb(String exceptionName, String exceptionMsg,
-			String exceptionStackTrace, String status, String path,
-			String opertaion) {
+	public StatusJaxb( String status, String path,
+			String opertaion , String exceptionName, String exceptionMsg,
+			String exceptionStackTrace) {
 		super();
 		this.exceptionName = exceptionName;
 		this.exceptionMsg = exceptionMsg;

@@ -53,7 +53,7 @@ public class JAXBCon
 				JAXBContext jc = JAXBContext.newInstance(classOBJ);
 				Marshaller ms = jc.createMarshaller();
 				ms.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
-				ms.marshal(obj, System.out);
+			//	ms.marshal(obj, System.out);
 				ms.marshal(obj, new File("Config.xml"));
 				log.info("Config.xml has been updated Succesfully");
 				
@@ -86,12 +86,12 @@ public class JAXBCon
 				System.out.println(data.getM_cipher());
 				log.info("The default Cipher is:" + cipher_name);
 				
-				if(second_cipher_name_1 != null)
+				if( !second_cipher_name_1.equals("") )
 				{
 				System.out.println("Secondary Cipher 1 "+data.getS_cipher1());
 				log.info("Secondary Cipher 1 "+data.getS_cipher1());
 				}
-				if(second_cipher_name_2 != null)
+				if( !second_cipher_name_2.equals("") )
 				{
 				System.out.println("Secondary Cipher 2 "+data.getS_cipher2());
 				log.info("Secondary Cipher 2 "+data.getS_cipher2());
@@ -197,16 +197,16 @@ public class JAXBCon
 			
 			else if(cipher instanceof SplitCipher)
 			{
-				JAXBCon.marshall(new CipherJaxb("SplitCipher",JAXBCon.fromCipher2String(c.get(0)),null),CipherJaxb.class);
+				JAXBCon.marshall(new CipherJaxb("SplitCipher",JAXBCon.fromCipher2String(c.get(0)),""),CipherJaxb.class);
 			}
 			
 			else if(cipher instanceof ReverseCipher)
 			{
-				JAXBCon.marshall(new CipherJaxb("ReverseCipher",JAXBCon.fromCipher2String(c.get(0)),null),CipherJaxb.class);
+				JAXBCon.marshall(new CipherJaxb("ReverseCipher",JAXBCon.fromCipher2String(c.get(0)),""),CipherJaxb.class);
 			}
 			
 			else
-				JAXBCon.marshall(new CipherJaxb(JAXBCon.fromCipher2String(cipher),null,null),CipherJaxb.class);
+				JAXBCon.marshall(new CipherJaxb(JAXBCon.fromCipher2String(cipher),"",""),CipherJaxb.class);
 			
 		}
 		
@@ -229,8 +229,7 @@ public class JAXBCon
 	            opertaion.appendChild(((org.w3c.dom.Document) document).createTextNode(sj.getOpertaion()));
 	            details.appendChild(opertaion);
 	            
-	            if(sj.getStatus().equals("Success"))
-	            {
+	          
 		            Element path = ((org.w3c.dom.Document) document).createElement("path");
 		            path.appendChild(((org.w3c.dom.Document) document).createTextNode(sj.getPath()));
 		            details.appendChild(path);
@@ -238,10 +237,7 @@ public class JAXBCon
 		            Element time = ((org.w3c.dom.Document) document).createElement("time");
 		            time.appendChild(((org.w3c.dom.Document) document).createTextNode(sj.getTime()));
 		            details.appendChild(time);
-	            }
-	            
-	            else 
-	            {
+	          
 	            	 	Element exceptionName = ((org.w3c.dom.Document) document).createElement("exceptionName");
 	            	 	exceptionName.appendChild(((org.w3c.dom.Document) document).createTextNode(sj.getExceptionName()));
 			            details.appendChild(exceptionName);
@@ -253,7 +249,7 @@ public class JAXBCon
 			            Element exceptionStackTrace = ((org.w3c.dom.Document) document).createElement("exceptionStackTrace");
 			            exceptionStackTrace.appendChild(((org.w3c.dom.Document) document).createTextNode(sj.getExceptionStackTrace()));
 			            details.appendChild(exceptionStackTrace);
-	            }
+	            
 	            root.appendChild(details);
 	            
 	            

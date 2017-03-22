@@ -97,7 +97,7 @@ public class Async {
 		
 		for(AsyncThread t : at)
 			t.start();
-		
+			
 		if (option.equals(EnumCipher.Encryption))
 			new FileManager().writeBytesToFile(folder.getAbsolutePath()+"\\key.bin", c.getByteArrayKey());
 		

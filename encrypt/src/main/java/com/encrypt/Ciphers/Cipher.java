@@ -30,7 +30,7 @@ public abstract class Cipher extends Observable implements Operations,Cloneable{
 	protected FileManager fm;
 	protected String filepath;
 	protected boolean secondary =false;
-	
+	public long total_time ;
 	final Logger log = Logger.getLogger(Cipher.class);
 	public Cipher()
 	{
@@ -72,7 +72,7 @@ public abstract class Cipher extends Observable implements Operations,Cloneable{
 	
 	public void End(String msg)
 	{
-		long total_time = System.nanoTime() - start_time;
+		 total_time = System.nanoTime() - start_time;
 		if(secondary)
 		{
 			log.info("Secondary cipher "+this.filepath+" "+msg + " Finished - Total time: " + ((total_time)/(double)1000000) +" ms");

@@ -3946,3 +3946,1934 @@
 2017-03-20 22:29:32 INFO  Main:41 - ----------------------------------------New RUN-------------------------------------------
 2017-03-20 22:29:32 INFO  JAXBCon:87 - The default Cipher is:XorCipher
 2017-03-20 22:29:32 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 09:46:01 INFO  Main:41 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 09:46:01 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 09:46:01 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 09:46:01 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 09:46:14 INFO  Main:71 - Encryption selected
+2017-03-22 09:46:14 INFO  Main:73 - Key created
+2017-03-22 09:46:31 INFO  UserOptions:286 - folder path selected -check
+2017-03-22 09:46:33 INFO  Main:138 - ASync operation has been selected
+2017-03-22 09:46:33 INFO  Async:33 - Async operation has started
+2017-03-22 09:46:33 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (11).JPG Encryption Started
+2017-03-22 09:46:33 INFO  Cipher:68 - check\‏‏לכידה.JPG Encryption Started
+2017-03-22 09:46:33 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (12).JPG Encryption Started
+2017-03-22 09:46:33 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (10).JPG Encryption Started
+2017-03-22 09:46:33 INFO  Cipher:83 - check\‏‏לכידה.JPG Encryption Finished - Total time: 3.140556 ms
+2017-03-22 09:46:33 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (11).JPG Encryption Finished - Total time: 4.059734 ms
+2017-03-22 09:46:33 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (10).JPG Encryption Finished - Total time: 6.707243 ms
+2017-03-22 09:46:33 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (12).JPG Encryption Finished - Total time: 5.175145 ms
+2017-03-22 09:46:33 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (13).JPG Encryption Started
+2017-03-22 09:46:33 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (13).JPG Encryption Finished - Total time: 1.143326 ms
+2017-03-22 09:46:33 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (14).JPG Encryption Started
+2017-03-22 09:46:33 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (14).JPG Encryption Finished - Total time: 0.95982 ms
+2017-03-22 09:46:33 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (16).JPG Encryption Started
+2017-03-22 09:46:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (16).JPG Encryption Finished - Total time: 0.65069 ms
+2017-03-22 09:46:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (17).JPG Encryption Started
+2017-03-22 09:46:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (17).JPG Encryption Finished - Total time: 0.329245 ms
+2017-03-22 09:46:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (15).JPG Encryption Started
+2017-03-22 09:46:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (15).JPG Encryption Finished - Total time: 2.869196 ms
+2017-03-22 09:46:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (18).JPG Encryption Started
+2017-03-22 09:46:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (18).JPG Encryption Finished - Total time: 0.441731 ms
+2017-03-22 09:46:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (19).JPG Encryption Started
+2017-03-22 09:46:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (19).JPG Encryption Finished - Total time: 0.412172 ms
+2017-03-22 09:46:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (2).JPG Encryption Started
+2017-03-22 09:46:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (2).JPG Encryption Finished - Total time: 0.375636 ms
+2017-03-22 09:46:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (20).JPG Encryption Started
+2017-03-22 09:46:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (21).JPG Encryption Started
+2017-03-22 09:46:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (20).JPG Encryption Finished - Total time: 0.518499 ms
+2017-03-22 09:46:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (21).JPG Encryption Finished - Total time: 0.401499 ms
+2017-03-22 09:46:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (22).JPG Encryption Started
+2017-03-22 09:46:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (22).JPG Encryption Finished - Total time: 0.431467 ms
+2017-03-22 09:46:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (23).JPG Encryption Started
+2017-03-22 09:46:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (23).JPG Encryption Finished - Total time: 1.312055 ms
+2017-03-22 09:46:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (4).JPG Encryption Started
+2017-03-22 09:46:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (4).JPG Encryption Finished - Total time: 0.376457 ms
+2017-03-22 09:46:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (3).JPG Encryption Started
+2017-03-22 09:46:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (3).JPG Encryption Finished - Total time: 2.694721 ms
+2017-03-22 09:46:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (5).JPG Encryption Started
+2017-03-22 09:46:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (5).JPG Encryption Finished - Total time: 0.538205 ms
+2017-03-22 09:46:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (6).JPG Encryption Started
+2017-03-22 09:46:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (6).JPG Encryption Finished - Total time: 0.421204 ms
+2017-03-22 09:46:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (7).JPG Encryption Started
+2017-03-22 09:46:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (7).JPG Encryption Finished - Total time: 0.521373 ms
+2017-03-22 09:46:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (8).JPG Encryption Started
+2017-03-22 09:46:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (8).JPG Encryption Finished - Total time: 0.523837 ms
+2017-03-22 09:46:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (9).JPG Encryption Started
+2017-03-22 09:46:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (9).JPG Encryption Finished - Total time: 0.383846 ms
+2017-03-22 09:46:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק.JPG Encryption Started
+2017-03-22 09:46:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק.JPG Encryption Finished - Total time: 0.430235 ms
+2017-03-22 09:46:34 INFO  Async:107 - Async operation has Finished - Total time: 83.586836 ms
+2017-03-22 09:46:34 INFO  Main:152 - ASync operation has been finished
+2017-03-22 09:47:17 INFO  Main:41 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 09:47:17 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 09:47:17 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 09:47:17 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 09:47:30 INFO  Main:41 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 09:47:30 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 09:47:30 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 09:47:30 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 09:47:38 INFO  Main:79 - Decryption selected
+2017-03-22 09:47:43 INFO  Main:113 - Key has been set
+2017-03-22 09:47:50 INFO  UserOptions:286 - folder path selected -check\encrypted
+2017-03-22 09:47:51 INFO  Main:129 - Sync operation has been selected
+2017-03-22 09:47:51 INFO  Sync:53 - Sync thread has started
+2017-03-22 09:47:51 INFO  Cipher:68 - check\encrypted\‏‏לכידה.JPG.encrypted Decryption Started
+2017-03-22 09:47:51 INFO  Cipher:83 - check\encrypted\‏‏לכידה.JPG.encrypted Decryption Finished - Total time: 2.85688 ms
+2017-03-22 09:47:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (10).JPG.encrypted Decryption Started
+2017-03-22 09:47:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (10).JPG.encrypted Decryption Finished - Total time: 0.845282 ms
+2017-03-22 09:47:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (11).JPG.encrypted Decryption Started
+2017-03-22 09:47:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (11).JPG.encrypted Decryption Finished - Total time: 0.892082 ms
+2017-03-22 09:47:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (12).JPG.encrypted Decryption Started
+2017-03-22 09:47:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (12).JPG.encrypted Decryption Finished - Total time: 4.170987 ms
+2017-03-22 09:47:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (13).JPG.encrypted Decryption Started
+2017-03-22 09:47:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (13).JPG.encrypted Decryption Finished - Total time: 0.865397 ms
+2017-03-22 09:47:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (14).JPG.encrypted Decryption Started
+2017-03-22 09:47:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (14).JPG.encrypted Decryption Finished - Total time: 0.437625 ms
+2017-03-22 09:47:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (15).JPG.encrypted Decryption Started
+2017-03-22 09:47:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (15).JPG.encrypted Decryption Finished - Total time: 0.470057 ms
+2017-03-22 09:47:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (16).JPG.encrypted Decryption Started
+2017-03-22 09:47:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (16).JPG.encrypted Decryption Finished - Total time: 0.38754 ms
+2017-03-22 09:47:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (17).JPG.encrypted Decryption Started
+2017-03-22 09:47:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (17).JPG.encrypted Decryption Finished - Total time: 0.414225 ms
+2017-03-22 09:47:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (18).JPG.encrypted Decryption Started
+2017-03-22 09:47:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (18).JPG.encrypted Decryption Finished - Total time: 0.377277 ms
+2017-03-22 09:47:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (19).JPG.encrypted Decryption Started
+2017-03-22 09:47:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (19).JPG.encrypted Decryption Finished - Total time: 0.34813 ms
+2017-03-22 09:47:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (2).JPG.encrypted Decryption Started
+2017-03-22 09:47:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (2).JPG.encrypted Decryption Finished - Total time: 0.473342 ms
+2017-03-22 09:47:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (20).JPG.encrypted Decryption Started
+2017-03-22 09:47:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (20).JPG.encrypted Decryption Finished - Total time: 0.416277 ms
+2017-03-22 09:47:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (21).JPG.encrypted Decryption Started
+2017-03-22 09:47:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (21).JPG.encrypted Decryption Finished - Total time: 0.310361 ms
+2017-03-22 09:47:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (22).JPG.encrypted Decryption Started
+2017-03-22 09:47:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (22).JPG.encrypted Decryption Finished - Total time: 0.321035 ms
+2017-03-22 09:47:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (23).JPG.encrypted Decryption Started
+2017-03-22 09:47:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (23).JPG.encrypted Decryption Finished - Total time: 0.490994 ms
+2017-03-22 09:47:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (3).JPG.encrypted Decryption Started
+2017-03-22 09:47:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (3).JPG.encrypted Decryption Finished - Total time: 0.32514 ms
+2017-03-22 09:47:52 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (4).JPG.encrypted Decryption Started
+2017-03-22 09:47:52 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (4).JPG.encrypted Decryption Finished - Total time: 0.303382 ms
+2017-03-22 09:47:52 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (5).JPG.encrypted Decryption Started
+2017-03-22 09:47:52 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (5).JPG.encrypted Decryption Finished - Total time: 0.268487 ms
+2017-03-22 09:47:52 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (6).JPG.encrypted Decryption Started
+2017-03-22 09:47:52 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (6).JPG.encrypted Decryption Finished - Total time: 0.251244 ms
+2017-03-22 09:47:52 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (7).JPG.encrypted Decryption Started
+2017-03-22 09:47:52 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (7).JPG.encrypted Decryption Finished - Total time: 0.211834 ms
+2017-03-22 09:47:52 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (8).JPG.encrypted Decryption Started
+2017-03-22 09:47:52 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (8).JPG.encrypted Decryption Finished - Total time: 0.27916 ms
+2017-03-22 09:47:52 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (9).JPG.encrypted Decryption Started
+2017-03-22 09:47:52 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (9).JPG.encrypted Decryption Finished - Total time: 0.297635 ms
+2017-03-22 09:47:52 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק.JPG.encrypted Decryption Started
+2017-03-22 09:47:52 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק.JPG.encrypted Decryption Finished - Total time: 0.878534 ms
+2017-03-22 09:47:52 INFO  Sync:65 - Sync thread has finished- Total time: 97.059618 ms
+2017-03-22 09:47:52 INFO  Main:131 - Sync operation has been finished
+2017-03-22 09:57:33 INFO  Main:41 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 09:57:33 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 09:57:33 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 09:57:33 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 09:57:40 INFO  Main:71 - Encryption selected
+2017-03-22 09:57:40 INFO  Main:73 - Key created
+2017-03-22 09:57:43 INFO  UserOptions:286 - folder path selected -check
+2017-03-22 09:57:45 INFO  Main:138 - ASync operation has been selected
+2017-03-22 09:57:45 INFO  Async:33 - Async operation has started
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (12).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (10).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏לכידה.JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (11).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (12).JPG Encryption Finished - Total time: 14.440402 ms
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (10).JPG Encryption Finished - Total time: 14.805364 ms
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (11).JPG Encryption Finished - Total time: 18.657779 ms
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (15).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (14).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏לכידה.JPG Encryption Finished - Total time: 9.70042 ms
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (13).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (16).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (15).JPG Encryption Finished - Total time: 5.043775 ms
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (14).JPG Encryption Finished - Total time: 9.257457 ms
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (18).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (17).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (13).JPG Encryption Finished - Total time: 15.39119 ms
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (19).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (16).JPG Encryption Finished - Total time: 11.141381 ms
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (2).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (18).JPG Encryption Finished - Total time: 9.126087 ms
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (20).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (17).JPG Encryption Finished - Total time: 7.904761 ms
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (19).JPG Encryption Finished - Total time: 5.551601 ms
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (2).JPG Encryption Finished - Total time: 4.463285 ms
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (22).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (23).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (21).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (20).JPG Encryption Finished - Total time: 3.853648 ms
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (3).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (22).JPG Encryption Finished - Total time: 3.90168 ms
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (4).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (23).JPG Encryption Finished - Total time: 5.322525 ms
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (21).JPG Encryption Finished - Total time: 7.448661 ms
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (3).JPG Encryption Finished - Total time: 4.121724 ms
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (5).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (4).JPG Encryption Finished - Total time: 3.117567 ms
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (7).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (8).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (6).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (5).JPG Encryption Finished - Total time: 3.644277 ms
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (7).JPG Encryption Finished - Total time: 2.82568 ms
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (8).JPG Encryption Finished - Total time: 2.873301 ms
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (9).JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק.JPG Encryption Started
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (6).JPG Encryption Finished - Total time: 5.849646 ms
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק.JPG Encryption Finished - Total time: 1.763228 ms
+2017-03-22 09:57:45 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (9).JPG Encryption Finished - Total time: 4.430032 ms
+2017-03-22 09:57:45 INFO  Async:107 - Async operation has Finished - Total time: 79.582935 ms
+2017-03-22 09:57:45 INFO  Main:152 - ASync operation has been finished
+2017-03-22 09:57:59 INFO  Main:41 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 09:58:00 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 09:58:00 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 09:58:00 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 09:58:04 INFO  Main:79 - Decryption selected
+2017-03-22 09:58:07 INFO  Main:113 - Key has been set
+2017-03-22 09:58:17 INFO  UserOptions:286 - folder path selected -check\encrypted
+2017-03-22 09:58:18 INFO  Main:138 - ASync operation has been selected
+2017-03-22 09:58:18 INFO  Async:33 - Async operation has started
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏לכידה.JPG.encrypted Decryption Finished - Total time: 4.67246882905273E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (11).JPG.encrypted Decryption Finished - Total time: 4.67246883184023E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (11).JPG.encrypted Decryption Finished - Total time: 4.67246895676459E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏לכידה.JPG.encrypted Decryption Finished - Total time: 4.67246895774986E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (13).JPG.encrypted Decryption Finished - Total time: 4.67246899223851E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (10).JPG.encrypted Decryption Finished - Total time: 4.67246899957469E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (10).JPG.encrypted Decryption Finished - Total time: 4.67246901898866E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (14).JPG.encrypted Decryption Finished - Total time: 4.67246899916826E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (14).JPG.encrypted Decryption Finished - Total time: 4.67246908586404E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (12).JPG.encrypted Decryption Finished - Total time: 4.67246899785456E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (12).JPG.encrypted Decryption Finished - Total time: 4.67246912888761E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (13).JPG.encrypted Decryption Finished - Total time: 4.67246903382112E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (15).JPG.encrypted Decryption Finished - Total time: 4.67246918752776E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (15).JPG.encrypted Decryption Finished - Total time: 4.67246922942237E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (17).JPG.encrypted Decryption Finished - Total time: 4.67246927173573E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (16).JPG.encrypted Decryption Finished - Total time: 4.67246927185067E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (18).JPG.encrypted Decryption Finished - Total time: 4.67246928579639E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (16).JPG.encrypted Decryption Finished - Total time: 4.67246929179834E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (18).JPG.encrypted Decryption Finished - Total time: 4.67246930019779E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (19).JPG.encrypted Decryption Finished - Total time: 4.67246931443908E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (19).JPG.encrypted Decryption Finished - Total time: 4.67246932163568E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (2).JPG.encrypted Decryption Finished - Total time: 4.6724693234338E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (2).JPG.encrypted Decryption Finished - Total time: 4.67246933021576E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (20).JPG.encrypted Decryption Finished - Total time: 4.67246934303662E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (20).JPG.encrypted Decryption Finished - Total time: 4.67246934954353E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (21).JPG.encrypted Decryption Finished - Total time: 4.67246935469979E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (21).JPG.encrypted Decryption Finished - Total time: 4.67246936068942E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (22).JPG.encrypted Decryption Finished - Total time: 4.67246936986477E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (22).JPG.encrypted Decryption Finished - Total time: 4.67246937591599E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (23).JPG.encrypted Decryption Finished - Total time: 4.67246938067814E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (23).JPG.encrypted Decryption Finished - Total time: 4.67246938677041E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (3).JPG.encrypted Decryption Finished - Total time: 4.67246939847052E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (17).JPG.encrypted Decryption Finished - Total time: 4.67246928021728E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (3).JPG.encrypted Decryption Finished - Total time: 4.67246940496922E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (4).JPG.encrypted Decryption Finished - Total time: 4.67246941832787E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (4).JPG.encrypted Decryption Finished - Total time: 4.67246942540541E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (5).JPG.encrypted Decryption Finished - Total time: 4.67246943442476E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (5).JPG.encrypted Decryption Finished - Total time: 4.67246944114104E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (6).JPG.encrypted Decryption Finished - Total time: 4.67246944963081E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (6).JPG.encrypted Decryption Finished - Total time: 4.67246945543981E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (7).JPG.encrypted Decryption Finished - Total time: 4.67246946908994E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (8).JPG.encrypted Decryption Finished - Total time: 4.67246947593348E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (7).JPG.encrypted Decryption Finished - Total time: 4.67246947588422E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (8).JPG.encrypted Decryption Finished - Total time: 4.67246948248144E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (9).JPG.encrypted Decryption Finished - Total time: 4.67246950361964E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (9).JPG.encrypted Decryption Finished - Total time: 4.67246951145256E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק.JPG.encrypted Decryption Finished - Total time: 4.67246951375974E8 ms
+2017-03-22 09:58:19 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק.JPG.encrypted Decryption Finished - Total time: 4.67246951951948E8 ms
+2017-03-22 09:58:19 INFO  Async:107 - Async operation has Finished - Total time: 93.95642 ms
+2017-03-22 09:58:19 INFO  Main:152 - ASync operation has been finished
+2017-03-22 09:59:51 INFO  Main:41 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 09:59:51 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 09:59:51 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 09:59:51 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 09:59:55 INFO  Main:79 - Decryption selected
+2017-03-22 09:59:59 INFO  Main:113 - Key has been set
+2017-03-22 10:00:05 INFO  UserOptions:286 - folder path selected -check\encrypted
+2017-03-22 10:00:06 INFO  Main:138 - ASync operation has been selected
+2017-03-22 10:00:06 INFO  Async:33 - Async operation has started
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (10).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (12).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏לכידה.JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (11).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (10).JPG.encrypted Decryption Finished - Total time: 13.366044 ms
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (11).JPG.encrypted Decryption Finished - Total time: 14.623909 ms
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏לכידה.JPG.encrypted Decryption Finished - Total time: 11.805208 ms
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (12).JPG.encrypted Decryption Finished - Total time: 10.073592 ms
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (13).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (13).JPG.encrypted Decryption Finished - Total time: 1.879408 ms
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (14).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (15).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (15).JPG.encrypted Decryption Finished - Total time: 2.485761 ms
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (14).JPG.encrypted Decryption Finished - Total time: 2.641352 ms
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (16).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (16).JPG.encrypted Decryption Finished - Total time: 1.0994 ms
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (17).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (17).JPG.encrypted Decryption Finished - Total time: 0.938883 ms
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (18).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (18).JPG.encrypted Decryption Finished - Total time: 3.278085 ms
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (19).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (19).JPG.encrypted Decryption Finished - Total time: 0.787807 ms
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (2).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (21).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (2).JPG.encrypted Decryption Finished - Total time: 0.964747 ms
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (20).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (21).JPG.encrypted Decryption Finished - Total time: 0.532048 ms
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (20).JPG.encrypted Decryption Finished - Total time: 0.78206 ms
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (22).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (3).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (23).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (22).JPG.encrypted Decryption Finished - Total time: 0.844051 ms
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (3).JPG.encrypted Decryption Finished - Total time: 0.68107 ms
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (23).JPG.encrypted Decryption Finished - Total time: 0.701597 ms
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (4).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (5).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (4).JPG.encrypted Decryption Finished - Total time: 0.931903 ms
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (5).JPG.encrypted Decryption Finished - Total time: 1.046442 ms
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (6).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (6).JPG.encrypted Decryption Finished - Total time: 0.801766 ms
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (7).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (8).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (8).JPG.encrypted Decryption Finished - Total time: 1.228307 ms
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (7).JPG.encrypted Decryption Finished - Total time: 0.881409 ms
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (9).JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (9).JPG.encrypted Decryption Finished - Total time: 0.757839 ms
+2017-03-22 10:00:06 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק.JPG.encrypted Decryption Started
+2017-03-22 10:00:06 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק.JPG.encrypted Decryption Finished - Total time: 0.552984 ms
+2017-03-22 10:00:06 INFO  Async:107 - Async operation has Finished - Total time: 84.368896 ms
+2017-03-22 10:00:06 INFO  Main:152 - ASync operation has been finished
+2017-03-22 10:02:42 INFO  Main:41 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 10:02:42 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 10:02:42 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 10:02:42 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 10:02:47 INFO  UserOptions:121 - SplitCipher has been selected
+2017-03-22 10:02:48 INFO  UserOptions:199 - Secondary cipher - MWOCipher has been selected
+2017-03-22 10:02:50 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 10:02:53 INFO  Main:71 - Encryption selected
+2017-03-22 10:02:53 INFO  Main:73 - Key created
+2017-03-22 10:02:56 INFO  UserOptions:286 - folder path selected -check
+2017-03-22 10:02:58 INFO  Main:129 - Sync operation has been selected
+2017-03-22 10:02:58 INFO  Sync:53 - Sync thread has started
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏לכידה.JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏לכידה.JPG Encryption Finished - Total time: 9.689746 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (10).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (10).JPG Encryption Finished - Total time: 3.01945 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (11).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (11).JPG Encryption Finished - Total time: 3.920153 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (12).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (12).JPG Encryption Finished - Total time: 5.846772 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (13).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (13).JPG Encryption Finished - Total time: 4.875868 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (14).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (14).JPG Encryption Finished - Total time: 5.263819 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (15).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (15).JPG Encryption Finished - Total time: 1.973009 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (16).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (16).JPG Encryption Finished - Total time: 1.91184 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (17).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (17).JPG Encryption Finished - Total time: 1.83466 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (18).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (18).JPG Encryption Finished - Total time: 1.934008 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (19).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (19).JPG Encryption Finished - Total time: 1.405245 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (2).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (2).JPG Encryption Finished - Total time: 1.269359 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (20).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (20).JPG Encryption Finished - Total time: 1.50993 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (21).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (21).JPG Encryption Finished - Total time: 1.829323 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (22).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (22).JPG Encryption Finished - Total time: 1.530457 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (23).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (23).JPG Encryption Finished - Total time: 1.598194 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (3).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (3).JPG Encryption Finished - Total time: 1.655669 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (4).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (4).JPG Encryption Finished - Total time: 1.900755 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (5).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (5).JPG Encryption Finished - Total time: 2.112589 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (6).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (6).JPG Encryption Finished - Total time: 1.562478 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (7).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (7).JPG Encryption Finished - Total time: 1.663469 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (8).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (8).JPG Encryption Finished - Total time: 1.590394 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (9).JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (9).JPG Encryption Finished - Total time: 2.170884 ms
+2017-03-22 10:02:58 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק.JPG Encryption Started
+2017-03-22 10:02:58 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק.JPG Encryption Finished - Total time: 1.882282 ms
+2017-03-22 10:02:58 INFO  Sync:65 - Sync thread has finished- Total time: 107.919785 ms
+2017-03-22 10:02:58 INFO  Main:131 - Sync operation has been finished
+2017-03-22 10:03:16 INFO  Main:41 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 10:03:16 INFO  JAXBCon:87 - The default Cipher is:SplitCipher
+2017-03-22 10:03:16 INFO  JAXBCon:92 - Secondary Cipher 1 MWOCipher
+2017-03-22 10:03:16 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 10:03:16 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 10:03:20 INFO  Main:79 - Decryption selected
+2017-03-22 10:03:24 INFO  Main:113 - Key has been set
+2017-03-22 10:03:31 INFO  UserOptions:286 - folder path selected -check\encrypted
+2017-03-22 10:03:32 INFO  Main:138 - ASync operation has been selected
+2017-03-22 10:03:32 INFO  Async:33 - Async operation has started
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏לכידה.JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (12).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (11).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏לכידה.JPG.encrypted Decryption Finished - Total time: 21.863199 ms
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (11).JPG.encrypted Decryption Finished - Total time: 25.452466 ms
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (12).JPG.encrypted Decryption Finished - Total time: 29.696938 ms
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (10).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (10).JPG.encrypted Decryption Finished - Total time: 39.385042 ms
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (13).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (13).JPG.encrypted Decryption Finished - Total time: 5.609896 ms
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (14).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (15).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (15).JPG.encrypted Decryption Finished - Total time: 4.922668 ms
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (14).JPG.encrypted Decryption Finished - Total time: 9.565766 ms
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (17).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (18).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (17).JPG.encrypted Decryption Finished - Total time: 1.940987 ms
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (18).JPG.encrypted Decryption Finished - Total time: 1.643764 ms
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (19).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (2).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (19).JPG.encrypted Decryption Finished - Total time: 1.505825 ms
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (2).JPG.encrypted Decryption Finished - Total time: 1.515677 ms
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (20).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (21).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (16).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (20).JPG.encrypted Decryption Finished - Total time: 1.569457 ms
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (21).JPG.encrypted Decryption Finished - Total time: 1.652384 ms
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (16).JPG.encrypted Decryption Finished - Total time: 10.555965 ms
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (22).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (23).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (22).JPG.encrypted Decryption Finished - Total time: 1.495972 ms
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (23).JPG.encrypted Decryption Finished - Total time: 1.653206 ms
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (3).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (3).JPG.encrypted Decryption Finished - Total time: 1.431109 ms
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (4).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (4).JPG.encrypted Decryption Finished - Total time: 2.106841 ms
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (5).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (5).JPG.encrypted Decryption Finished - Total time: 1.947556 ms
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (6).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (7).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (6).JPG.encrypted Decryption Finished - Total time: 1.537026 ms
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (8).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (7).JPG.encrypted Decryption Finished - Total time: 1.479551 ms
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (8).JPG.encrypted Decryption Finished - Total time: 1.532099 ms
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (9).JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק.JPG.encrypted Decryption Started
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (9).JPG.encrypted Decryption Finished - Total time: 1.806744 ms
+2017-03-22 10:03:32 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק.JPG.encrypted Decryption Finished - Total time: 1.682764 ms
+2017-03-22 10:03:32 INFO  Async:107 - Async operation has Finished - Total time: 117.544667 ms
+2017-03-22 10:03:32 INFO  Main:152 - ASync operation has been finished
+2017-03-22 10:33:58 INFO  Main:41 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 10:33:58 INFO  JAXBCon:87 - The default Cipher is:SplitCipher
+2017-03-22 10:33:58 INFO  JAXBCon:92 - Secondary Cipher 1 MWOCipher
+2017-03-22 10:33:58 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 10:33:58 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 10:34:11 INFO  Main:79 - Decryption selected
+2017-03-22 10:34:16 INFO  Main:113 - Key has been set
+2017-03-22 10:34:23 INFO  UserOptions:286 - folder path selected -check\encrypted
+2017-03-22 10:34:26 INFO  Main:138 - ASync operation has been selected
+2017-03-22 10:34:26 INFO  Async:33 - Async operation has started
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (10).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (12).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (11).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏לכידה.JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (12).JPG.encrypted Decryption Finished - Total time: 18.381493 ms
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏לכידה.JPG.encrypted Decryption Finished - Total time: 5.699392 ms
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (11).JPG.encrypted Decryption Finished - Total time: 13.30118 ms
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (10).JPG.encrypted Decryption Finished - Total time: 27.530981 ms
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (13).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (13).JPG.encrypted Decryption Finished - Total time: 5.11685 ms
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (14).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (14).JPG.encrypted Decryption Finished - Total time: 3.728846 ms
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (15).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (15).JPG.encrypted Decryption Finished - Total time: 3.989944 ms
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (16).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (16).JPG.encrypted Decryption Finished - Total time: 2.7251 ms
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (17).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (18).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (18).JPG.encrypted Decryption Finished - Total time: 2.19059 ms
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (17).JPG.encrypted Decryption Finished - Total time: 8.188847 ms
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (19).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (2).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (20).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (2).JPG.encrypted Decryption Finished - Total time: 4.481348 ms
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (21).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (19).JPG.encrypted Decryption Finished - Total time: 13.453077 ms
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (21).JPG.encrypted Decryption Finished - Total time: 1.830965 ms
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (22).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (23).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (22).JPG.encrypted Decryption Finished - Total time: 2.288295 ms
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (20).JPG.encrypted Decryption Finished - Total time: 20.297027 ms
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (23).JPG.encrypted Decryption Finished - Total time: 2.347822 ms
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (3).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (4).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (3).JPG.encrypted Decryption Finished - Total time: 1.62611 ms
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (4).JPG.encrypted Decryption Finished - Total time: 1.932366 ms
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (5).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (5).JPG.encrypted Decryption Finished - Total time: 1.814134 ms
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (7).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (6).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (7).JPG.encrypted Decryption Finished - Total time: 1.636784 ms
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (6).JPG.encrypted Decryption Finished - Total time: 2.003388 ms
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (8).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (9).JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק.JPG.encrypted Decryption Started
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (8).JPG.encrypted Decryption Finished - Total time: 1.978345 ms
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (9).JPG.encrypted Decryption Finished - Total time: 1.573152 ms
+2017-03-22 10:34:27 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק.JPG.encrypted Decryption Finished - Total time: 1.499256 ms
+2017-03-22 10:34:27 INFO  Async:107 - Async operation has Finished - Total time: 166.37519 ms
+2017-03-22 10:34:27 INFO  Main:152 - ASync operation has been finished
+2017-03-22 10:36:27 INFO  Main:41 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 10:36:27 INFO  JAXBCon:87 - The default Cipher is:SplitCipher
+2017-03-22 10:36:27 INFO  JAXBCon:92 - Secondary Cipher 1 MWOCipher
+2017-03-22 10:36:27 INFO  JAXBCon:97 - Secondary Cipher 2 XorCipher
+2017-03-22 10:36:27 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 10:36:27 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 10:36:31 INFO  Main:79 - Decryption selected
+2017-03-22 10:36:34 INFO  Main:113 - Key has been set
+2017-03-22 10:36:39 INFO  UserOptions:286 - folder path selected -check\encrypted
+2017-03-22 10:36:41 INFO  Main:129 - Sync operation has been selected
+2017-03-22 10:36:41 INFO  Sync:53 - Sync thread has started
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏לכידה.JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏לכידה.JPG.encrypted Decryption Finished - Total time: 12.510089 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (10).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (10).JPG.encrypted Decryption Finished - Total time: 6.820139 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (11).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (11).JPG.encrypted Decryption Finished - Total time: 7.909277 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (12).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (12).JPG.encrypted Decryption Finished - Total time: 7.092321 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (13).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (13).JPG.encrypted Decryption Finished - Total time: 4.464517 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (14).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (14).JPG.encrypted Decryption Finished - Total time: 4.774057 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (15).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (15).JPG.encrypted Decryption Finished - Total time: 4.468622 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (16).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (16).JPG.encrypted Decryption Finished - Total time: 2.246832 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (17).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (17).JPG.encrypted Decryption Finished - Total time: 2.278854 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (18).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (18).JPG.encrypted Decryption Finished - Total time: 1.897881 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (19).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (19).JPG.encrypted Decryption Finished - Total time: 2.363423 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (2).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (2).JPG.encrypted Decryption Finished - Total time: 2.138452 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (20).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (20).JPG.encrypted Decryption Finished - Total time: 1.72669 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (21).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (21).JPG.encrypted Decryption Finished - Total time: 2.28419 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (22).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (22).JPG.encrypted Decryption Finished - Total time: 2.316623 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (23).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (23).JPG.encrypted Decryption Finished - Total time: 2.145021 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (3).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (3).JPG.encrypted Decryption Finished - Total time: 3.590908 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (4).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (4).JPG.encrypted Decryption Finished - Total time: 2.56992 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (5).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (5).JPG.encrypted Decryption Finished - Total time: 2.069072 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (6).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (6).JPG.encrypted Decryption Finished - Total time: 2.709089 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (7).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (7).JPG.encrypted Decryption Finished - Total time: 2.364243 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (8).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (8).JPG.encrypted Decryption Finished - Total time: 2.027198 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (9).JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (9).JPG.encrypted Decryption Finished - Total time: 1.636374 ms
+2017-03-22 10:36:41 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק.JPG.encrypted Decryption Started
+2017-03-22 10:36:41 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק.JPG.encrypted Decryption Finished - Total time: 1.884745 ms
+2017-03-22 10:36:41 INFO  Sync:65 - Sync thread has finished- Total time: 126.054549 ms
+2017-03-22 10:36:42 INFO  Main:131 - Sync operation has been finished
+2017-03-22 10:39:10 INFO  Main:41 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 10:39:10 INFO  JAXBCon:87 - The default Cipher is:SplitCipher
+2017-03-22 10:39:10 INFO  JAXBCon:92 - Secondary Cipher 1 MWOCipher
+2017-03-22 10:39:10 INFO  JAXBCon:97 - Secondary Cipher 2 
+2017-03-22 10:39:10 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 10:39:10 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 10:39:14 INFO  UserOptions:95 - XorCipher has been selected
+2017-03-22 10:39:16 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 10:39:18 INFO  Main:79 - Decryption selected
+2017-03-22 10:39:23 INFO  Main:113 - Key has been set
+2017-03-22 10:39:32 INFO  UserOptions:286 - folder path selected -check\encrypted
+2017-03-22 10:39:34 INFO  Main:138 - ASync operation has been selected
+2017-03-22 10:39:34 INFO  Async:33 - Async operation has started
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (10).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏לכידה.JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (11).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (10).JPG.encrypted Decryption Finished - Total time: 9.624472 ms
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (12).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (11).JPG.encrypted Decryption Finished - Total time: 16.38262 ms
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (12).JPG.encrypted Decryption Finished - Total time: 17.339567 ms
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏לכידה.JPG.encrypted Decryption Finished - Total time: 9.710273 ms
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (13).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (13).JPG.encrypted Decryption Finished - Total time: 5.086881 ms
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (14).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (14).JPG.encrypted Decryption Finished - Total time: 1.150716 ms
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (15).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (15).JPG.encrypted Decryption Finished - Total time: 0.651922 ms
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (16).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (16).JPG.encrypted Decryption Finished - Total time: 0.815313 ms
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (17).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (17).JPG.encrypted Decryption Finished - Total time: 0.761123 ms
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (18).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (18).JPG.encrypted Decryption Finished - Total time: 1.024273 ms
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (19).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (19).JPG.encrypted Decryption Finished - Total time: 0.551343 ms
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (2).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (2).JPG.encrypted Decryption Finished - Total time: 0.752912 ms
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (20).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (20).JPG.encrypted Decryption Finished - Total time: 0.483605 ms
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (21).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (21).JPG.encrypted Decryption Finished - Total time: 0.637553 ms
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (22).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (23).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (22).JPG.encrypted Decryption Finished - Total time: 0.590753 ms
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (23).JPG.encrypted Decryption Finished - Total time: 0.571868 ms
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (3).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (3).JPG.encrypted Decryption Finished - Total time: 0.819008 ms
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (4).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (4).JPG.encrypted Decryption Finished - Total time: 0.587469 ms
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (5).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (5).JPG.encrypted Decryption Finished - Total time: 1.056295 ms
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (6).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (7).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (6).JPG.encrypted Decryption Finished - Total time: 0.691333 ms
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (7).JPG.encrypted Decryption Finished - Total time: 0.589111 ms
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (8).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (8).JPG.encrypted Decryption Finished - Total time: 1.480372 ms
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (9).JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (9).JPG.encrypted Decryption Finished - Total time: 0.713502 ms
+2017-03-22 10:39:34 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק.JPG.encrypted Decryption Started
+2017-03-22 10:39:34 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק.JPG.encrypted Decryption Finished - Total time: 0.964746 ms
+2017-03-22 10:39:34 INFO  Async:107 - Async operation has Finished - Total time: 88.44423 ms
+2017-03-22 10:39:34 INFO  Main:152 - ASync operation has been finished
+2017-03-22 10:41:41 INFO  Main:41 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 10:41:42 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 10:41:42 INFO  JAXBCon:92 - Secondary Cipher 1 
+2017-03-22 10:41:42 INFO  JAXBCon:97 - Secondary Cipher 2 
+2017-03-22 10:41:42 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 10:41:42 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 10:41:48 INFO  UserOptions:115 - ReverseCipher has been selected
+2017-03-22 10:41:51 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-22 10:41:53 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 10:43:03 INFO  Main:41 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 10:43:03 INFO  JAXBCon:87 - The default Cipher is:ReverseCipher
+2017-03-22 10:43:03 INFO  JAXBCon:92 - Secondary Cipher 1 XorCipher
+2017-03-22 10:43:03 INFO  JAXBCon:97 - Secondary Cipher 2 
+2017-03-22 10:43:03 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 10:43:03 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 10:43:06 INFO  UserOptions:95 - XorCipher has been selected
+2017-03-22 10:43:08 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 10:43:15 INFO  Main:71 - Encryption selected
+2017-03-22 10:43:15 INFO  Main:73 - Key created
+2017-03-22 10:43:32 INFO  UserOptions:286 - folder path selected -check
+2017-03-22 10:43:34 INFO  Main:138 - ASync operation has been selected
+2017-03-22 10:43:34 INFO  Async:33 - Async operation has started
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (10).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏לכידה.JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (11).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (12).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (10).JPG Encryption Finished - Total time: 13.212096 ms
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (11).JPG Encryption Finished - Total time: 9.942632 ms
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (13).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏לכידה.JPG Encryption Finished - Total time: 12.745323 ms
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (14).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (15).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (13).JPG Encryption Finished - Total time: 9.595735 ms
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (14).JPG Encryption Finished - Total time: 8.185563 ms
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (16).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (15).JPG Encryption Finished - Total time: 8.533692 ms
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (17).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (18).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (16).JPG Encryption Finished - Total time: 4.762562 ms
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (17).JPG Encryption Finished - Total time: 3.67014 ms
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (18).JPG Encryption Finished - Total time: 4.147587 ms
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (2).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (19).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (20).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (2).JPG Encryption Finished - Total time: 5.970342 ms
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (20).JPG Encryption Finished - Total time: 4.315494 ms
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (19).JPG Encryption Finished - Total time: 7.564431 ms
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (21).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (22).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (23).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (22).JPG Encryption Finished - Total time: 1.798944 ms
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (21).JPG Encryption Finished - Total time: 2.219737 ms
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (12).JPG Encryption Finished - Total time: 50.796552 ms
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (23).JPG Encryption Finished - Total time: 2.537898 ms
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (3).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (4).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (5).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (6).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (3).JPG Encryption Finished - Total time: 1.677426 ms
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (4).JPG Encryption Finished - Total time: 2.7251 ms
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (5).JPG Encryption Finished - Total time: 3.080619 ms
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (7).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (8).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (6).JPG Encryption Finished - Total time: 3.230052 ms
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (7).JPG Encryption Finished - Total time: 2.486172 ms
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק.JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (8).JPG Encryption Finished - Total time: 2.929544 ms
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק.JPG Encryption Finished - Total time: 1.43275 ms
+2017-03-22 10:43:34 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (9).JPG Encryption Started
+2017-03-22 10:43:34 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (9).JPG Encryption Finished - Total time: 1.1072 ms
+2017-03-22 10:43:34 INFO  Async:107 - Async operation has Finished - Total time: 85.538086 ms
+2017-03-22 10:43:34 INFO  Main:152 - ASync operation has been finished
+2017-03-22 10:51:01 INFO  Main:42 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 10:51:01 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 10:51:01 INFO  JAXBCon:92 - Secondary Cipher 1 
+2017-03-22 10:51:01 INFO  JAXBCon:97 - Secondary Cipher 2 
+2017-03-22 10:51:01 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 10:51:01 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 10:52:38 INFO  Main:42 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 10:52:39 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 10:52:39 INFO  JAXBCon:92 - Secondary Cipher 1 
+2017-03-22 10:52:39 INFO  JAXBCon:97 - Secondary Cipher 2 
+2017-03-22 10:52:39 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 10:52:39 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 10:53:04 INFO  Main:42 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 10:53:16 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 10:55:58 INFO  Main:42 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 10:55:58 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 10:55:58 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 10:55:58 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 11:04:02 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 11:04:02 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 11:04:02 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 11:04:02 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 11:44:15 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 11:44:15 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 11:44:15 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 11:44:28 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 11:44:28 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 11:44:28 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 11:44:45 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 11:44:46 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 11:44:46 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 11:44:46 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 11:52:05 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 11:52:05 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 11:52:05 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 11:52:05 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 11:52:10 INFO  Main:91 - Decryption selected
+2017-03-22 11:52:15 INFO  Main:125 - Key has been set
+2017-03-22 11:52:20 INFO  UserOptions:286 - folder path selected -check\encrypted
+2017-03-22 11:52:43 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 11:52:43 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 11:52:43 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 11:52:43 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 11:53:01 INFO  Main:91 - Decryption selected
+2017-03-22 11:53:10 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 11:53:10 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 11:53:10 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 11:53:10 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 11:53:15 INFO  Main:83 - Encryption selected
+2017-03-22 11:53:15 INFO  Main:85 - Key created
+2017-03-22 11:53:21 INFO  UserOptions:262 - file path selected -s.jpg
+2017-03-22 11:53:21 INFO  Cipher:68 - s.jpg Encryption Started
+2017-03-22 11:53:21 INFO  Cipher:83 - s.jpg Encryption Finished - Total time: 5.591422 ms
+2017-03-22 11:53:24 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 11:53:24 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 11:53:24 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 11:53:24 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 11:53:28 INFO  Main:91 - Decryption selected
+2017-03-22 11:53:30 INFO  Main:125 - Key has been set
+2017-03-22 11:53:37 INFO  UserOptions:262 - file path selected -s.jpg.encrypted
+2017-03-22 11:53:37 ERROR Main:254 - 
+ Decryption failed!
+2017-03-22 11:53:37 ERROR Main:255 - 
+ null
+2017-03-22 11:58:28 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 11:58:28 ERROR JAXBCon:106 - Config.xml reading has failed
+2017-03-22 11:58:28 ERROR JAXBCon:107 - 
+2017-03-22 11:58:45 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 11:58:45 ERROR JAXBCon:106 - Config.xml reading has failed
+2017-03-22 11:58:45 ERROR JAXBCon:107 - 
+2017-03-22 11:59:38 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 11:59:45 INFO  UserOptions:95 - XorCipher has been selected
+2017-03-22 11:59:48 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 11:59:50 INFO  Main:83 - Encryption selected
+2017-03-22 11:59:50 INFO  Main:85 - Key created
+2017-03-22 11:59:56 INFO  UserOptions:262 - file path selected -s.jpg
+2017-03-22 11:59:56 INFO  Cipher:68 - s.jpg Encryption Started
+2017-03-22 11:59:56 INFO  Cipher:83 - s.jpg Encryption Finished - Total time: 4.460001 ms
+2017-03-22 12:00:22 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 12:00:22 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 12:00:22 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 12:00:22 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 12:02:08 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 12:02:11 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 12:02:11 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 12:02:11 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 12:02:17 INFO  Main:91 - Decryption selected
+2017-03-22 12:02:20 INFO  Main:125 - Key has been set
+2017-03-22 12:02:28 INFO  UserOptions:262 - file path selected -s.jpg.encrypted
+2017-03-22 12:02:28 ERROR Main:254 - 
+ Decryption failed!
+2017-03-22 12:02:28 ERROR Main:255 - 
+ null
+2017-03-22 12:08:23 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 12:08:23 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 12:08:29 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 12:08:29 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 12:08:41 INFO  UserOptions:95 - XorCipher has been selected
+2017-03-22 12:08:43 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 12:08:49 INFO  Main:83 - Encryption selected
+2017-03-22 12:08:49 INFO  Main:85 - Key created
+2017-03-22 12:08:54 INFO  UserOptions:262 - file path selected -s.jpg
+2017-03-22 12:08:55 INFO  Cipher:68 - s.jpg Encryption Started
+2017-03-22 12:08:55 INFO  Cipher:83 - s.jpg Encryption Finished - Total time: 5.430494 ms
+2017-03-22 12:08:59 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 12:08:59 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 12:09:16 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 12:09:16 INFO  JAXBCon:87 - The default Cipher is:
+2017-03-22 12:09:16 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 12:09:16 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 12:09:33 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 12:09:33 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 12:09:37 INFO  UserOptions:95 - XorCipher has been selected
+2017-03-22 12:09:40 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 12:09:42 INFO  Main:83 - Encryption selected
+2017-03-22 12:09:42 INFO  Main:85 - Key created
+2017-03-22 12:09:47 INFO  UserOptions:262 - file path selected -s.jpg
+2017-03-22 12:09:47 INFO  Cipher:68 - s.jpg Encryption Started
+2017-03-22 12:09:47 INFO  Cipher:83 - s.jpg Encryption Finished - Total time: 5.905067 ms
+2017-03-22 12:10:05 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 12:10:06 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 12:10:06 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 12:10:06 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 12:10:51 INFO  Main:91 - Decryption selected
+2017-03-22 12:11:00 INFO  Main:125 - Key has been set
+2017-03-22 12:11:06 INFO  UserOptions:262 - file path selected -s.jpg
+2017-03-22 12:11:07 ERROR Main:254 - 
+ Decryption failed!
+2017-03-22 12:11:07 ERROR Main:255 - 
+ null
+2017-03-22 12:14:04 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 12:14:04 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 12:14:04 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 12:14:04 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 12:14:09 INFO  Main:91 - Decryption selected
+2017-03-22 12:14:12 INFO  Main:125 - Key has been set
+2017-03-22 12:14:20 INFO  UserOptions:262 - file path selected -s.jpg.encrypted
+2017-03-22 12:14:20 ERROR Main:254 - 
+ Decryption failed!
+2017-03-22 12:14:20 ERROR Main:255 - 
+ null
+2017-03-22 12:15:18 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 12:15:18 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 12:15:18 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 12:15:18 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 12:15:23 INFO  Main:91 - Decryption selected
+2017-03-22 12:15:25 INFO  Main:125 - Key has been set
+2017-03-22 12:15:34 INFO  UserOptions:262 - file path selected -s.jpg.encrypted
+2017-03-22 12:15:34 ERROR Main:254 - 
+ Decryption failed!
+2017-03-22 12:15:34 ERROR Main:255 - 
+ null
+2017-03-22 12:16:59 INFO  Main:43 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 12:16:59 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 12:16:59 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 12:16:59 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 12:17:03 INFO  Main:88 - Decryption selected
+2017-03-22 12:17:05 INFO  Main:122 - Key has been set
+2017-03-22 12:17:19 INFO  UserOptions:262 - file path selected -s.jpg.encrypted
+2017-03-22 12:17:19 ERROR Main:251 - 
+ Decryption failed!
+2017-03-22 12:17:19 ERROR Main:252 - 
+ null
+2017-03-22 12:18:05 INFO  Main:44 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 12:18:06 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 12:18:06 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 12:18:06 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 12:18:09 INFO  Main:89 - Decryption selected
+2017-03-22 12:18:12 INFO  Main:123 - Key has been set
+2017-03-22 12:18:33 INFO  UserOptions:262 - file path selected -s.jpg.encrypted
+2017-03-22 12:18:33 ERROR Main:252 - 
+ Decryption failed!
+2017-03-22 12:18:33 ERROR Main:253 - 
+ null
+2017-03-22 12:19:08 INFO  Main:44 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 12:19:08 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 12:19:08 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 12:19:08 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 12:19:12 INFO  Main:89 - Decryption selected
+2017-03-22 12:19:14 INFO  Main:123 - Key has been set
+2017-03-22 12:19:21 INFO  UserOptions:262 - file path selected -s.jpg.encrypted
+2017-03-22 12:19:21 ERROR Main:252 - 
+ Decryption failed!
+2017-03-22 12:19:21 ERROR Main:253 - 
+ null
+2017-03-22 12:19:48 INFO  Main:44 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 12:19:48 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 12:19:48 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 12:19:48 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 12:19:52 INFO  Main:89 - Decryption selected
+2017-03-22 12:19:55 INFO  Main:123 - Key has been set
+2017-03-22 12:20:00 INFO  UserOptions:262 - file path selected -s.jpg.encrypted
+2017-03-22 12:20:01 ERROR Main:252 - 
+ Decryption failed!
+2017-03-22 12:20:01 ERROR Main:253 - 
+ null
+2017-03-22 12:20:41 INFO  Main:44 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 12:20:41 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 12:20:41 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 12:20:41 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 12:20:45 INFO  Main:89 - Decryption selected
+2017-03-22 12:20:47 INFO  Main:123 - Key has been set
+2017-03-22 12:20:53 INFO  UserOptions:262 - file path selected -s.jpg.encrypted
+2017-03-22 12:20:53 ERROR Main:252 - 
+ Decryption failed!
+2017-03-22 12:20:53 ERROR Main:253 - 
+ null
+2017-03-22 12:22:01 INFO  Main:44 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 12:22:01 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 12:22:01 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 12:22:01 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 12:22:04 INFO  Main:89 - Decryption selected
+2017-03-22 12:22:07 INFO  Main:123 - Key has been set
+2017-03-22 12:22:11 INFO  UserOptions:262 - file path selected -s.jpg.encrypted
+2017-03-22 12:22:11 ERROR Main:252 - 
+ Decryption failed!
+2017-03-22 12:22:11 ERROR Main:253 - 
+ Check exception
+2017-03-22 12:22:35 INFO  Main:44 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 12:22:35 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 12:22:35 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 12:22:35 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 12:22:37 INFO  Main:89 - Decryption selected
+2017-03-22 12:22:40 INFO  Main:123 - Key has been set
+2017-03-22 12:22:45 INFO  UserOptions:262 - file path selected -s.jpg.encrypted
+2017-03-22 12:22:45 ERROR Main:252 - 
+ Decryption failed!
+2017-03-22 12:22:45 ERROR Main:253 - 
+ Check exception
+2017-03-22 12:26:11 INFO  Main:44 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 12:26:11 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 12:26:11 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 12:26:11 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 12:26:14 INFO  Main:89 - Decryption selected
+2017-03-22 12:26:17 INFO  Main:123 - Key has been set
+2017-03-22 12:26:25 INFO  UserOptions:262 - file path selected -s.jpg.encrypted
+2017-03-22 12:26:25 ERROR Main:252 - 
+ Decryption failed!
+2017-03-22 12:26:25 ERROR Main:253 - 
+ Check exception
+2017-03-22 13:53:48 INFO  Main:44 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 13:53:48 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 13:53:48 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 13:53:48 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 13:53:52 INFO  Main:89 - Decryption selected
+2017-03-22 13:53:55 INFO  Main:123 - Key has been set
+2017-03-22 13:54:00 INFO  UserOptions:262 - file path selected -s.jpg.encrypted
+2017-03-22 13:54:00 INFO  Cipher:68 - s.jpg.encrypted Decryption Started
+2017-03-22 13:54:00 INFO  Cipher:83 - s.jpg.encrypted Decryption Finished - Total time: 10.074823 ms
+2017-03-22 13:55:34 INFO  Main:44 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 13:55:35 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 13:55:35 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 13:55:35 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 13:58:57 INFO  Main:44 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 13:58:57 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 13:58:57 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 13:58:57 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 13:59:01 INFO  Main:81 - Encryption selected
+2017-03-22 13:59:01 INFO  Main:83 - Key created
+2017-03-22 13:59:06 INFO  UserOptions:262 - file path selected -s.jpg
+2017-03-22 13:59:06 INFO  Cipher:68 - s.jpg Encryption Started
+2017-03-22 13:59:06 INFO  Cipher:83 - s.jpg Encryption Finished - Total time: 6.078721 ms
+2017-03-22 14:02:23 INFO  Main:44 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 14:02:23 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 14:02:23 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 14:02:23 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 14:02:26 INFO  Main:80 - Encryption selected
+2017-03-22 14:02:26 INFO  Main:82 - Key created
+2017-03-22 14:02:29 INFO  UserOptions:262 - file path selected -s.jpg
+2017-03-22 14:02:30 INFO  Cipher:68 - s.jpg Encryption Started
+2017-03-22 14:02:30 INFO  Cipher:83 - s.jpg Encryption Finished - Total time: 5.915741 ms
+2017-03-22 14:02:52 INFO  Main:44 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 14:02:53 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 14:02:53 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 14:02:53 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 14:02:55 INFO  Main:75 - Encryption selected
+2017-03-22 14:02:55 INFO  Main:77 - Key created
+2017-03-22 14:02:58 INFO  UserOptions:262 - file path selected -s.jpg
+2017-03-22 14:02:58 INFO  Cipher:68 - s.jpg Encryption Started
+2017-03-22 14:02:58 INFO  Cipher:83 - s.jpg Encryption Finished - Total time: 6.103764 ms
+2017-03-22 14:03:08 INFO  Main:44 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 14:03:08 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 14:03:08 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 14:03:08 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 14:03:11 INFO  Main:83 - Decryption selected
+2017-03-22 14:03:15 INFO  Main:117 - Key has been set
+2017-03-22 14:03:20 INFO  UserOptions:262 - file path selected -s.jpg.encrypted
+2017-03-22 14:03:21 INFO  Cipher:68 - s.jpg.encrypted Decryption Started
+2017-03-22 14:03:21 INFO  Cipher:83 - s.jpg.encrypted Decryption Finished - Total time: 7.628473 ms
+2017-03-22 14:53:12 INFO  Main:44 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 14:53:12 INFO  JAXBCon:87 - The default Cipher is:XorCipher
+2017-03-22 14:53:12 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 14:53:12 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 14:53:17 INFO  UserOptions:109 - DoubleCipher has been selected
+2017-03-22 14:53:18 INFO  UserOptions:193 - Secondary cipher - XorCipher has been selected
+2017-03-22 14:53:20 INFO  UserOptions:187 - Secondary cipher - CaesarCipher has been selected
+2017-03-22 14:53:22 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 14:53:23 INFO  Main:75 - Encryption selected
+2017-03-22 14:53:23 INFO  Main:77 - Key created
+2017-03-22 14:53:28 INFO  UserOptions:286 - folder path selected -check
+2017-03-22 14:53:30 INFO  Main:135 - Sync operation has been selected
+2017-03-22 14:53:30 INFO  Sync:53 - Sync thread has started
+2017-03-22 14:53:30 INFO  Cipher:68 - check\‏‏לכידה.JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏לכידה.JPG Encryption Finished - Total time: 13.798333 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (10).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (10).JPG Encryption Finished - Total time: 6.763075 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (11).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (11).JPG Encryption Finished - Total time: 5.998668 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (12).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (12).JPG Encryption Finished - Total time: 2.056346 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (13).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (13).JPG Encryption Finished - Total time: 2.150357 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (14).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (14).JPG Encryption Finished - Total time: 2.169241 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (15).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (15).JPG Encryption Finished - Total time: 1.40073 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (16).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (16).JPG Encryption Finished - Total time: 1.459435 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (17).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (17).JPG Encryption Finished - Total time: 2.214811 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (18).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (18).JPG Encryption Finished - Total time: 1.488993 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (19).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (19).JPG Encryption Finished - Total time: 1.921693 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (2).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (2).JPG Encryption Finished - Total time: 1.58711 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (20).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (20).JPG Encryption Finished - Total time: 1.399498 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (21).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (21).JPG Encryption Finished - Total time: 1.527583 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (22).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (22).JPG Encryption Finished - Total time: 1.713553 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (23).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (23).JPG Encryption Finished - Total time: 1.486941 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (3).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (3).JPG Encryption Finished - Total time: 3.63073 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (4).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (4).JPG Encryption Finished - Total time: 1.851081 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (5).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (5).JPG Encryption Finished - Total time: 1.913892 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (6).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (6).JPG Encryption Finished - Total time: 1.352698 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (7).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (7).JPG Encryption Finished - Total time: 1.90486 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (8).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (8).JPG Encryption Finished - Total time: 1.550162 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (9).JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (9).JPG Encryption Finished - Total time: 1.7115 ms
+2017-03-22 14:53:31 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק.JPG Encryption Started
+2017-03-22 14:53:31 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק.JPG Encryption Finished - Total time: 1.491456 ms
+2017-03-22 14:53:31 INFO  Sync:65 - Sync thread has finished- Total time: 150.423216 ms
+2017-03-22 14:53:31 INFO  Main:137 - Sync operation has been finished
+2017-03-22 14:53:35 INFO  Main:44 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 14:53:35 INFO  JAXBCon:87 - The default Cipher is:DoubleCipher
+2017-03-22 14:53:35 INFO  JAXBCon:92 - Secondary Cipher 1 XorCipher
+2017-03-22 14:53:35 INFO  JAXBCon:97 - Secondary Cipher 2 CaesarCipher
+2017-03-22 14:53:35 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 14:53:35 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 14:53:43 INFO  Main:83 - Decryption selected
+2017-03-22 14:53:46 INFO  Main:119 - Key has been set
+2017-03-22 14:53:54 INFO  UserOptions:286 - folder path selected -check\encrypted
+2017-03-22 14:53:57 INFO  Main:144 - ASync operation has been selected
+2017-03-22 14:53:57 INFO  Async:33 - Async operation has started
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (11).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (10).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (12).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏לכידה.JPG.encrypted Decryption Started
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (11).JPG.encrypted Decryption Finished - Total time: 94.21177 ms
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (12).JPG.encrypted Decryption Finished - Total time: 90.849526 ms
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏לכידה.JPG.encrypted Decryption Finished - Total time: 89.131457 ms
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (10).JPG.encrypted Decryption Finished - Total time: 93.790976 ms
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (14).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (13).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (14).JPG.encrypted Decryption Finished - Total time: 11.01658 ms
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (13).JPG.encrypted Decryption Finished - Total time: 12.008421 ms
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (15).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (16).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (15).JPG.encrypted Decryption Finished - Total time: 9.481196 ms
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (16).JPG.encrypted Decryption Finished - Total time: 10.787504 ms
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (17).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (18).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (19).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (17).JPG.encrypted Decryption Finished - Total time: 13.277781 ms
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (2).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (19).JPG.encrypted Decryption Finished - Total time: 12.148001 ms
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (20).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (20).JPG.encrypted Decryption Finished - Total time: 16.194598 ms
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (21).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (2).JPG.encrypted Decryption Finished - Total time: 53.030247 ms
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (22).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (21).JPG.encrypted Decryption Finished - Total time: 34.329772 ms
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (18).JPG.encrypted Decryption Finished - Total time: 76.160344 ms
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (23).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (3).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (22).JPG.encrypted Decryption Finished - Total time: 24.808754 ms
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (23).JPG.encrypted Decryption Finished - Total time: 23.856735 ms
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (3).JPG.encrypted Decryption Finished - Total time: 15.493001 ms
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (4).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (5).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (5).JPG.encrypted Decryption Finished - Total time: 6.343514 ms
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (4).JPG.encrypted Decryption Finished - Total time: 15.533233 ms
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (6).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (7).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (7).JPG.encrypted Decryption Finished - Total time: 8.867043 ms
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (8).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (6).JPG.encrypted Decryption Finished - Total time: 24.10798 ms
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (8).JPG.encrypted Decryption Finished - Total time: 13.312675 ms
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (9).JPG.encrypted Decryption Started
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק.JPG.encrypted Decryption Started
+2017-03-22 14:53:57 ERROR AsyncThread:112 - 
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+ Decryption has failed
+2017-03-22 14:53:57 ERROR AsyncThread:113 - 
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+ Index: 1, Size: 1
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק.JPG.encrypted Decryption Finished - Total time: 9.699188 ms
+2017-03-22 14:53:57 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (9).JPG.encrypted Decryption Finished - Total time: 14.195316 ms
+2017-03-22 14:53:57 INFO  Async:107 - Async operation has Finished - Total time: 348.00938 ms
+2017-03-22 14:53:57 INFO  Main:159 - ASync operation has been finished
+2017-03-22 14:56:32 INFO  Main:44 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 14:56:32 INFO  JAXBCon:87 - The default Cipher is:DoubleCipher
+2017-03-22 14:56:32 INFO  JAXBCon:92 - Secondary Cipher 1 XorCipher
+2017-03-22 14:56:32 INFO  JAXBCon:97 - Secondary Cipher 2 CaesarCipher
+2017-03-22 14:56:32 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 14:56:32 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 14:56:37 INFO  Main:83 - Decryption selected
+2017-03-22 14:56:42 INFO  Main:119 - Key has been set
+2017-03-22 14:56:50 INFO  UserOptions:286 - folder path selected -check\encrypted
+2017-03-22 14:56:51 INFO  Main:144 - ASync operation has been selected
+2017-03-22 14:56:51 INFO  Async:33 - Async operation has started
+2017-03-22 14:56:51 INFO  Cipher:68 - check\encrypted\‏‏לכידה.JPG.encrypted Decryption Started
+2017-03-22 14:56:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (10).JPG.encrypted Decryption Started
+2017-03-22 14:56:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (12).JPG.encrypted Decryption Started
+2017-03-22 14:56:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (10).JPG.encrypted Decryption Finished - Total time: 20.292922 ms
+2017-03-22 14:56:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (11).JPG.encrypted Decryption Started
+2017-03-22 14:56:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (11).JPG.encrypted Decryption Finished - Total time: 11.037927 ms
+2017-03-22 14:56:51 INFO  Cipher:83 - check\encrypted\‏‏לכידה.JPG.encrypted Decryption Finished - Total time: 26.856069 ms
+2017-03-22 14:56:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (12).JPG.encrypted Decryption Finished - Total time: 29.685033 ms
+2017-03-22 14:56:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (14).JPG.encrypted Decryption Started
+2017-03-22 14:56:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (13).JPG.encrypted Decryption Started
+2017-03-22 14:56:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (14).JPG.encrypted Decryption Finished - Total time: 1.729564 ms
+2017-03-22 14:56:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (15).JPG.encrypted Decryption Started
+2017-03-22 14:56:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (13).JPG.encrypted Decryption Finished - Total time: 2.076872 ms
+2017-03-22 14:56:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (15).JPG.encrypted Decryption Finished - Total time: 1.851902 ms
+2017-03-22 14:56:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (16).JPG.encrypted Decryption Started
+2017-03-22 14:56:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (16).JPG.encrypted Decryption Finished - Total time: 2.072767 ms
+2017-03-22 14:56:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (17).JPG.encrypted Decryption Started
+2017-03-22 14:56:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (17).JPG.encrypted Decryption Finished - Total time: 2.989071 ms
+2017-03-22 14:56:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (18).JPG.encrypted Decryption Started
+2017-03-22 14:56:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (18).JPG.encrypted Decryption Finished - Total time: 1.259507 ms
+2017-03-22 14:56:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (19).JPG.encrypted Decryption Started
+2017-03-22 14:56:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (19).JPG.encrypted Decryption Finished - Total time: 1.41674 ms
+2017-03-22 14:56:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (2).JPG.encrypted Decryption Started
+2017-03-22 14:56:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (2).JPG.encrypted Decryption Finished - Total time: 1.21517 ms
+2017-03-22 14:56:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (20).JPG.encrypted Decryption Started
+2017-03-22 14:56:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (20).JPG.encrypted Decryption Finished - Total time: 1.27018 ms
+2017-03-22 14:56:51 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (21).JPG.encrypted Decryption Started
+2017-03-22 14:56:51 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (21).JPG.encrypted Decryption Finished - Total time: 1.690153 ms
+2017-03-22 14:56:52 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (22).JPG.encrypted Decryption Started
+2017-03-22 14:56:52 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (23).JPG.encrypted Decryption Started
+2017-03-22 14:56:52 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (22).JPG.encrypted Decryption Finished - Total time: 1.342434 ms
+2017-03-22 14:56:52 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (3).JPG.encrypted Decryption Started
+2017-03-22 14:56:52 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (23).JPG.encrypted Decryption Finished - Total time: 1.468466 ms
+2017-03-22 14:56:52 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (3).JPG.encrypted Decryption Finished - Total time: 1.580541 ms
+2017-03-22 14:56:52 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (4).JPG.encrypted Decryption Started
+2017-03-22 14:56:52 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (5).JPG.encrypted Decryption Started
+2017-03-22 14:56:52 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (4).JPG.encrypted Decryption Finished - Total time: 1.398677 ms
+2017-03-22 14:56:52 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (5).JPG.encrypted Decryption Finished - Total time: 1.820702 ms
+2017-03-22 14:56:52 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (6).JPG.encrypted Decryption Started
+2017-03-22 14:56:52 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (6).JPG.encrypted Decryption Finished - Total time: 1.27675 ms
+2017-03-22 14:56:52 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (7).JPG.encrypted Decryption Started
+2017-03-22 14:56:52 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (7).JPG.encrypted Decryption Finished - Total time: 1.421667 ms
+2017-03-22 14:56:52 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (8).JPG.encrypted Decryption Started
+2017-03-22 14:56:52 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (8).JPG.encrypted Decryption Finished - Total time: 1.330529 ms
+2017-03-22 14:56:52 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (9).JPG.encrypted Decryption Started
+2017-03-22 14:56:52 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק.JPG.encrypted Decryption Started
+2017-03-22 14:56:52 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (9).JPG.encrypted Decryption Finished - Total time: 1.238159 ms
+2017-03-22 14:56:52 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק.JPG.encrypted Decryption Finished - Total time: 1.279623 ms
+2017-03-22 14:56:52 INFO  Async:107 - Async operation has Finished - Total time: 132.183356 ms
+2017-03-22 14:56:52 INFO  Main:159 - ASync operation has been finished
+2017-03-22 15:00:09 INFO  Main:44 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 15:00:09 INFO  JAXBCon:87 - The default Cipher is:DoubleCipher
+2017-03-22 15:00:09 INFO  JAXBCon:92 - Secondary Cipher 1 XorCipher
+2017-03-22 15:00:09 INFO  JAXBCon:97 - Secondary Cipher 2 CaesarCipher
+2017-03-22 15:00:09 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 15:00:09 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 15:00:32 INFO  Main:44 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 15:00:32 INFO  JAXBCon:87 - The default Cipher is:DoubleCipher
+2017-03-22 15:00:32 INFO  JAXBCon:92 - Secondary Cipher 1 XorCipher
+2017-03-22 15:00:32 INFO  JAXBCon:97 - Secondary Cipher 2 CaesarCipher
+2017-03-22 15:00:32 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 15:00:32 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 15:00:40 INFO  Main:75 - Encryption selected
+2017-03-22 15:00:40 INFO  Main:77 - Key created
+2017-03-22 15:00:47 INFO  UserOptions:286 - folder path selected -check
+2017-03-22 15:00:49 INFO  Main:135 - Sync operation has been selected
+2017-03-22 15:00:49 INFO  Sync:53 - Sync thread has started
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏לכידה.JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏לכידה.JPG Encryption Finished - Total time: 13.668194 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (10).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (10).JPG Encryption Finished - Total time: 4.126239 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (11).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (11).JPG Encryption Finished - Total time: 7.546367 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (12).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (12).JPG Encryption Finished - Total time: 2.403244 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (13).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (13).JPG Encryption Finished - Total time: 1.250475 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (14).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (14).JPG Encryption Finished - Total time: 1.374045 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (15).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (15).JPG Encryption Finished - Total time: 1.159337 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (16).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (16).JPG Encryption Finished - Total time: 1.770207 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (17).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (17).JPG Encryption Finished - Total time: 2.435676 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (18).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (18).JPG Encryption Finished - Total time: 1.457383 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (19).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (19).JPG Encryption Finished - Total time: 1.245549 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (2).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (2).JPG Encryption Finished - Total time: 1.622416 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (20).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (20).JPG Encryption Finished - Total time: 1.182738 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (21).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (21).JPG Encryption Finished - Total time: 1.388413 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (22).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (22).JPG Encryption Finished - Total time: 1.640889 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (23).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (23).JPG Encryption Finished - Total time: 1.620363 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (3).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (3).JPG Encryption Finished - Total time: 1.699185 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (4).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (4).JPG Encryption Finished - Total time: 1.241443 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (5).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (5).JPG Encryption Finished - Total time: 1.249244 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (6).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (6).JPG Encryption Finished - Total time: 1.206549 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (7).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (7).JPG Encryption Finished - Total time: 1.37774 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (8).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (8).JPG Encryption Finished - Total time: 1.682353 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק (9).JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק (9).JPG Encryption Finished - Total time: 1.35516 ms
+2017-03-22 15:00:49 INFO  Cipher:68 - check\‏‏‏‏לכידה - עותק.JPG Encryption Started
+2017-03-22 15:00:49 INFO  Cipher:83 - check\‏‏‏‏לכידה - עותק.JPG Encryption Finished - Total time: 1.136348 ms
+2017-03-22 15:00:49 INFO  Sync:65 - Sync thread has finished- Total time: 102.3415 ms
+2017-03-22 15:00:49 INFO  Main:137 - Sync operation has been finished
+2017-03-22 15:00:53 INFO  Main:44 - ----------------------------------------New RUN-------------------------------------------
+2017-03-22 15:00:53 INFO  JAXBCon:87 - The default Cipher is:DoubleCipher
+2017-03-22 15:00:53 INFO  JAXBCon:92 - Secondary Cipher 1 XorCipher
+2017-03-22 15:00:53 INFO  JAXBCon:97 - Secondary Cipher 2 CaesarCipher
+2017-03-22 15:00:53 INFO  JAXBCon:100 - Config.xml has been read succesfully
+2017-03-22 15:00:53 INFO  JAXBCon:58 - Config.xml has been updated Succesfully
+2017-03-22 15:01:06 INFO  Main:83 - Decryption selected
+2017-03-22 15:01:11 INFO  Main:119 - Key has been set
+2017-03-22 15:01:16 INFO  UserOptions:286 - folder path selected -check\encrypted
+2017-03-22 15:01:18 INFO  Main:144 - ASync operation has been selected
+2017-03-22 15:01:18 INFO  Async:33 - Async operation has started
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (10).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (12).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (11).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏לכידה.JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏לכידה.JPG.encrypted Decryption Finished - Total time: 22.25033 ms
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (10).JPG.encrypted Decryption Finished - Total time: 27.705867 ms
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (12).JPG.encrypted Decryption Finished - Total time: 28.913647 ms
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (13).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (13).JPG.encrypted Decryption Finished - Total time: 2.55555 ms
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (14).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (11).JPG.encrypted Decryption Finished - Total time: 44.641471 ms
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (14).JPG.encrypted Decryption Finished - Total time: 2.659826 ms
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (15).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (15).JPG.encrypted Decryption Finished - Total time: 1.80346 ms
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (16).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (17).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (16).JPG.encrypted Decryption Finished - Total time: 1.646226 ms
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (17).JPG.encrypted Decryption Finished - Total time: 1.954124 ms
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (18).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (18).JPG.encrypted Decryption Finished - Total time: 1.1774 ms
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (2).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (19).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (2).JPG.encrypted Decryption Finished - Total time: 1.169601 ms
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (19).JPG.encrypted Decryption Finished - Total time: 1.357623 ms
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (20).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (21).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (20).JPG.encrypted Decryption Finished - Total time: 1.147432 ms
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (21).JPG.encrypted Decryption Finished - Total time: 1.137579 ms
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (22).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (23).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (22).JPG.encrypted Decryption Finished - Total time: 1.292349 ms
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (3).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (23).JPG.encrypted Decryption Finished - Total time: 1.466825 ms
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (3).JPG.encrypted Decryption Finished - Total time: 1.358855 ms
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (4).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (5).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (4).JPG.encrypted Decryption Finished - Total time: 1.143737 ms
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (5).JPG.encrypted Decryption Finished - Total time: 1.413866 ms
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (6).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (6).JPG.encrypted Decryption Finished - Total time: 1.326012 ms
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (7).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (7).JPG.encrypted Decryption Finished - Total time: 1.251706 ms
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (8).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק (9).JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (8).JPG.encrypted Decryption Finished - Total time: 1.326013 ms
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק (9).JPG.encrypted Decryption Finished - Total time: 1.461488 ms
+2017-03-22 15:01:18 INFO  Cipher:68 - check\encrypted\‏‏‏‏לכידה - עותק.JPG.encrypted Decryption Started
+2017-03-22 15:01:18 INFO  Cipher:83 - check\encrypted\‏‏‏‏לכידה - עותק.JPG.encrypted Decryption Finished - Total time: 1.883513 ms
+2017-03-22 15:01:18 INFO  Async:107 - Async operation has Finished - Total time: 107.602446 ms
+2017-03-22 15:01:18 INFO  Main:159 - ASync operation has been finished

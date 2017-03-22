@@ -52,7 +52,7 @@ public class Sync {
 		
 		log.info("Sync thread has started");
 		
-			te.run();
+			te.start();
 		
 		
 		if (option.equals(EnumCipher.Encryption))

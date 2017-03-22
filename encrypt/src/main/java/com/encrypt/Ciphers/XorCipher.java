@@ -8,13 +8,13 @@ public class XorCipher extends Cipher{
 	public byte[] encrypt()
 	{
 	
-		start("Encryption");
+		
 		for(int i=0 ; i < input.length ; i++)
 		{
 			input[i] = (byte)(((int)input[i])  ^ ((int)this.getKey()));
 		}
 		 
-		End("Encryption");
+		
 		return input;
 	}
 
@@ -23,12 +23,12 @@ public class XorCipher extends Cipher{
 	{
 		byte[] temp = input;
 		
-		start("Decryption");
+		
 		for(int i=0 ; i < input.length ; i++)
 		{
 			temp[i] = (byte)(((int)input[i])  ^ ((int)this.getKey()));
 		}
-		End("Decryption");
+		
 		
 		output = temp ; 
 		return (new String(output));

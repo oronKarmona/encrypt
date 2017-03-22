@@ -31,7 +31,7 @@ public class SplitCipher extends AbstractDouble{
 		Cipher c = ciphers.get(0);
 		int odd_index = 0 , even_index = 0 ;
 		int odd_ctr = 0 , even_ctr = 0 ; 
-		start("Encryption");
+		
 		//counting odds and evens 
 		for(int i=0 ; i<input.length ; i++)
 		{
@@ -71,7 +71,7 @@ public class SplitCipher extends AbstractDouble{
 					else
 						input[i] = even[even_index++];
 				}
-	    End("Encryption");
+	  
 		return input;
 	}
 
@@ -82,7 +82,7 @@ public class SplitCipher extends AbstractDouble{
 		int odd_index = 0 , even_index = 0 ;
 		int odd_ctr = 0 , even_ctr = 0 ; 
 		
-		start("Decryption");
+		
 		//counting odds and evens 
 		for(int i=0 ; i<input.length ; i++)
 		{
@@ -128,7 +128,7 @@ public class SplitCipher extends AbstractDouble{
 		
        output = input ; 
        String out = new String(output);
-		End("Decryption");
+	
        return out;
 		
 	}
