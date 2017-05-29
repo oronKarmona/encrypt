@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><Cipher>
-    <m_cipher>DoubleCipher</m_cipher>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Cipher>
+    <m_cipher>ReverseCipher</m_cipher>
     <s_cipher1>XorCipher</s_cipher1>
-    <s_cipher2>CaesarCipher</s_cipher2>
-<details><result>Success</result><opertaion>decryption</opertaion><path>check\decrypted</path><time>107.602446 ms</time><exceptionName/><exceptionMsg/><exceptionStackTrace/></details></Cipher>
+    <s_cipher2></s_cipher2>
+</Cipher>

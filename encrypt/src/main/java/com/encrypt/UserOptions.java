@@ -278,7 +278,10 @@ public int to_integer(String input)
 			
 				f = new File(path);
 				if(!f.exists())
+				{
+					System.out.println("Folder " + path + " doesn't exist");
 					status = false ;
+				}
 				else 
 					status = true;
 		}

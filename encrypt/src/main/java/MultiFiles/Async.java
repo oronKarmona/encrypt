@@ -57,11 +57,14 @@ public class Async {
 			max = 3;
 		
 		else // 4 or more files
-			max = 4;
+			max = Runtime.getRuntime().availableProcessors(); // Number of thread as for the Number of running units in the PC's hardware
 		
 		String target = null; 
 		sync = max;
 		String action = "";
+		
+		// setting folders for encryption or decryption
+		
 		if (option.equals(EnumCipher.Encryption))
 		{
 			new File(folder.getAbsolutePath()+"\\encrypted").mkdir();
@@ -78,6 +81,7 @@ public class Async {
 
 		}
 		
+		//Setting the initial files for the threads 
 		for(int i = 0 ; i < max; i++)
 		{
 			Cipher temp = (Cipher) c.clone();
@@ -92,7 +96,7 @@ public class Async {
 				
 				((AbstractDouble)temp).setCiphers(c_ciphers);
 			}
-			at.add(new AsyncThread(listOfFiles.remove(i-i),temp,target , option ,folder ));
+			at.add(new AsyncThread(listOfFiles.remove(0),temp,target , option ,folder ));
 		}
 		
 		for(AsyncThread t : at)

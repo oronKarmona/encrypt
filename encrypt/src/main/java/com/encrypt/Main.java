@@ -35,21 +35,26 @@ public static void main(String[] args)
 	int result;
 	byte[] data = null;
 	boolean s_result ;
-	
+	Cipher algorithm = null;
 	ErrorMSG.msg = "";
 	ErrorMSG.ecxeption = "";
 	
 	
 	final Logger log = Logger.getLogger(Main.class);
 	log.info("----------------------------------------New RUN-------------------------------------------");
-	//Retrieving the default cipher
-	Cipher algorithm = JAXBCon.unmarshall();
-	//Cipher algorithm = null ;
-	JAXBCon.MarshallCipher(algorithm);
-
-
-	//default cipher or not
-	s_result = uo.defaultOrNot();
+	try{
+		//Retrieving the default cipher
+		 algorithm = JAXBCon.unmarshall();
+		//Cipher algorithm = null ;
+		JAXBCon.MarshallCipher(algorithm);
+		//default cipher or not
+		s_result = uo.defaultOrNot();
+		
+	}catch(Exception e)
+	{
+		s_result = false;
+	}
+	
 	
 	if(!s_result) // if the user wants cipher the is not the default
 	{
@@ -80,7 +85,7 @@ public static void main(String[] args)
 	//key request in case of decryption
 	else if (option.equals(EnumCipher.Decryption))
 	{
-		log.info("Decryption selected");
+		  log.info("Decryption selected");
 		  System.out.println("Enter key path:");
 		  ArrayList<Byte> keys = new ArrayList<Byte>() ; 
 		  byte[] k = null;
